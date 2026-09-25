@@ -1,0 +1,35 @@
+[
+  {
+    "id": "chuo-takaido-hachioji",
+    "road_name": "中央自動車道",
+    "start": "高井戸IC",
+    "end": "八王子IC",
+    "section_type": "METROPOLITAN",
+    "source": "https://dc2.c-nexco.co.jp/etc/discount/etc/chuodo/",
+    "title": "NEXCO中日本 E20 中央道（八王子～高井戸）の料金について",
+    "reviewed_on": "2026-09-25",
+    "notes": "大都市部区間の料金水準。OSM分岐点を境界として使用し、公式営業距離やETC料金を再現するものではない。"
+  },
+  {
+    "id": "chuo-chofu-hachioji",
+    "road_name": "中央自動車道",
+    "start": "調布IC",
+    "end": "八王子IC",
+    "section_type": "METROPOLITAN",
+    "source": "https://dc2.c-nexco.co.jp/etc/discount/etc/chuodo/",
+    "title": "NEXCO中日本 E20 中央道（八王子～高井戸）の料金について",
+    "reviewed_on": "2026-09-25",
+    "notes": "同じ公式ページの八王子～調布の料金例で確認できる内側区間。高井戸の反対車線境界を推測せず、調布までに限定して適用。"
+  },
+  {
+    "id": "chuo-hachioji-uenohara",
+    "road_name": "中央自動車道",
+    "start": "八王子IC",
+    "end": "上野原IC",
+    "section_type": "NORMAL",
+    "source": "https://dc2.c-nexco.co.jp/etc/discount/etc/chuodo/",
+    "title": "NEXCO中日本 E20 中央道（八王子～高井戸）の料金について・上野原～調布料金例",
+    "reviewed_on": "2026-09-25",
+    "notes": "八王子以西は普通区間との記載と上野原までの例示を根拠に、範囲を上野原までに限定。以西へは自動延長しない。"
+  }
+]

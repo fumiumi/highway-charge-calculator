@@ -1,0 +1,7142 @@
+[
+  {
+    "id": 4509557,
+    "from_way": 323666964,
+    "to_way": 323666964,
+    "via_node": 3304405392,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 4509558,
+    "from_way": 323666964,
+    "to_way": 323666958,
+    "via_node": 3304405392,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 4509559,
+    "from_way": 323666965,
+    "to_way": 323666965,
+    "via_node": 3304405392,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 4509560,
+    "from_way": 323666966,
+    "to_way": 323666965,
+    "via_node": 3304405409,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 4509561,
+    "from_way": 323666965,
+    "to_way": 323666965,
+    "via_node": 3304405409,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 4509562,
+    "from_way": 323666956,
+    "to_way": 323666956,
+    "via_node": 3304405409,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 4509563,
+    "from_way": 323666958,
+    "to_way": 323666970,
+    "via_node": 3304405400,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 4509564,
+    "from_way": 323666961,
+    "to_way": 323666961,
+    "via_node": 3304405400,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 4809600,
+    "from_way": 60870188,
+    "to_way": 339381352,
+    "via_node": 2195382272,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5588241,
+    "from_way": 375478348,
+    "to_way": 351339836,
+    "via_node": 2785104882,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6448252,
+    "from_way": 434944289,
+    "to_way": 434944290,
+    "via_node": 3578384614,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6580845,
+    "from_way": 127921234,
+    "to_way": 443740928,
+    "via_node": 1414713561,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 6690788,
+    "from_way": 443739927,
+    "to_way": 443739926,
+    "via_node": 1308225341,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 6699910,
+    "from_way": 360368636,
+    "to_way": 452225661,
+    "via_node": 676624205,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6699911,
+    "from_way": 150794099,
+    "to_way": 452225661,
+    "via_node": 1636700201,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6711782,
+    "from_way": 477152679,
+    "to_way": 938734727,
+    "via_node": 752415049,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6760789,
+    "from_way": 129634011,
+    "to_way": 457620504,
+    "via_node": 1430166433,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 7012633,
+    "from_way": 477255771,
+    "to_way": 477255776,
+    "via_node": 2604149073,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7014734,
+    "from_way": 376547563,
+    "to_way": 176332866,
+    "via_node": 1386802838,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7014778,
+    "from_way": 376529358,
+    "to_way": 376529358,
+    "via_node": 1386851748,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7014779,
+    "from_way": 376529358,
+    "to_way": 176332857,
+    "via_node": 1386851748,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7017212,
+    "from_way": 490322211,
+    "to_way": 477255761,
+    "via_node": 2604149086,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7017213,
+    "from_way": 490322211,
+    "to_way": 476485991,
+    "via_node": 2604149086,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7017215,
+    "from_way": 477255760,
+    "to_way": 477555184,
+    "via_node": 5527369700,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7017216,
+    "from_way": 477555280,
+    "to_way": 477555280,
+    "via_node": 2604149093,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7017217,
+    "from_way": 477555280,
+    "to_way": 477255762,
+    "via_node": 2604149093,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183171,
+    "from_way": 1212256537,
+    "to_way": 434868146,
+    "via_node": 505185217,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183173,
+    "from_way": 1148136859,
+    "to_way": 439254031,
+    "via_node": 737217195,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183174,
+    "from_way": 1202034240,
+    "to_way": 443725341,
+    "via_node": 911661573,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7183181,
+    "from_way": 448169031,
+    "to_way": 461900432,
+    "via_node": 4452040182,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183182,
+    "from_way": 1480631069,
+    "to_way": 1480631068,
+    "via_node": 4812389879,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183213,
+    "from_way": 311244460,
+    "to_way": 488953793,
+    "via_node": 3168362697,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183217,
+    "from_way": 428688944,
+    "to_way": 488953922,
+    "via_node": 4452639387,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183219,
+    "from_way": 303436379,
+    "to_way": 263355971,
+    "via_node": 2489751380,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183220,
+    "from_way": 449073653,
+    "to_way": 488954127,
+    "via_node": 2216550954,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183222,
+    "from_way": 115714632,
+    "to_way": 94149210,
+    "via_node": 414121846,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183224,
+    "from_way": 194560192,
+    "to_way": 94135585,
+    "via_node": 253111940,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184903,
+    "from_way": 1231739570,
+    "to_way": 477255741,
+    "via_node": 1354788950,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7204558,
+    "from_way": 490444100,
+    "to_way": 77462009,
+    "via_node": 911756511,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7204559,
+    "from_way": 490444100,
+    "to_way": 490444100,
+    "via_node": 911756511,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7204575,
+    "from_way": 475478431,
+    "to_way": 490444100,
+    "via_node": 4826264061,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7205278,
+    "from_way": 1369772869,
+    "to_way": 146849820,
+    "via_node": 299406288,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7206201,
+    "from_way": 907993337,
+    "to_way": 907993336,
+    "via_node": 7165103081,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7206244,
+    "from_way": 351339841,
+    "to_way": 273688088,
+    "via_node": 2785104957,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7210448,
+    "from_way": 477238617,
+    "to_way": 477151141,
+    "via_node": 3196964360,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7295022,
+    "from_way": 339069029,
+    "to_way": 496892341,
+    "via_node": 4885433199,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7295077,
+    "from_way": 496902111,
+    "to_way": 315732837,
+    "via_node": 4885508179,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7295103,
+    "from_way": 315732837,
+    "to_way": 496902111,
+    "via_node": 4885520910,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7295106,
+    "from_way": 376275805,
+    "to_way": 62185562,
+    "via_node": 661083822,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7296352,
+    "from_way": 477444994,
+    "to_way": 497001130,
+    "via_node": 3799407241,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7296610,
+    "from_way": 131874988,
+    "to_way": 131860942,
+    "via_node": 304028482,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7296687,
+    "from_way": 757487319,
+    "to_way": 234957444,
+    "via_node": 2430728520,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7297037,
+    "from_way": 477395075,
+    "to_way": 497111909,
+    "via_node": 304706609,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7297086,
+    "from_way": 183089740,
+    "to_way": 477487035,
+    "via_node": 1976125277,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7338332,
+    "from_way": 937946713,
+    "to_way": 453466617,
+    "via_node": 4501978596,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7339976,
+    "from_way": 115910964,
+    "to_way": 217981764,
+    "via_node": 4237502773,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 7339977,
+    "from_way": 115910964,
+    "to_way": 424304072,
+    "via_node": 4237502773,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7339978,
+    "from_way": 115910964,
+    "to_way": 115910964,
+    "via_node": 4237502773,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7340131,
+    "from_way": 1453308706,
+    "to_way": 1453308705,
+    "via_node": 610742040,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7340157,
+    "from_way": 424989279,
+    "to_way": 501395349,
+    "via_node": 610741031,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7456973,
+    "from_way": 236977675,
+    "to_way": 236977708,
+    "via_node": 2449310401,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7457405,
+    "from_way": 225855394,
+    "to_way": 225855392,
+    "via_node": 2346721888,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7560347,
+    "from_way": 130423534,
+    "to_way": 514043839,
+    "via_node": 1436480392,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 7560348,
+    "from_way": 160105558,
+    "to_way": 130423511,
+    "via_node": 1436478144,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 7759216,
+    "from_way": 514140939,
+    "to_way": 311851801,
+    "via_node": 2346564219,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7759228,
+    "from_way": 514139737,
+    "to_way": 444696046,
+    "via_node": 3267028715,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7759229,
+    "from_way": 514139737,
+    "to_way": 514139737,
+    "via_node": 3267028715,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7759230,
+    "from_way": 542817267,
+    "to_way": 225855384,
+    "via_node": 5023754455,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7759231,
+    "from_way": 542817267,
+    "to_way": 542817267,
+    "via_node": 5023754455,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 9440547,
+    "from_way": 156280205,
+    "to_way": 680120032,
+    "via_node": 1685515790,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 9712268,
+    "from_way": 1313716394,
+    "to_way": 156576745,
+    "via_node": 1581075754,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 9921935,
+    "from_way": 713855914,
+    "to_way": 713855912,
+    "via_node": 4388614196,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 9921936,
+    "from_way": 453505867,
+    "to_way": 26499573,
+    "via_node": 6711492793,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10089228,
+    "from_way": 729267180,
+    "to_way": 729267179,
+    "via_node": 309864553,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 10089229,
+    "from_way": 729267168,
+    "to_way": 729267179,
+    "via_node": 6832353543,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 10378194,
+    "from_way": 234957465,
+    "to_way": 753169840,
+    "via_node": 2430728491,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10378195,
+    "from_way": 234957463,
+    "to_way": 234957456,
+    "via_node": 2430728491,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563433,
+    "from_way": 762100193,
+    "to_way": 762100194,
+    "via_node": 7120343881,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563434,
+    "from_way": 762100192,
+    "to_way": 762100196,
+    "via_node": 7120343875,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563437,
+    "from_way": 762100198,
+    "to_way": 762100200,
+    "via_node": 7120343874,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563438,
+    "from_way": 762100200,
+    "to_way": 762100205,
+    "via_node": 7120343875,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563439,
+    "from_way": 762100194,
+    "to_way": 762100201,
+    "via_node": 7120343874,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563440,
+    "from_way": 762100199,
+    "to_way": 762100203,
+    "via_node": 7120343882,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563441,
+    "from_way": 762100203,
+    "to_way": 762100202,
+    "via_node": 7120343881,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10563442,
+    "from_way": 762100196,
+    "to_way": 762100204,
+    "via_node": 7120343882,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10566766,
+    "from_way": 762086033,
+    "to_way": 762100195,
+    "via_node": 7120343881,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10566767,
+    "from_way": 762086034,
+    "to_way": 762100197,
+    "via_node": 7120343875,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10594476,
+    "from_way": 763602006,
+    "to_way": 763602003,
+    "via_node": 1782417477,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 10594479,
+    "from_way": 166809060,
+    "to_way": 763602007,
+    "via_node": 1782417476,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 10600333,
+    "from_way": 718025387,
+    "to_way": 157213293,
+    "via_node": 841648855,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 10600336,
+    "from_way": 764257709,
+    "to_way": 157213293,
+    "via_node": 841648855,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 10606099,
+    "from_way": 315102264,
+    "to_way": 764682597,
+    "via_node": 7143798472,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10606102,
+    "from_way": 315102266,
+    "to_way": 764682601,
+    "via_node": 3211935370,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10606104,
+    "from_way": 315102261,
+    "to_way": 764684034,
+    "via_node": 7143811461,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10606106,
+    "from_way": 315102262,
+    "to_way": 764684037,
+    "via_node": 3211935227,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10624386,
+    "from_way": 383995442,
+    "to_way": 766340070,
+    "via_node": 7157290244,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10624387,
+    "from_way": 766340070,
+    "to_way": 766340073,
+    "via_node": 5440061840,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10659975,
+    "from_way": 371400743,
+    "to_way": 678345386,
+    "via_node": 6326796607,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10659976,
+    "from_way": 678345386,
+    "to_way": 678345385,
+    "via_node": 6326796607,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10659977,
+    "from_way": 678345885,
+    "to_way": 678345884,
+    "via_node": 6326829998,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10659978,
+    "from_way": 124670049,
+    "to_way": 678345885,
+    "via_node": 6326829998,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10713841,
+    "from_way": 622535671,
+    "to_way": 622535670,
+    "via_node": 5880197756,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10713842,
+    "from_way": 622535670,
+    "to_way": 622535678,
+    "via_node": 5880197756,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10713843,
+    "from_way": 772642996,
+    "to_way": 622535670,
+    "via_node": 6853046032,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10713844,
+    "from_way": 622535670,
+    "to_way": 622535670,
+    "via_node": 6853046032,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10713845,
+    "from_way": 731816940,
+    "to_way": 772642998,
+    "via_node": 6853046030,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 10713846,
+    "from_way": 772642996,
+    "to_way": 772642998,
+    "via_node": 6853046031,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 10719269,
+    "from_way": 773058298,
+    "to_way": 514094669,
+    "via_node": 7164262842,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719270,
+    "from_way": 773058297,
+    "to_way": 514094669,
+    "via_node": 7164262842,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719271,
+    "from_way": 514094669,
+    "to_way": 773058297,
+    "via_node": 7164262842,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719272,
+    "from_way": 767306500,
+    "to_way": 773058298,
+    "via_node": 7164262849,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719273,
+    "from_way": 767306501,
+    "to_way": 773058299,
+    "via_node": 7164262849,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719274,
+    "from_way": 773058300,
+    "to_way": 773058297,
+    "via_node": 7164262840,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719275,
+    "from_way": 773058297,
+    "to_way": 773058297,
+    "via_node": 7164262840,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10719276,
+    "from_way": 773058303,
+    "to_way": 773058303,
+    "via_node": 5023519332,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10719277,
+    "from_way": 773058304,
+    "to_way": 773058303,
+    "via_node": 5023519332,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719278,
+    "from_way": 765139038,
+    "to_way": 773058304,
+    "via_node": 7164262830,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719279,
+    "from_way": 514095954,
+    "to_way": 773058304,
+    "via_node": 7164262830,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10719280,
+    "from_way": 773058304,
+    "to_way": 514095954,
+    "via_node": 7164262830,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10731877,
+    "from_way": 764840915,
+    "to_way": 774871207,
+    "via_node": 6466197908,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10731878,
+    "from_way": 689280889,
+    "to_way": 774871206,
+    "via_node": 6466197908,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10731879,
+    "from_way": 514077165,
+    "to_way": 689280904,
+    "via_node": 5023358522,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10731880,
+    "from_way": 689280885,
+    "to_way": 514077165,
+    "via_node": 5023358522,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10731881,
+    "from_way": 689280904,
+    "to_way": 514074529,
+    "via_node": 5023355392,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10731882,
+    "from_way": 514074529,
+    "to_way": 689280885,
+    "via_node": 5023355392,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10791928,
+    "from_way": 307725642,
+    "to_way": 370924704,
+    "via_node": 7271715423,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10791929,
+    "from_way": 778830561,
+    "to_way": 307725642,
+    "via_node": 7271715423,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10807703,
+    "from_way": 425557270,
+    "to_way": 779458943,
+    "via_node": 1311515461,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 11002511,
+    "from_way": 40726479,
+    "to_way": 792396196,
+    "via_node": 4831874282,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11031673,
+    "from_way": 130423444,
+    "to_way": 795645753,
+    "via_node": 13051962814,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 11031674,
+    "from_way": 1453402336,
+    "to_way": 130423542,
+    "via_node": 1435658654,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 11199165,
+    "from_way": 815610481,
+    "to_way": 815610480,
+    "via_node": 6895755742,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 11199166,
+    "from_way": 779276856,
+    "to_way": 779276856,
+    "via_node": 6895755742,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 11290128,
+    "from_way": 514060422,
+    "to_way": 824886005,
+    "via_node": 2449310951,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11290129,
+    "from_way": 172086532,
+    "to_way": 514060422,
+    "via_node": 2449310951,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11290130,
+    "from_way": 824886005,
+    "to_way": 824886005,
+    "via_node": 1830268716,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 11290131,
+    "from_way": 824886006,
+    "to_way": 824886005,
+    "via_node": 1830268716,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11367668,
+    "from_way": 832468367,
+    "to_way": 832468360,
+    "via_node": 5968991234,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 11367669,
+    "from_way": 832468356,
+    "to_way": 832468358,
+    "via_node": 7772105330,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 11542148,
+    "from_way": 146605987,
+    "to_way": 226284335,
+    "via_node": 2351377733,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12126078,
+    "from_way": 891357303,
+    "to_way": 41259030,
+    "via_node": 8284993420,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12195496,
+    "from_way": 157812961,
+    "to_way": 895871078,
+    "via_node": 3197967240,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 12327844,
+    "from_way": 59174761,
+    "to_way": 907993324,
+    "via_node": 4441728790,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 12327848,
+    "from_way": 351360439,
+    "to_way": 907993347,
+    "via_node": 7165008767,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12327849,
+    "from_way": 446982125,
+    "to_way": 907993346,
+    "via_node": 7165008767,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12639325,
+    "from_way": 936207232,
+    "to_way": 327550662,
+    "via_node": 8675100692,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12639326,
+    "from_way": 327550662,
+    "to_way": 936207226,
+    "via_node": 8675100692,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12639400,
+    "from_way": 936215844,
+    "to_way": 936215840,
+    "via_node": 8675182989,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 12731767,
+    "from_way": 944671542,
+    "to_way": 1074746900,
+    "via_node": 254360532,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 12745437,
+    "from_way": 945962603,
+    "to_way": 945962601,
+    "via_node": 1041298832,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12817825,
+    "from_way": 27083736,
+    "to_way": 951926330,
+    "via_node": 297147130,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12888868,
+    "from_way": 490322006,
+    "to_way": 490322207,
+    "via_node": 5527369701,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12888869,
+    "from_way": 490322207,
+    "to_way": 477255761,
+    "via_node": 5527369701,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12888870,
+    "from_way": 477255761,
+    "to_way": 490322207,
+    "via_node": 5527369701,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12909139,
+    "from_way": 577936813,
+    "to_way": 960288891,
+    "via_node": 5597593927,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 12909140,
+    "from_way": 960288895,
+    "to_way": 960288893,
+    "via_node": 5597593927,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12909141,
+    "from_way": 58630691,
+    "to_way": 377084411,
+    "via_node": 286641790,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 12942065,
+    "from_way": 139843663,
+    "to_way": 139843688,
+    "via_node": 1532645956,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12942066,
+    "from_way": 767709694,
+    "to_way": 139843687,
+    "via_node": 1532646036,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13114666,
+    "from_way": 444693591,
+    "to_way": 975337326,
+    "via_node": 5023764045,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 13114667,
+    "from_way": 975337326,
+    "to_way": 975337326,
+    "via_node": 5023766146,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13114668,
+    "from_way": 444693598,
+    "to_way": 975337326,
+    "via_node": 5023766146,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 13193440,
+    "from_way": 428688220,
+    "to_way": 448228500,
+    "via_node": 4812402560,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 13257419,
+    "from_way": 387943037,
+    "to_way": 305249105,
+    "via_node": 610741023,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13366730,
+    "from_way": 169674664,
+    "to_way": 996184111,
+    "via_node": 1808422363,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13403915,
+    "from_way": 172075998,
+    "to_way": 998968286,
+    "via_node": 4434156452,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13403916,
+    "from_way": 446086611,
+    "to_way": 998968287,
+    "via_node": 4434156452,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13490535,
+    "from_way": 1007193874,
+    "to_way": 560252615,
+    "via_node": 5402969669,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13490536,
+    "from_way": 560252615,
+    "to_way": 1007193875,
+    "via_node": 5402969669,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13490538,
+    "from_way": 1007193877,
+    "to_way": 1007193878,
+    "via_node": 4362778962,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 13828631,
+    "from_way": 726842365,
+    "to_way": 111514834,
+    "via_node": 1270306982,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 13830081,
+    "from_way": 1071659160,
+    "to_way": 33476791,
+    "via_node": 381063833,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 14226618,
+    "from_way": 176332873,
+    "to_way": 176332855,
+    "via_node": 240466154,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14226619,
+    "from_way": 131860950,
+    "to_way": 176332855,
+    "via_node": 240466154,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14226620,
+    "from_way": 176332855,
+    "to_way": 176332855,
+    "via_node": 240466154,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14226621,
+    "from_way": 131860942,
+    "to_way": 1067463598,
+    "via_node": 1868714538,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 14226622,
+    "from_way": 600376028,
+    "to_way": 1067463599,
+    "via_node": 1868714538,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 14226623,
+    "from_way": 131860940,
+    "to_way": 131860940,
+    "via_node": 304028813,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14226624,
+    "from_way": 131871892,
+    "to_way": 131860940,
+    "via_node": 304028813,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14226625,
+    "from_way": 238328158,
+    "to_way": 131873932,
+    "via_node": 240465336,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14226626,
+    "from_way": 360566372,
+    "to_way": 131873932,
+    "via_node": 240465336,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14226627,
+    "from_way": 131873932,
+    "to_way": 360566372,
+    "via_node": 240465336,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708244,
+    "from_way": 1104964984,
+    "to_way": 1104964989,
+    "via_node": 358057496,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708245,
+    "from_way": 1104964989,
+    "to_way": 1104964989,
+    "via_node": 358057496,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14708246,
+    "from_way": 320328217,
+    "to_way": 1104964985,
+    "via_node": 358057498,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 14708247,
+    "from_way": 1104964984,
+    "to_way": 1104964985,
+    "via_node": 358057498,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708248,
+    "from_way": 1104964985,
+    "to_way": 1104964984,
+    "via_node": 358057498,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708249,
+    "from_way": 130423508,
+    "to_way": 34059355,
+    "via_node": 1435632566,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 14708252,
+    "from_way": 130423524,
+    "to_way": 1104964987,
+    "via_node": 1435632613,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 14708253,
+    "from_way": 130423527,
+    "to_way": 130423464,
+    "via_node": 1435632586,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708254,
+    "from_way": 327550614,
+    "to_way": 1104964988,
+    "via_node": 3268327727,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 14708256,
+    "from_way": 1104964989,
+    "to_way": 1104964989,
+    "via_node": 1435632551,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14708257,
+    "from_way": 1104964990,
+    "to_way": 1104964989,
+    "via_node": 1435632551,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708258,
+    "from_way": 1104964990,
+    "to_way": 31963437,
+    "via_node": 1435632581,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708259,
+    "from_way": 31963437,
+    "to_way": 1104964990,
+    "via_node": 1435632581,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708260,
+    "from_way": 130423502,
+    "to_way": 31963437,
+    "via_node": 1435632581,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708261,
+    "from_way": 327550614,
+    "to_way": 1104964992,
+    "via_node": 390288475,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 14708263,
+    "from_way": 130431711,
+    "to_way": 1104964992,
+    "via_node": 1435629662,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 14708268,
+    "from_way": 130431714,
+    "to_way": 327079316,
+    "via_node": 390288425,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15077164,
+    "from_way": 971254199,
+    "to_way": 254966443,
+    "via_node": 309300692,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 15430919,
+    "from_way": 139976423,
+    "to_way": 199311851,
+    "via_node": 1533897883,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430922,
+    "from_way": 139976425,
+    "to_way": 1137836323,
+    "via_node": 1533897692,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 17147982,
+    "from_way": 5219394,
+    "to_way": 23334823,
+    "via_node": 36720321,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 17336811,
+    "from_way": 33810553,
+    "to_way": 1207355585,
+    "via_node": 387251032,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 17336812,
+    "from_way": 33810553,
+    "to_way": 1207355584,
+    "via_node": 387251032,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 17336813,
+    "from_way": 33810553,
+    "to_way": 441628362,
+    "via_node": 387251032,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 18129658,
+    "from_way": 1321514239,
+    "to_way": 1321514237,
+    "via_node": 4450129223,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 19221362,
+    "from_way": 1392970660,
+    "to_way": 477255751,
+    "via_node": 9055059867,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19221363,
+    "from_way": 1392970658,
+    "to_way": 1392970660,
+    "via_node": 9055059867,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19988840,
+    "from_way": 33076090,
+    "to_way": 997793618,
+    "via_node": 373166560,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397335,
+    "from_way": 56759864,
+    "to_way": 1494846699,
+    "via_node": 416379943,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 20397336,
+    "from_way": 130423551,
+    "to_way": 1494846705,
+    "via_node": 1435632391,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 20397341,
+    "from_way": 56759864,
+    "to_way": 327550662,
+    "via_node": 710540370,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397342,
+    "from_way": 130423551,
+    "to_way": 327550662,
+    "via_node": 710540370,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397343,
+    "from_way": 160105559,
+    "to_way": 1104964985,
+    "via_node": 358057538,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397344,
+    "from_way": 320328218,
+    "to_way": 514042835,
+    "via_node": 3268327722,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 20397345,
+    "from_way": 1494846703,
+    "to_way": 1494846704,
+    "via_node": 358048867,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20952758,
+    "from_way": 760713445,
+    "to_way": 760705979,
+    "via_node": 7106478251,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20952782,
+    "from_way": 223418906,
+    "to_way": 760711346,
+    "via_node": 2323169051,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20952783,
+    "from_way": 223418906,
+    "to_way": 760711349,
+    "via_node": 2323169051,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 1602848,
+    "from_way": 57376867,
+    "to_way": 115107695,
+    "via_node": 713299334,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 4005138,
+    "from_way": 113160039,
+    "to_way": 113160015,
+    "via_node": 1284105824,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5826861,
+    "from_way": 386169239,
+    "to_way": 386169239,
+    "via_node": 3139193051,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826862,
+    "from_way": 381925748,
+    "to_way": 381925749,
+    "via_node": 3139193051,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826872,
+    "from_way": 389545515,
+    "to_way": 389545515,
+    "via_node": 3851242047,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826874,
+    "from_way": 381925753,
+    "to_way": 381925753,
+    "via_node": 3851242047,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826875,
+    "from_way": 147437953,
+    "to_way": 147437953,
+    "via_node": 393138384,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826878,
+    "from_way": 415101094,
+    "to_way": 415101094,
+    "via_node": 393138384,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826879,
+    "from_way": 415101094,
+    "to_way": 34286649,
+    "via_node": 393138384,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5826880,
+    "from_way": 389545517,
+    "to_way": 389545517,
+    "via_node": 393139230,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826881,
+    "from_way": 389545518,
+    "to_way": 389545518,
+    "via_node": 3075989769,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826882,
+    "from_way": 147437676,
+    "to_way": 147437954,
+    "via_node": 3075989769,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5826884,
+    "from_way": 389545519,
+    "to_way": 389545519,
+    "via_node": 3075989765,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826885,
+    "from_way": 389545519,
+    "to_way": 147437679,
+    "via_node": 3075989765,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5826888,
+    "from_way": 389545521,
+    "to_way": 389545521,
+    "via_node": 1608327807,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826891,
+    "from_way": 479829276,
+    "to_way": 147620883,
+    "via_node": 1608327807,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826892,
+    "from_way": 479829276,
+    "to_way": 147619496,
+    "via_node": 1608327807,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5826897,
+    "from_way": 309379983,
+    "to_way": 309379983,
+    "via_node": 393139211,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826898,
+    "from_way": 389545523,
+    "to_way": 389545523,
+    "via_node": 1608324756,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826901,
+    "from_way": 479828304,
+    "to_way": 147619502,
+    "via_node": 1608324756,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5826902,
+    "from_way": 479828304,
+    "to_way": 147620882,
+    "via_node": 1608324756,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826904,
+    "from_way": 389545524,
+    "to_way": 389545524,
+    "via_node": 496056117,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826905,
+    "from_way": 389545524,
+    "to_way": 40800072,
+    "via_node": 496056117,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 5826907,
+    "from_way": 389545525,
+    "to_way": 389545525,
+    "via_node": 2487606931,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826908,
+    "from_way": 313018738,
+    "to_way": 301004062,
+    "via_node": 393139191,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 5826909,
+    "from_way": 34286794,
+    "to_way": 34286794,
+    "via_node": 393139191,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 6651371,
+    "from_way": 26274708,
+    "to_way": 231829282,
+    "via_node": 287798859,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 6651372,
+    "from_way": 26274708,
+    "to_way": 432600852,
+    "via_node": 287798859,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6651373,
+    "from_way": 432600852,
+    "to_way": 432600851,
+    "via_node": 287798859,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6651374,
+    "from_way": 432600852,
+    "to_way": 432600852,
+    "via_node": 287798859,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 6739168,
+    "from_way": 455681063,
+    "to_way": 455681060,
+    "via_node": 2566384890,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6739169,
+    "from_way": 455681063,
+    "to_way": 455681063,
+    "via_node": 2566384890,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 6742874,
+    "from_way": 456140650,
+    "to_way": 741967133,
+    "via_node": 1476476393,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 6742912,
+    "from_way": 229839357,
+    "to_way": 1171484107,
+    "via_node": 2383826635,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6831716,
+    "from_way": 462584420,
+    "to_way": 192692428,
+    "via_node": 2032348676,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6831717,
+    "from_way": 149352388,
+    "to_way": 192692428,
+    "via_node": 2032349059,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6831718,
+    "from_way": 192691727,
+    "to_way": 192692884,
+    "via_node": 303883072,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6831719,
+    "from_way": 462584419,
+    "to_way": 192692884,
+    "via_node": 1623415628,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6875298,
+    "from_way": 478273843,
+    "to_way": 136518165,
+    "via_node": 3820827372,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6875306,
+    "from_way": 465450862,
+    "to_way": 465450862,
+    "via_node": 1497478533,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 6875307,
+    "from_way": 465450862,
+    "to_way": 465450862,
+    "via_node": 1221112681,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 6875308,
+    "from_way": 465450862,
+    "to_way": 106047766,
+    "via_node": 1221112681,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 6875309,
+    "from_way": 465450863,
+    "to_way": 465450863,
+    "via_node": 1221112681,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7003808,
+    "from_way": 25105477,
+    "to_way": 25105511,
+    "via_node": 4200514058,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7031281,
+    "from_way": 170904602,
+    "to_way": 170904602,
+    "via_node": 1820260593,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7031282,
+    "from_way": 170904602,
+    "to_way": 251111329,
+    "via_node": 1820260593,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7031283,
+    "from_way": 332852394,
+    "to_way": 478268204,
+    "via_node": 4715044639,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7031307,
+    "from_way": 478268680,
+    "to_way": 998409593,
+    "via_node": 1497502047,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7031309,
+    "from_way": 998409595,
+    "to_way": 566496292,
+    "via_node": 4715049534,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7031419,
+    "from_way": 478273223,
+    "to_way": 478272854,
+    "via_node": 6115704904,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7062853,
+    "from_way": 147442752,
+    "to_way": 479823529,
+    "via_node": 4728668140,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7062882,
+    "from_way": 40807405,
+    "to_way": 479826014,
+    "via_node": 2487606937,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7062906,
+    "from_way": 309521367,
+    "to_way": 147620882,
+    "via_node": 1608324734,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7062919,
+    "from_way": 147619678,
+    "to_way": 147620883,
+    "via_node": 1608327805,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7062920,
+    "from_way": 479829276,
+    "to_way": 479829276,
+    "via_node": 1608327807,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7062959,
+    "from_way": 381925748,
+    "to_way": 381937207,
+    "via_node": 3139193051,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7062960,
+    "from_way": 381925749,
+    "to_way": 381925748,
+    "via_node": 3851242036,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7063504,
+    "from_way": 123960644,
+    "to_way": 123960066,
+    "via_node": 1380479925,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7064768,
+    "from_way": 455644632,
+    "to_way": 479961898,
+    "via_node": 712114800,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7096535,
+    "from_way": 481949447,
+    "to_way": 481949450,
+    "via_node": 4748291899,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7096539,
+    "from_way": 481949449,
+    "to_way": 481947094,
+    "via_node": 4748291900,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7097206,
+    "from_way": 443304348,
+    "to_way": 482006153,
+    "via_node": 482229600,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7097207,
+    "from_way": 482006154,
+    "to_way": 107385762,
+    "via_node": 260887743,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7097211,
+    "from_way": 443306524,
+    "to_way": 482006155,
+    "via_node": 260887750,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7097377,
+    "from_way": 111739354,
+    "to_way": 111739302,
+    "via_node": 260887698,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7097456,
+    "from_way": 111739238,
+    "to_way": 482011773,
+    "via_node": 4748827938,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7097487,
+    "from_way": 566918771,
+    "to_way": 111739282,
+    "via_node": 260887596,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7097723,
+    "from_way": 107655487,
+    "to_way": 112463584,
+    "via_node": 482231517,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7099072,
+    "from_way": 566929861,
+    "to_way": 107650504,
+    "via_node": 4326362091,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7099090,
+    "from_way": 107519940,
+    "to_way": 107519799,
+    "via_node": 1235596121,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7099096,
+    "from_way": 24052692,
+    "to_way": 107925611,
+    "via_node": 260887230,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7099124,
+    "from_way": 566953015,
+    "to_way": 482129476,
+    "via_node": 4749993113,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7099410,
+    "from_way": 38620311,
+    "to_way": 482176772,
+    "via_node": 4750303429,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7146778,
+    "from_way": 485696877,
+    "to_way": 485696467,
+    "via_node": 577459742,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7148342,
+    "from_way": 485827525,
+    "to_way": 485827525,
+    "via_node": 3410239456,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7148343,
+    "from_way": 485827525,
+    "to_way": 333952114,
+    "via_node": 3410239456,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7148345,
+    "from_way": 273692805,
+    "to_way": 485827525,
+    "via_node": 4713078310,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7150292,
+    "from_way": 1317302064,
+    "to_way": 1317302063,
+    "via_node": 1344033496,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7150847,
+    "from_way": 727759486,
+    "to_way": 486038828,
+    "via_node": 3756156015,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7164216,
+    "from_way": 438160138,
+    "to_way": 438160147,
+    "via_node": 4359571281,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7165137,
+    "from_way": 438160157,
+    "to_way": 487543100,
+    "via_node": 4799969688,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7165627,
+    "from_way": 487613422,
+    "to_way": 487543101,
+    "via_node": 296019413,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7165628,
+    "from_way": 487613422,
+    "to_way": 189038285,
+    "via_node": 296019413,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7165629,
+    "from_way": 893971429,
+    "to_way": 487543101,
+    "via_node": 4800607302,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7166126,
+    "from_way": 729939834,
+    "to_way": 729939833,
+    "via_node": 1476476499,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7166437,
+    "from_way": 487709237,
+    "to_way": 134220853,
+    "via_node": 1476476396,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7166500,
+    "from_way": 487710628,
+    "to_way": 134220854,
+    "via_node": 1476476426,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7166533,
+    "from_way": 456140440,
+    "to_way": 134220852,
+    "via_node": 2383826707,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7166610,
+    "from_way": 487741374,
+    "to_way": 54236782,
+    "via_node": 683893373,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7168691,
+    "from_way": 487746849,
+    "to_way": 54234296,
+    "via_node": 683873557,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7183226,
+    "from_way": 32811265,
+    "to_way": 49049848,
+    "via_node": 622384610,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183227,
+    "from_way": 432600854,
+    "to_way": 432600847,
+    "via_node": 287798879,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7183933,
+    "from_way": 462838700,
+    "to_way": 462838700,
+    "via_node": 273272468,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7183957,
+    "from_way": 117794800,
+    "to_way": 117794803,
+    "via_node": 283377381,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183962,
+    "from_way": 424730993,
+    "to_way": 127640012,
+    "via_node": 4241136563,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183963,
+    "from_way": 424730993,
+    "to_way": 424730993,
+    "via_node": 4241136563,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7183971,
+    "from_way": 424490318,
+    "to_way": 424490319,
+    "via_node": 924815181,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183972,
+    "from_way": 57038442,
+    "to_way": 57038442,
+    "via_node": 4010341728,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7183973,
+    "from_way": 57038442,
+    "to_way": 79157955,
+    "via_node": 4010341728,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7183976,
+    "from_way": 117790068,
+    "to_way": 117790063,
+    "via_node": 475533242,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184614,
+    "from_way": 127656574,
+    "to_way": 127656575,
+    "via_node": 1412410860,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184615,
+    "from_way": 424743897,
+    "to_way": 117768010,
+    "via_node": 853176817,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184616,
+    "from_way": 424743897,
+    "to_way": 424743897,
+    "via_node": 853176817,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7184617,
+    "from_way": 424743919,
+    "to_way": 424743922,
+    "via_node": 1326070130,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184618,
+    "from_way": 424743919,
+    "to_way": 424743919,
+    "via_node": 1326070130,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7184619,
+    "from_way": 1190977492,
+    "to_way": 117958036,
+    "via_node": 1327976560,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184622,
+    "from_way": 1513896511,
+    "to_way": 1513896566,
+    "via_node": 751349675,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184630,
+    "from_way": 191162704,
+    "to_way": 191162785,
+    "via_node": 2017502775,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7184642,
+    "from_way": 460759076,
+    "to_way": 192691727,
+    "via_node": 4563616741,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7188273,
+    "from_way": 425915667,
+    "to_way": 375016654,
+    "via_node": 1234287077,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7188274,
+    "from_way": 425915667,
+    "to_way": 425915667,
+    "via_node": 1234287077,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7199241,
+    "from_way": 456137531,
+    "to_way": 294021938,
+    "via_node": 2975899903,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7199246,
+    "from_way": 456137558,
+    "to_way": 456137561,
+    "via_node": 2980439099,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7199473,
+    "from_way": 559745968,
+    "to_way": 490072900,
+    "via_node": 2975900064,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7199478,
+    "from_way": 490073959,
+    "to_way": 477925003,
+    "via_node": 2980439706,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7200518,
+    "from_way": 295637875,
+    "to_way": 295637877,
+    "via_node": 2993762898,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7201577,
+    "from_way": 294443384,
+    "to_way": 294021937,
+    "via_node": 2975900166,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7224038,
+    "from_way": 921695744,
+    "to_way": 921695744,
+    "via_node": 4907750242,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7224588,
+    "from_way": 920128981,
+    "to_way": 920128981,
+    "via_node": 4744483959,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7226946,
+    "from_way": 170455957,
+    "to_way": 170455954,
+    "via_node": 1815931489,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7268298,
+    "from_way": 475981693,
+    "to_way": 495078417,
+    "via_node": 4696564157,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7275743,
+    "from_way": 455951991,
+    "to_way": 495562172,
+    "via_node": 1742764123,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7275869,
+    "from_way": 455949701,
+    "to_way": 495567281,
+    "via_node": 1620070555,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7276904,
+    "from_way": 455887382,
+    "to_way": 495667694,
+    "via_node": 470732983,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7284088,
+    "from_way": 642087831,
+    "to_way": 483207744,
+    "via_node": 4759604972,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7284089,
+    "from_way": 478609995,
+    "to_way": 483207752,
+    "via_node": 4718279413,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7313276,
+    "from_way": 368791249,
+    "to_way": 498408148,
+    "via_node": 3726348796,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 7313277,
+    "from_way": 154241891,
+    "to_way": 498408145,
+    "via_node": 3726348792,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 7313280,
+    "from_way": 368791249,
+    "to_way": 498408148,
+    "via_node": 3726348796,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7337873,
+    "from_way": 1546385137,
+    "to_way": 1546385136,
+    "via_node": 436183165,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7337880,
+    "from_way": 454284864,
+    "to_way": 501095282,
+    "via_node": 426777308,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7345052,
+    "from_way": 112462619,
+    "to_way": 482122732,
+    "via_node": 4326361989,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 7345116,
+    "from_way": 375016638,
+    "to_way": 125659377,
+    "via_node": 260887138,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 7798763,
+    "from_way": 544746710,
+    "to_way": 544746713,
+    "via_node": 3917994092,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 7802020,
+    "from_way": 1085964347,
+    "to_way": 544746713,
+    "via_node": 5265595338,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 8453023,
+    "from_way": 278808152,
+    "to_way": 608509909,
+    "via_node": 2831134965,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 9497534,
+    "from_way": 256312926,
+    "to_way": 425690938,
+    "via_node": 1089675138,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 9497535,
+    "from_way": 510587281,
+    "to_way": 427167554,
+    "via_node": 1089675138,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 9890843,
+    "from_way": 711375464,
+    "to_way": 711375463,
+    "via_node": 6688311795,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 9890844,
+    "from_way": 711378462,
+    "to_way": 711375465,
+    "via_node": 4606993154,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 9890846,
+    "from_way": 711375461,
+    "to_way": 711375462,
+    "via_node": 6688311795,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 9890847,
+    "from_way": 711375463,
+    "to_way": 454257071,
+    "via_node": 4497787418,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 9992194,
+    "from_way": 378735684,
+    "to_way": 1252803222,
+    "via_node": 1150898451,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 10074686,
+    "from_way": 887698596,
+    "to_way": 887698596,
+    "via_node": 2457029924,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10074768,
+    "from_way": 156598719,
+    "to_way": 156598606,
+    "via_node": 1688233044,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074769,
+    "from_way": 156598606,
+    "to_way": 156598606,
+    "via_node": 1688233044,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10074771,
+    "from_way": 156599458,
+    "to_way": 485978179,
+    "via_node": 1688236099,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074772,
+    "from_way": 486279649,
+    "to_way": 156599458,
+    "via_node": 1688236099,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074775,
+    "from_way": 485976304,
+    "to_way": 71796460,
+    "via_node": 853286741,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10074776,
+    "from_way": 71796460,
+    "to_way": 71796460,
+    "via_node": 853286741,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10074777,
+    "from_way": 888019262,
+    "to_way": 71796460,
+    "via_node": 853286741,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074778,
+    "from_way": 485975073,
+    "to_way": 1237265069,
+    "via_node": 4787350225,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074779,
+    "from_way": 1237265068,
+    "to_way": 485975073,
+    "via_node": 4787350225,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074802,
+    "from_way": 156599648,
+    "to_way": 1237266428,
+    "via_node": 1688257224,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074825,
+    "from_way": 727982848,
+    "to_way": 727982848,
+    "via_node": 850547612,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10074826,
+    "from_way": 485992690,
+    "to_way": 727982848,
+    "via_node": 850547612,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074827,
+    "from_way": 485992690,
+    "to_way": 887712519,
+    "via_node": 4787519446,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074828,
+    "from_way": 1237266430,
+    "to_way": 485992690,
+    "via_node": 4787519446,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074874,
+    "from_way": 127774998,
+    "to_way": 372672272,
+    "via_node": 724260847,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10074875,
+    "from_way": 58420592,
+    "to_way": 127774998,
+    "via_node": 724260847,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075328,
+    "from_way": 674050308,
+    "to_way": 727302807,
+    "via_node": 6815723841,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075329,
+    "from_way": 713997119,
+    "to_way": 1489355758,
+    "via_node": 6312378021,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075330,
+    "from_way": 1489355757,
+    "to_way": 713997119,
+    "via_node": 6312378021,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075331,
+    "from_way": 697324356,
+    "to_way": 697324356,
+    "via_node": 6535969913,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10075332,
+    "from_way": 728005010,
+    "to_way": 697324356,
+    "via_node": 6535969913,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075333,
+    "from_way": 728005011,
+    "to_way": 697324355,
+    "via_node": 6323738981,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075334,
+    "from_way": 697324355,
+    "to_way": 728005011,
+    "via_node": 6323738981,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075335,
+    "from_way": 986609207,
+    "to_way": 697324355,
+    "via_node": 6323738981,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075619,
+    "from_way": 220909461,
+    "to_way": 728029252,
+    "via_node": 6815716707,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10075620,
+    "from_way": 288637342,
+    "to_way": 728029253,
+    "via_node": 6815716707,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075641,
+    "from_way": 202570037,
+    "to_way": 202570037,
+    "via_node": 3757580159,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10075644,
+    "from_way": 202570037,
+    "to_way": 202570023,
+    "via_node": 490545571,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075645,
+    "from_way": 202570023,
+    "to_way": 202570037,
+    "via_node": 490545571,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075680,
+    "from_way": 413940776,
+    "to_way": 413940776,
+    "via_node": 490545500,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10075682,
+    "from_way": 1055101827,
+    "to_way": 413940776,
+    "via_node": 490545500,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075683,
+    "from_way": 728032813,
+    "to_way": 304373524,
+    "via_node": 2939215715,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075684,
+    "from_way": 304373524,
+    "to_way": 728032812,
+    "via_node": 2939215715,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075708,
+    "from_way": 304373528,
+    "to_way": 288142219,
+    "via_node": 2917017081,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075710,
+    "from_way": 288152316,
+    "to_way": 288142219,
+    "via_node": 2917017081,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075716,
+    "from_way": 40479496,
+    "to_way": 40479496,
+    "via_node": 2916900219,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10075717,
+    "from_way": 728033557,
+    "to_way": 40479496,
+    "via_node": 2916900219,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075718,
+    "from_way": 288140703,
+    "to_way": 728033557,
+    "via_node": 4787494327,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075719,
+    "from_way": 728033557,
+    "to_way": 304373516,
+    "via_node": 4787494327,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075720,
+    "from_way": 304373516,
+    "to_way": 728033557,
+    "via_node": 4787494327,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075856,
+    "from_way": 728041034,
+    "to_way": 304373515,
+    "via_node": 724260711,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075857,
+    "from_way": 304373515,
+    "to_way": 290389096,
+    "via_node": 724260711,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075858,
+    "from_way": 1237266429,
+    "to_way": 156599648,
+    "via_node": 1688257224,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075859,
+    "from_way": 372257638,
+    "to_way": 156599644,
+    "via_node": 724260839,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075860,
+    "from_way": 156599644,
+    "to_way": 156599677,
+    "via_node": 724260839,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075862,
+    "from_way": 486263849,
+    "to_way": 1237266431,
+    "via_node": 2916677678,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075863,
+    "from_way": 1237266432,
+    "to_way": 486263849,
+    "via_node": 2916677678,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075864,
+    "from_way": 1237269026,
+    "to_way": 372279912,
+    "via_node": 4789252375,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075865,
+    "from_way": 372279912,
+    "to_way": 1237269027,
+    "via_node": 4789252375,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075866,
+    "from_way": 728041039,
+    "to_way": 58420591,
+    "via_node": 2916643469,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075867,
+    "from_way": 728041041,
+    "to_way": 728041039,
+    "via_node": 2916643469,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075868,
+    "from_way": 728041042,
+    "to_way": 486260905,
+    "via_node": 724260857,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10075869,
+    "from_way": 486260905,
+    "to_way": 728041043,
+    "via_node": 724260857,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10299340,
+    "from_way": 101964356,
+    "to_way": 115035345,
+    "via_node": 3540437391,
+    "restriction": "no_straight_on"
+  },
+  {
+    "id": 10307108,
+    "from_way": 675761901,
+    "to_way": 675761901,
+    "via_node": 5664056277,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10307112,
+    "from_way": 772838514,
+    "to_way": 652916143,
+    "via_node": 3917908084,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10307113,
+    "from_way": 746345235,
+    "to_way": 652916143,
+    "via_node": 3917908084,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10307114,
+    "from_way": 652916143,
+    "to_way": 652916143,
+    "via_node": 3917908084,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10307117,
+    "from_way": 675761900,
+    "to_way": 675761900,
+    "via_node": 5664056270,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10307118,
+    "from_way": 1523851668,
+    "to_way": 675761900,
+    "via_node": 5664056270,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10307119,
+    "from_way": 653220780,
+    "to_way": 675761900,
+    "via_node": 5664056270,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309060,
+    "from_way": 675774930,
+    "to_way": 746505495,
+    "via_node": 6328540445,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309061,
+    "from_way": 675774931,
+    "to_way": 746505495,
+    "via_node": 6328540445,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309072,
+    "from_way": 491850963,
+    "to_way": 486889686,
+    "via_node": 3917908106,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309073,
+    "from_way": 593829079,
+    "to_way": 486889686,
+    "via_node": 3917908106,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309074,
+    "from_way": 486889686,
+    "to_way": 486889686,
+    "via_node": 3917908106,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10309075,
+    "from_way": 746506415,
+    "to_way": 746506415,
+    "via_node": 5664079646,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10309076,
+    "from_way": 652722445,
+    "to_way": 746506415,
+    "via_node": 5664079646,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309077,
+    "from_way": 652722442,
+    "to_way": 746506415,
+    "via_node": 5664079646,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309078,
+    "from_way": 486889674,
+    "to_way": 491851596,
+    "via_node": 4839396623,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309079,
+    "from_way": 977997168,
+    "to_way": 486889674,
+    "via_node": 4839396623,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309080,
+    "from_way": 491862110,
+    "to_way": 746506417,
+    "via_node": 4907749519,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309081,
+    "from_way": 491852429,
+    "to_way": 746506416,
+    "via_node": 4907749519,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309082,
+    "from_way": 921695744,
+    "to_way": 491852395,
+    "via_node": 4907750242,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309087,
+    "from_way": 65583930,
+    "to_way": 920128979,
+    "via_node": 4744483959,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309088,
+    "from_way": 920128981,
+    "to_way": 65583930,
+    "via_node": 4744483959,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309095,
+    "from_way": 65583937,
+    "to_way": 481528461,
+    "via_node": 799919370,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10309096,
+    "from_way": 453535171,
+    "to_way": 65583937,
+    "via_node": 799919370,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10317114,
+    "from_way": 146754011,
+    "to_way": 747199265,
+    "via_node": 4177909053,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 10324463,
+    "from_way": 746330606,
+    "to_way": 746336031,
+    "via_node": 6984449634,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10324464,
+    "from_way": 746330605,
+    "to_way": 746330606,
+    "via_node": 6984449634,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10348990,
+    "from_way": 746505495,
+    "to_way": 746505495,
+    "via_node": 6328540445,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10369595,
+    "from_way": 454283038,
+    "to_way": 188169251,
+    "via_node": 4508553910,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 10374169,
+    "from_way": 116845593,
+    "to_way": 420069660,
+    "via_node": 273273063,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10374170,
+    "from_way": 420069661,
+    "to_way": 420069659,
+    "via_node": 273273063,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10378113,
+    "from_way": 27833465,
+    "to_way": 753163456,
+    "via_node": 305591531,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10378114,
+    "from_way": 455670695,
+    "to_way": 753163455,
+    "via_node": 305591531,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10378115,
+    "from_way": 250511613,
+    "to_way": 26828156,
+    "via_node": 294464209,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10378116,
+    "from_way": 455670691,
+    "to_way": 250511613,
+    "via_node": 294464209,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10392301,
+    "from_way": 746332945,
+    "to_way": 746332947,
+    "via_node": 2822340453,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10392302,
+    "from_way": 746405310,
+    "to_way": 746332946,
+    "via_node": 2822340453,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10408455,
+    "from_way": 476051895,
+    "to_way": 755365553,
+    "via_node": 1338394798,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10408901,
+    "from_way": 755414405,
+    "to_way": 755414404,
+    "via_node": 3917994078,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10408902,
+    "from_way": 755371223,
+    "to_way": 755414405,
+    "via_node": 3917994078,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10408927,
+    "from_way": 977519831,
+    "to_way": 746345242,
+    "via_node": 6984563250,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10408928,
+    "from_way": 746345242,
+    "to_way": 746345252,
+    "via_node": 6984563250,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422846,
+    "from_way": 444863750,
+    "to_way": 444863755,
+    "via_node": 4423276027,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422847,
+    "from_way": 444863752,
+    "to_way": 444863750,
+    "via_node": 4423276027,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422927,
+    "from_way": 756234957,
+    "to_way": 186247518,
+    "via_node": 7063204383,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422929,
+    "from_way": 186247464,
+    "to_way": 756234960,
+    "via_node": 1969341086,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422931,
+    "from_way": 756234962,
+    "to_way": 756234962,
+    "via_node": 1969334027,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10422932,
+    "from_way": 756234963,
+    "to_way": 756234962,
+    "via_node": 1969334027,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422933,
+    "from_way": 756234963,
+    "to_way": 683339436,
+    "via_node": 1969334034,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422935,
+    "from_way": 683339436,
+    "to_way": 756234963,
+    "via_node": 1969334034,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422943,
+    "from_way": 756234967,
+    "to_way": 113585601,
+    "via_node": 1969326822,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422944,
+    "from_way": 113585601,
+    "to_way": 186246446,
+    "via_node": 1969326822,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422953,
+    "from_way": 186241380,
+    "to_way": 1064205462,
+    "via_node": 1969272988,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422954,
+    "from_way": 1064205463,
+    "to_way": 186241380,
+    "via_node": 1969272988,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422957,
+    "from_way": 186241379,
+    "to_way": 186241493,
+    "via_node": 1969277490,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422958,
+    "from_way": 186241493,
+    "to_way": 186240980,
+    "via_node": 1969277490,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422977,
+    "from_way": 186242035,
+    "to_way": 186242263,
+    "via_node": 1969288265,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422980,
+    "from_way": 1137767355,
+    "to_way": 186242261,
+    "via_node": 1969294399,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422981,
+    "from_way": 186242260,
+    "to_way": 186243759,
+    "via_node": 1969294434,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422982,
+    "from_way": 186243750,
+    "to_way": 186242260,
+    "via_node": 1969294434,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422987,
+    "from_way": 186243741,
+    "to_way": 186243739,
+    "via_node": 1969308739,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10422988,
+    "from_way": 186243739,
+    "to_way": 186243753,
+    "via_node": 1969308739,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10423049,
+    "from_way": 186258916,
+    "to_way": 186258916,
+    "via_node": 1969443236,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10423051,
+    "from_way": 756237610,
+    "to_way": 186258916,
+    "via_node": 1969443236,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10423054,
+    "from_way": 187141971,
+    "to_way": 756237609,
+    "via_node": 1969566378,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10423055,
+    "from_way": 756237610,
+    "to_way": 756237609,
+    "via_node": 1969566378,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10423056,
+    "from_way": 756237609,
+    "to_way": 756237610,
+    "via_node": 1969566378,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10441802,
+    "from_way": 485696877,
+    "to_way": 485697639,
+    "via_node": 4784714211,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10441803,
+    "from_way": 485696876,
+    "to_way": 485696877,
+    "via_node": 4784714211,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10441804,
+    "from_way": 485697639,
+    "to_way": 485696877,
+    "via_node": 4784714211,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10441805,
+    "from_way": 485696759,
+    "to_way": 485696759,
+    "via_node": 577459742,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10441806,
+    "from_way": 485696877,
+    "to_way": 485696759,
+    "via_node": 577459742,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10441807,
+    "from_way": 485697639,
+    "to_way": 560818554,
+    "via_node": 4784717878,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10441809,
+    "from_way": 560818554,
+    "to_way": 485697639,
+    "via_node": 4784717878,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10441810,
+    "from_way": 485699197,
+    "to_way": 485699197,
+    "via_node": 1677901948,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10441811,
+    "from_way": 485699196,
+    "to_way": 485699197,
+    "via_node": 1677901948,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10442984,
+    "from_way": 940979222,
+    "to_way": 424484277,
+    "via_node": 257070191,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10442985,
+    "from_way": 424484278,
+    "to_way": 940979222,
+    "via_node": 257070191,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10473249,
+    "from_way": 189049851,
+    "to_way": 123960005,
+    "via_node": 1996950204,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10473250,
+    "from_way": 189049853,
+    "to_way": 189049851,
+    "via_node": 1996950204,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10473298,
+    "from_way": 479819760,
+    "to_way": 479819761,
+    "via_node": 6984573938,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10473299,
+    "from_way": 524419449,
+    "to_way": 479819760,
+    "via_node": 6984573938,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10473300,
+    "from_way": 510736434,
+    "to_way": 965176978,
+    "via_node": 1974572736,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10473301,
+    "from_way": 750984566,
+    "to_way": 510736434,
+    "via_node": 1974572736,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10507179,
+    "from_way": 759400733,
+    "to_way": 759400734,
+    "via_node": 7093438928,
+    "restriction": "no_straight_on"
+  },
+  {
+    "id": 10507180,
+    "from_way": 113941213,
+    "to_way": 113941213,
+    "via_node": 7093438928,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10511808,
+    "from_way": 759511929,
+    "to_way": 113941213,
+    "via_node": 7093438928,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 10523585,
+    "from_way": 760004865,
+    "to_way": 760004867,
+    "via_node": 7099635970,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10523586,
+    "from_way": 760004864,
+    "to_way": 760004872,
+    "via_node": 3520100271,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10523588,
+    "from_way": 760004874,
+    "to_way": 760004875,
+    "via_node": 7099635964,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10584833,
+    "from_way": 761985167,
+    "to_way": 761985168,
+    "via_node": 7119378623,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10584834,
+    "from_way": 761985168,
+    "to_way": 482026459,
+    "via_node": 7119378623,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10584912,
+    "from_way": 249357144,
+    "to_way": 752318387,
+    "via_node": 2559714298,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10593991,
+    "from_way": 124511853,
+    "to_way": 414134054,
+    "via_node": 1385540388,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10596262,
+    "from_way": 763921561,
+    "to_way": 147955091,
+    "via_node": 243888094,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596263,
+    "from_way": 147955073,
+    "to_way": 763971408,
+    "via_node": 1610716317,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596264,
+    "from_way": 478746397,
+    "to_way": 763971407,
+    "via_node": 1610716317,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596265,
+    "from_way": 763921563,
+    "to_way": 763921560,
+    "via_node": 243888152,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596266,
+    "from_way": 889409191,
+    "to_way": 148620070,
+    "via_node": 3053155558,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596267,
+    "from_way": 301271311,
+    "to_way": 301271325,
+    "via_node": 3053502969,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596268,
+    "from_way": 301210498,
+    "to_way": 763971409,
+    "via_node": 3053155578,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596271,
+    "from_way": 35901577,
+    "to_way": 35901575,
+    "via_node": 315479556,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596272,
+    "from_way": 763921559,
+    "to_way": 763921557,
+    "via_node": 7136847082,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596273,
+    "from_way": 763921558,
+    "to_way": 763921555,
+    "via_node": 243888051,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596274,
+    "from_way": 110253267,
+    "to_way": 763921548,
+    "via_node": 440642317,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596275,
+    "from_way": 763921551,
+    "to_way": 110253267,
+    "via_node": 440642317,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596276,
+    "from_way": 763921555,
+    "to_way": 763921559,
+    "via_node": 243888051,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596277,
+    "from_way": 763921557,
+    "to_way": 763921558,
+    "via_node": 7136847082,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596278,
+    "from_way": 147955091,
+    "to_way": 763921563,
+    "via_node": 243888094,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596279,
+    "from_way": 763921560,
+    "to_way": 763921561,
+    "via_node": 243888152,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596280,
+    "from_way": 148620070,
+    "to_way": 889409192,
+    "via_node": 3053155558,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596281,
+    "from_way": 301271325,
+    "to_way": 301271313,
+    "via_node": 3053502969,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596282,
+    "from_way": 763971409,
+    "to_way": 301271325,
+    "via_node": 3053155578,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10596283,
+    "from_way": 35901575,
+    "to_way": 35901575,
+    "via_node": 315479556,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10600981,
+    "from_way": 761125112,
+    "to_way": 653220821,
+    "via_node": 7110982560,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10600982,
+    "from_way": 653220821,
+    "to_way": 761125111,
+    "via_node": 7110982560,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10613790,
+    "from_way": 482173488,
+    "to_way": 482174203,
+    "via_node": 4750281892,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10613791,
+    "from_way": 765562636,
+    "to_way": 482173488,
+    "via_node": 3006975440,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10616328,
+    "from_way": 694498001,
+    "to_way": 765748997,
+    "via_node": 6521230063,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10616329,
+    "from_way": 694497996,
+    "to_way": 765748996,
+    "via_node": 6521230063,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10616330,
+    "from_way": 765749005,
+    "to_way": 765748998,
+    "via_node": 7151703574,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10616331,
+    "from_way": 490070783,
+    "to_way": 765749005,
+    "via_node": 7151703574,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10616458,
+    "from_way": 765768082,
+    "to_way": 765768083,
+    "via_node": 4823908918,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10616459,
+    "from_way": 490216021,
+    "to_way": 765768082,
+    "via_node": 4823908918,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10617405,
+    "from_way": 441625661,
+    "to_way": 765849940,
+    "via_node": 4416073799,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10617408,
+    "from_way": 765849945,
+    "to_way": 444109161,
+    "via_node": 2569209110,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10617411,
+    "from_way": 250507075,
+    "to_way": 765849949,
+    "via_node": 7152635414,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10646945,
+    "from_way": 388615683,
+    "to_way": 755373056,
+    "via_node": 9950597402,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10660676,
+    "from_way": 589605169,
+    "to_way": 376387607,
+    "via_node": 3798213233,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10660693,
+    "from_way": 490220275,
+    "to_way": 490220274,
+    "via_node": 2980439946,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10660694,
+    "from_way": 765768084,
+    "to_way": 490220275,
+    "via_node": 2980439946,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10660767,
+    "from_way": 455589639,
+    "to_way": 768708149,
+    "via_node": 7176686473,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10660768,
+    "from_way": 455589636,
+    "to_way": 768708149,
+    "via_node": 4519798388,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10660769,
+    "from_way": 768708149,
+    "to_way": 502369726,
+    "via_node": 4519798388,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10663663,
+    "from_way": 154126668,
+    "to_way": 769094495,
+    "via_node": 1667014772,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10700228,
+    "from_way": 445029603,
+    "to_way": 445029603,
+    "via_node": 4353478846,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10700229,
+    "from_way": 437536539,
+    "to_way": 445029603,
+    "via_node": 4353478846,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700230,
+    "from_way": 928264534,
+    "to_way": 445029603,
+    "via_node": 4353478846,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700244,
+    "from_way": 51828777,
+    "to_way": 51828777,
+    "via_node": 1742607092,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10700245,
+    "from_way": 162352368,
+    "to_way": 51828777,
+    "via_node": 1742607092,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700249,
+    "from_way": 771553434,
+    "to_way": 771553434,
+    "via_node": 4982100918,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10700250,
+    "from_way": 771553435,
+    "to_way": 771553434,
+    "via_node": 4982100918,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700251,
+    "from_way": 771553435,
+    "to_way": 771553436,
+    "via_node": 4982101823,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700252,
+    "from_way": 771553436,
+    "to_way": 771553435,
+    "via_node": 4982101823,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700253,
+    "from_way": 1116957380,
+    "to_way": 771553435,
+    "via_node": 4982101823,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700258,
+    "from_way": 771553437,
+    "to_way": 771553437,
+    "via_node": 4982101825,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10700259,
+    "from_way": 508899306,
+    "to_way": 771553437,
+    "via_node": 4982101825,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700260,
+    "from_way": 162352375,
+    "to_way": 771553437,
+    "via_node": 1742609107,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700261,
+    "from_way": 771553437,
+    "to_way": 162352375,
+    "via_node": 1742609107,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700266,
+    "from_way": 771554505,
+    "to_way": 508893889,
+    "via_node": 4381857877,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700267,
+    "from_way": 508893889,
+    "to_way": 771554505,
+    "via_node": 4381857877,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700268,
+    "from_way": 772451278,
+    "to_way": 771554505,
+    "via_node": 4381857877,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700269,
+    "from_way": 508893889,
+    "to_way": 508893889,
+    "via_node": 4982055007,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10700270,
+    "from_way": 772451280,
+    "to_way": 508893889,
+    "via_node": 4982055007,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700271,
+    "from_way": 508893890,
+    "to_way": 771554506,
+    "via_node": 1742605955,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700272,
+    "from_way": 772451279,
+    "to_way": 771554506,
+    "via_node": 1742605955,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700274,
+    "from_way": 512713797,
+    "to_way": 512713797,
+    "via_node": 1742603092,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10700276,
+    "from_way": 771554500,
+    "to_way": 512713797,
+    "via_node": 1742603092,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700302,
+    "from_way": 246147279,
+    "to_way": 771555685,
+    "via_node": 1742395470,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10700303,
+    "from_way": 480023812,
+    "to_way": 246147281,
+    "via_node": 1742395470,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10700309,
+    "from_way": 771555688,
+    "to_way": 480023810,
+    "via_node": 4730490917,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700310,
+    "from_way": 480023810,
+    "to_way": 771555688,
+    "via_node": 4730490917,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700311,
+    "from_way": 246147280,
+    "to_way": 771555688,
+    "via_node": 4730490917,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10700312,
+    "from_way": 771555689,
+    "to_way": 771555689,
+    "via_node": 2532237798,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10700313,
+    "from_way": 771555688,
+    "to_way": 771555689,
+    "via_node": 2532237798,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10712262,
+    "from_way": 1116957382,
+    "to_way": 508899304,
+    "via_node": 4982100908,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10712263,
+    "from_way": 772449525,
+    "to_way": 537323116,
+    "via_node": 4982100908,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10712264,
+    "from_way": 537323116,
+    "to_way": 162352375,
+    "via_node": 1742609107,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10712280,
+    "from_way": 772451282,
+    "to_way": 772451275,
+    "via_node": 7211948676,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10712281,
+    "from_way": 772451279,
+    "to_way": 772451279,
+    "via_node": 1742604059,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10712282,
+    "from_way": 772451275,
+    "to_way": 772451279,
+    "via_node": 1742604059,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10712283,
+    "from_way": 771554506,
+    "to_way": 772451279,
+    "via_node": 1742605955,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10712284,
+    "from_way": 772451274,
+    "to_way": 771554500,
+    "via_node": 4381858109,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10712285,
+    "from_way": 771554500,
+    "to_way": 772451280,
+    "via_node": 4381858109,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10712286,
+    "from_way": 772451280,
+    "to_way": 771554500,
+    "via_node": 4381858109,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10712287,
+    "from_way": 772451275,
+    "to_way": 508887915,
+    "via_node": 7211948676,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10716668,
+    "from_way": 593825474,
+    "to_way": 675761901,
+    "via_node": 5664056277,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10716669,
+    "from_way": 593825476,
+    "to_way": 675761901,
+    "via_node": 5664056277,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10716670,
+    "from_way": 772838520,
+    "to_way": 652912434,
+    "via_node": 7215618913,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10716671,
+    "from_way": 772838524,
+    "to_way": 772838520,
+    "via_node": 7215618913,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10727989,
+    "from_way": 288595484,
+    "to_way": 774639910,
+    "via_node": 1150254283,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10818831,
+    "from_way": 765854321,
+    "to_way": 699338524,
+    "via_node": 6559182969,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10818832,
+    "from_way": 699338525,
+    "to_way": 780372493,
+    "via_node": 6559182969,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844774,
+    "from_way": 266512580,
+    "to_way": 266512578,
+    "via_node": 2720502842,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844775,
+    "from_way": 266512578,
+    "to_way": 781956857,
+    "via_node": 2720502842,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844779,
+    "from_way": 1523857675,
+    "to_way": 781957085,
+    "via_node": 3561635691,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844780,
+    "from_way": 781957084,
+    "to_way": 1523857675,
+    "via_node": 3561635691,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844801,
+    "from_way": 781958805,
+    "to_way": 266512581,
+    "via_node": 2720502909,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844802,
+    "from_way": 266512581,
+    "to_way": 266512581,
+    "via_node": 2720502909,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10844803,
+    "from_way": 266512582,
+    "to_way": 781958805,
+    "via_node": 2720502908,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844804,
+    "from_way": 266512576,
+    "to_way": 781958805,
+    "via_node": 2720502908,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844805,
+    "from_way": 781958805,
+    "to_way": 266512576,
+    "via_node": 2720502908,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844806,
+    "from_way": 266512571,
+    "to_way": 266512571,
+    "via_node": 2725012126,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10844811,
+    "from_way": 478205200,
+    "to_way": 781958807,
+    "via_node": 2720502895,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10844812,
+    "from_way": 266512596,
+    "to_way": 781958806,
+    "via_node": 2720502895,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 10844813,
+    "from_way": 478204873,
+    "to_way": 266512576,
+    "via_node": 4714507172,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844814,
+    "from_way": 266512576,
+    "to_way": 478204873,
+    "via_node": 4714507172,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844815,
+    "from_way": 781958806,
+    "to_way": 478204873,
+    "via_node": 4714507172,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10844816,
+    "from_way": 478204874,
+    "to_way": 478204874,
+    "via_node": 2720502860,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10844817,
+    "from_way": 478204873,
+    "to_way": 478204874,
+    "via_node": 2720502860,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866046,
+    "from_way": 186273009,
+    "to_way": 186273009,
+    "via_node": 1974706722,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10866048,
+    "from_way": 782913952,
+    "to_way": 782913952,
+    "via_node": 7165209430,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10866049,
+    "from_way": 767436086,
+    "to_way": 782913952,
+    "via_node": 7165209430,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866050,
+    "from_way": 782913953,
+    "to_way": 782913952,
+    "via_node": 7165209413,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866051,
+    "from_way": 767432261,
+    "to_way": 782913953,
+    "via_node": 7165209413,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866052,
+    "from_way": 782913952,
+    "to_way": 782913953,
+    "via_node": 7165209413,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866053,
+    "from_way": 767432274,
+    "to_way": 782913955,
+    "via_node": 7165366968,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866054,
+    "from_way": 767432268,
+    "to_way": 782913954,
+    "via_node": 7165366968,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866074,
+    "from_way": 767436087,
+    "to_way": 767436087,
+    "via_node": 7165249657,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10866075,
+    "from_way": 767432259,
+    "to_way": 767436087,
+    "via_node": 7165249657,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866076,
+    "from_way": 767436086,
+    "to_way": 767436087,
+    "via_node": 7165249657,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866423,
+    "from_way": 832752922,
+    "to_way": 779225923,
+    "via_node": 7165301606,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866588,
+    "from_way": 680236864,
+    "to_way": 186243755,
+    "via_node": 6369211069,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866589,
+    "from_way": 783007778,
+    "to_way": 680236864,
+    "via_node": 6369211069,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866590,
+    "from_way": 186275444,
+    "to_way": 783007776,
+    "via_node": 6351401535,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866591,
+    "from_way": 756237609,
+    "to_way": 186275444,
+    "via_node": 6351401535,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866599,
+    "from_way": 783008394,
+    "to_way": 783008394,
+    "via_node": 7165209461,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 10866600,
+    "from_way": 783008395,
+    "to_way": 783008394,
+    "via_node": 7165209461,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866601,
+    "from_way": 783008395,
+    "to_way": 782913942,
+    "via_node": 7165209473,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866602,
+    "from_way": 782913942,
+    "to_way": 783008395,
+    "via_node": 7165209473,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866603,
+    "from_way": 782913943,
+    "to_way": 783008395,
+    "via_node": 7165209473,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866604,
+    "from_way": 782913941,
+    "to_way": 783008396,
+    "via_node": 5333986295,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866605,
+    "from_way": 767412897,
+    "to_way": 782913941,
+    "via_node": 5333986295,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866606,
+    "from_way": 783008396,
+    "to_way": 782913941,
+    "via_node": 5333986295,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10866607,
+    "from_way": 552463857,
+    "to_way": 186273009,
+    "via_node": 1974706722,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868598,
+    "from_way": 456703097,
+    "to_way": 456703092,
+    "via_node": 4529480122,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868599,
+    "from_way": 456703092,
+    "to_way": 764482243,
+    "via_node": 4529480122,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868628,
+    "from_way": 487140414,
+    "to_way": 247472974,
+    "via_node": 1286983538,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868629,
+    "from_way": 247472968,
+    "to_way": 487140414,
+    "via_node": 1286983538,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868630,
+    "from_way": 487137288,
+    "to_way": 247472894,
+    "via_node": 4796493726,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868631,
+    "from_way": 380520449,
+    "to_way": 487137288,
+    "via_node": 4796493726,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868632,
+    "from_way": 247472991,
+    "to_way": 515768255,
+    "via_node": 2543546569,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868633,
+    "from_way": 568873747,
+    "to_way": 247472991,
+    "via_node": 2543546569,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868636,
+    "from_way": 515753285,
+    "to_way": 1069816147,
+    "via_node": 265030225,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868637,
+    "from_way": 1069816147,
+    "to_way": 515751508,
+    "via_node": 265030225,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868638,
+    "from_way": 515740782,
+    "to_way": 108306536,
+    "via_node": 4419870890,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868639,
+    "from_way": 444509847,
+    "to_way": 515740782,
+    "via_node": 4419870890,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868643,
+    "from_way": 515734613,
+    "to_way": 568862307,
+    "via_node": 1242873319,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868644,
+    "from_way": 515734613,
+    "to_way": 1242227354,
+    "via_node": 4795022735,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868645,
+    "from_way": 1242227351,
+    "to_way": 515734613,
+    "via_node": 4795022735,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868646,
+    "from_way": 1242227354,
+    "to_way": 515734613,
+    "via_node": 4795022735,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868647,
+    "from_way": 515734248,
+    "to_way": 515733999,
+    "via_node": 4421425290,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868648,
+    "from_way": 444677162,
+    "to_way": 515734248,
+    "via_node": 4421425290,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868649,
+    "from_way": 515732198,
+    "to_way": 444676846,
+    "via_node": 4421533193,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868650,
+    "from_way": 444676846,
+    "to_way": 444688156,
+    "via_node": 4421533193,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868652,
+    "from_way": 783201244,
+    "to_way": 515731275,
+    "via_node": 6126444000,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868653,
+    "from_way": 783201244,
+    "to_way": 783201245,
+    "via_node": 4794967867,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868654,
+    "from_way": 654405128,
+    "to_way": 783201244,
+    "via_node": 4794967867,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 10868655,
+    "from_way": 783201245,
+    "to_way": 783201244,
+    "via_node": 4794967867,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868656,
+    "from_way": 654405131,
+    "to_way": 783201246,
+    "via_node": 4794967863,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868657,
+    "from_way": 783201245,
+    "to_way": 783201246,
+    "via_node": 4794967863,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868658,
+    "from_way": 783201246,
+    "to_way": 783201245,
+    "via_node": 4794967863,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868659,
+    "from_way": 783201246,
+    "to_way": 783201247,
+    "via_node": 4794967864,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 10868662,
+    "from_way": 783201250,
+    "to_way": 515730141,
+    "via_node": 4794645328,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11087935,
+    "from_way": 802245674,
+    "to_way": 154514435,
+    "via_node": 3733354234,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11087936,
+    "from_way": 154514435,
+    "to_way": 154514435,
+    "via_node": 3733354234,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 11087938,
+    "from_way": 802245674,
+    "to_way": 109405699,
+    "via_node": 422748601,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11117921,
+    "from_way": 749336957,
+    "to_way": 806004055,
+    "via_node": 1153809223,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 11117924,
+    "from_way": 749336803,
+    "to_way": 806004056,
+    "via_node": 7007441833,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 11167257,
+    "from_way": 116258740,
+    "to_way": 812525372,
+    "via_node": 6382497667,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11221499,
+    "from_way": 817845835,
+    "to_way": 817845835,
+    "via_node": 4715090481,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 11221500,
+    "from_way": 817845834,
+    "to_way": 136523236,
+    "via_node": 4715090481,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 11224346,
+    "from_way": 245474504,
+    "to_way": 479843129,
+    "via_node": 2526647155,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11224347,
+    "from_way": 479843130,
+    "to_way": 444901167,
+    "via_node": 2526647155,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 11244278,
+    "from_way": 383305714,
+    "to_way": 432838876,
+    "via_node": 2386400860,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11310876,
+    "from_way": 826976330,
+    "to_way": 826976332,
+    "via_node": 7720736710,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11315046,
+    "from_way": 113462932,
+    "to_way": 827376987,
+    "via_node": 6400444773,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11315047,
+    "from_way": 113462653,
+    "to_way": 827376988,
+    "via_node": 6400444772,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11328933,
+    "from_way": 126343537,
+    "to_way": 828296298,
+    "via_node": 1400848291,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11334068,
+    "from_way": 828700664,
+    "to_way": 828700667,
+    "via_node": 7735878516,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 11334069,
+    "from_way": 26923613,
+    "to_way": 828700665,
+    "via_node": 7735878516,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11337584,
+    "from_way": 829052296,
+    "to_way": 903245103,
+    "via_node": 7270813560,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11337585,
+    "from_way": 903245102,
+    "to_way": 829052296,
+    "via_node": 7270813560,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11375713,
+    "from_way": 833393655,
+    "to_way": 833393659,
+    "via_node": 7779726877,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11383962,
+    "from_way": 974553465,
+    "to_way": 834258265,
+    "via_node": 577460018,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11383963,
+    "from_way": 834258268,
+    "to_way": 974553465,
+    "via_node": 577460018,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 11385364,
+    "from_way": 834374433,
+    "to_way": 834374427,
+    "via_node": 7788737700,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11385365,
+    "from_way": 834374427,
+    "to_way": 666382328,
+    "via_node": 7788737700,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11385366,
+    "from_way": 666382337,
+    "to_way": 136518164,
+    "via_node": 6238893616,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11385367,
+    "from_way": 666382334,
+    "to_way": 666382337,
+    "via_node": 6238893616,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11541906,
+    "from_way": 749336958,
+    "to_way": 840371571,
+    "via_node": 1153809225,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11542148,
+    "from_way": 146605987,
+    "to_way": 226284335,
+    "via_node": 2351377733,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11542149,
+    "from_way": 146606013,
+    "to_way": 840400815,
+    "via_node": 2351377733,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 11863392,
+    "from_way": 438506584,
+    "to_way": 744577970,
+    "via_node": 6968652760,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 11863393,
+    "from_way": 438506583,
+    "to_way": 744577971,
+    "via_node": 6968652760,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 11867904,
+    "from_way": 570699645,
+    "to_way": 868885759,
+    "via_node": 5486627237,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11971961,
+    "from_way": 107654365,
+    "to_way": 880245068,
+    "via_node": 1236820518,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 11971962,
+    "from_way": 880245075,
+    "to_way": 880245074,
+    "via_node": 8187580867,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12017552,
+    "from_way": 1046748115,
+    "to_way": 414134052,
+    "via_node": 293547539,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 12079836,
+    "from_way": 887712519,
+    "to_way": 156599641,
+    "via_node": 4787530190,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12079863,
+    "from_way": 834640501,
+    "to_way": 834640499,
+    "via_node": 4606957513,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12153850,
+    "from_way": 759400735,
+    "to_way": 893605171,
+    "via_node": 8305166006,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 12153851,
+    "from_way": 759400734,
+    "to_way": 893605170,
+    "via_node": 8305166006,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 12185238,
+    "from_way": 895167647,
+    "to_way": 895167649,
+    "via_node": 8320783016,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12397857,
+    "from_way": 913509301,
+    "to_way": 114169289,
+    "via_node": 1293682442,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 12397858,
+    "from_way": 114169289,
+    "to_way": 913509302,
+    "via_node": 1293682442,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 12477327,
+    "from_way": 32883453,
+    "to_way": 887904693,
+    "via_node": 792611398,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12477328,
+    "from_way": 1059719615,
+    "to_way": 1059719615,
+    "via_node": 792611398,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12477329,
+    "from_way": 920879170,
+    "to_way": 920879170,
+    "via_node": 792611501,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12477330,
+    "from_way": 670941798,
+    "to_way": 64442392,
+    "via_node": 792611501,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12485994,
+    "from_way": 921695744,
+    "to_way": 921695744,
+    "via_node": 4839404307,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12485995,
+    "from_way": 977997169,
+    "to_way": 977997170,
+    "via_node": 4839404307,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12485996,
+    "from_way": 491852395,
+    "to_way": 491852395,
+    "via_node": 4907750242,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12485997,
+    "from_way": 746506416,
+    "to_way": 1173558208,
+    "via_node": 4907750242,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12497320,
+    "from_way": 730203148,
+    "to_way": 489793049,
+    "via_node": 4820038040,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12497321,
+    "from_way": 489793049,
+    "to_way": 489791561,
+    "via_node": 4820038040,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12500231,
+    "from_way": 925450077,
+    "to_way": 151937171,
+    "via_node": 1647733444,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12500232,
+    "from_way": 151937171,
+    "to_way": 923046100,
+    "via_node": 1647733444,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12514230,
+    "from_way": 782616163,
+    "to_way": 924123333,
+    "via_node": 7308485863,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12525646,
+    "from_way": 1172951454,
+    "to_way": 1172951455,
+    "via_node": 515635264,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12525647,
+    "from_way": 1172951455,
+    "to_way": 924987065,
+    "via_node": 515635264,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12525648,
+    "from_way": 479960503,
+    "to_way": 1172937910,
+    "via_node": 4729894032,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 12525649,
+    "from_way": 1172937909,
+    "to_way": 194709900,
+    "via_node": 4729894032,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 12537654,
+    "from_way": 765823311,
+    "to_way": 765823312,
+    "via_node": 6874590777,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12537655,
+    "from_way": 49063067,
+    "to_way": 765823311,
+    "via_node": 6874590777,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12537656,
+    "from_way": 164974601,
+    "to_way": 653828100,
+    "via_node": 6127248843,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12537657,
+    "from_way": 653828098,
+    "to_way": 164974601,
+    "via_node": 6127248843,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12541452,
+    "from_way": 155381709,
+    "to_way": 926477552,
+    "via_node": 1677905883,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12541453,
+    "from_way": 926477553,
+    "to_way": 155381709,
+    "via_node": 1677905883,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12542553,
+    "from_way": 237840994,
+    "to_way": 926651705,
+    "via_node": 3410239404,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 12542554,
+    "from_way": 727980548,
+    "to_way": 926651706,
+    "via_node": 3410239404,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545824,
+    "from_way": 926919004,
+    "to_way": 333952094,
+    "via_node": 3410239442,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545825,
+    "from_way": 333952094,
+    "to_way": 926919002,
+    "via_node": 3410239442,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545826,
+    "from_way": 273692828,
+    "to_way": 333936620,
+    "via_node": 2785250800,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545827,
+    "from_way": 485852475,
+    "to_way": 333936620,
+    "via_node": 2785250800,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545828,
+    "from_way": 333936620,
+    "to_way": 485852475,
+    "via_node": 2785250800,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545829,
+    "from_way": 273692822,
+    "to_way": 273692822,
+    "via_node": 2785250810,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12545830,
+    "from_way": 333936620,
+    "to_way": 273692822,
+    "via_node": 2785250810,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545841,
+    "from_way": 677684764,
+    "to_way": 677685312,
+    "via_node": 6345396062,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12545842,
+    "from_way": 677684763,
+    "to_way": 677684764,
+    "via_node": 6345396062,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 12546632,
+    "from_way": 927068772,
+    "to_way": 560472207,
+    "via_node": 7738745641,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12546633,
+    "from_way": 560472207,
+    "to_way": 927068773,
+    "via_node": 7738745641,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12546634,
+    "from_way": 851747087,
+    "to_way": 743284823,
+    "via_node": 7738745654,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12546635,
+    "from_way": 743284823,
+    "to_way": 743284824,
+    "via_node": 7738745654,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12546636,
+    "from_way": 829050599,
+    "to_way": 927068774,
+    "via_node": 6957457535,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12546637,
+    "from_way": 743284823,
+    "to_way": 927068774,
+    "via_node": 6957457535,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12546638,
+    "from_way": 927068774,
+    "to_way": 743284823,
+    "via_node": 6957457535,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12547367,
+    "from_way": 768708149,
+    "to_way": 768708149,
+    "via_node": 7176686473,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12557917,
+    "from_way": 928264540,
+    "to_way": 1116948821,
+    "via_node": 3450241891,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12557918,
+    "from_way": 1116948821,
+    "to_way": 337947532,
+    "via_node": 3450241891,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12559277,
+    "from_way": 288140707,
+    "to_way": 928442599,
+    "via_node": 3758228865,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12559278,
+    "from_way": 928442599,
+    "to_way": 928442599,
+    "via_node": 3758228865,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12559279,
+    "from_way": 304373522,
+    "to_way": 304373522,
+    "via_node": 490545446,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12559280,
+    "from_way": 40479496,
+    "to_way": 304373522,
+    "via_node": 490545446,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12564545,
+    "from_way": 478746594,
+    "to_way": 669948574,
+    "via_node": 6274141698,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12564546,
+    "from_way": 669948574,
+    "to_way": 669948568,
+    "via_node": 6274141698,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12580176,
+    "from_way": 922801781,
+    "to_way": 922801781,
+    "via_node": 7134034235,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 12580177,
+    "from_way": 922801784,
+    "to_way": 922801781,
+    "via_node": 7134034235,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12580178,
+    "from_way": 922801777,
+    "to_way": 763470035,
+    "via_node": 7134034238,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12580179,
+    "from_way": 922801776,
+    "to_way": 922801777,
+    "via_node": 7134034238,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12622461,
+    "from_way": 934494843,
+    "to_way": 934494837,
+    "via_node": 8660733234,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12622462,
+    "from_way": 934494846,
+    "to_way": 934494842,
+    "via_node": 7179369335,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12622464,
+    "from_way": 154136672,
+    "to_way": 934494846,
+    "via_node": 8660733236,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12622469,
+    "from_way": 154120187,
+    "to_way": 934494843,
+    "via_node": 3826759176,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12639325,
+    "from_way": 936207232,
+    "to_way": 327550662,
+    "via_node": 8675100692,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12639326,
+    "from_way": 327550662,
+    "to_way": 936207226,
+    "via_node": 8675100692,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12639400,
+    "from_way": 936215844,
+    "to_way": 936215840,
+    "via_node": 8675182989,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 12773032,
+    "from_way": 963510094,
+    "to_way": 948564018,
+    "via_node": 5664056441,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12773033,
+    "from_way": 948564019,
+    "to_way": 963510094,
+    "via_node": 5664056441,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12937349,
+    "from_way": 963211665,
+    "to_way": 251197932,
+    "via_node": 2522806711,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12937350,
+    "from_way": 251197932,
+    "to_way": 963211668,
+    "via_node": 2522806711,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12941696,
+    "from_way": 963504834,
+    "to_way": 963504830,
+    "via_node": 8622013072,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12989289,
+    "from_way": 965138955,
+    "to_way": 965138960,
+    "via_node": 8928269675,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12989290,
+    "from_way": 965138960,
+    "to_way": 945919083,
+    "via_node": 8928269675,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 12990374,
+    "from_way": 152131974,
+    "to_way": 683864112,
+    "via_node": 6405944168,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 12990375,
+    "from_way": 683864088,
+    "to_way": 903245101,
+    "via_node": 6405944168,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 13033944,
+    "from_way": 968509459,
+    "to_way": 968509461,
+    "via_node": 2980439994,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13033945,
+    "from_way": 968509461,
+    "to_way": 968509460,
+    "via_node": 2980439994,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13033946,
+    "from_way": 968509460,
+    "to_way": 968509461,
+    "via_node": 2980439994,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13033947,
+    "from_way": 294021940,
+    "to_way": 294021940,
+    "via_node": 2993762901,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13033948,
+    "from_way": 968509461,
+    "to_way": 294021940,
+    "via_node": 2993762901,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13033949,
+    "from_way": 968509462,
+    "to_way": 968509462,
+    "via_node": 4524148847,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13033950,
+    "from_way": 460877341,
+    "to_way": 968509462,
+    "via_node": 4524148847,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13033951,
+    "from_way": 490216024,
+    "to_way": 490216024,
+    "via_node": 4823903137,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13033952,
+    "from_way": 968509462,
+    "to_way": 490216024,
+    "via_node": 4823903137,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13033953,
+    "from_way": 295637905,
+    "to_way": 490216024,
+    "via_node": 4823903137,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139167,
+    "from_way": 746345240,
+    "to_way": 977519831,
+    "via_node": 6984563239,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 13139168,
+    "from_way": 977519829,
+    "to_way": 977519832,
+    "via_node": 6984563239,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 13139282,
+    "from_way": 977523920,
+    "to_way": 977523921,
+    "via_node": 9045115675,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139283,
+    "from_way": 966462919,
+    "to_way": 977523922,
+    "via_node": 9045115675,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139325,
+    "from_way": 652912445,
+    "to_way": 652912446,
+    "via_node": 6119743898,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139326,
+    "from_way": 652912446,
+    "to_way": 977519826,
+    "via_node": 6119743898,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139337,
+    "from_way": 977526269,
+    "to_way": 977526270,
+    "via_node": 8631683297,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139338,
+    "from_way": 652912414,
+    "to_way": 977526269,
+    "via_node": 8631683297,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139339,
+    "from_way": 977526270,
+    "to_way": 977526269,
+    "via_node": 8631683297,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139340,
+    "from_way": 977526270,
+    "to_way": 977526270,
+    "via_node": 5664056363,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13139341,
+    "from_way": 977526271,
+    "to_way": 977526270,
+    "via_node": 5664056363,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139342,
+    "from_way": 977526272,
+    "to_way": 977526272,
+    "via_node": 5664056368,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13139343,
+    "from_way": 977526271,
+    "to_way": 977526272,
+    "via_node": 5664056368,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139344,
+    "from_way": 977523922,
+    "to_way": 652912412,
+    "via_node": 5664056396,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139345,
+    "from_way": 652912412,
+    "to_way": 977526272,
+    "via_node": 5664056396,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139346,
+    "from_way": 977526272,
+    "to_way": 652912412,
+    "via_node": 5664056396,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139347,
+    "from_way": 593825494,
+    "to_way": 746505299,
+    "via_node": 5664056423,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139348,
+    "from_way": 746505299,
+    "to_way": 675762785,
+    "via_node": 5664056423,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139349,
+    "from_way": 675762785,
+    "to_way": 746505299,
+    "via_node": 5664056423,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139350,
+    "from_way": 652722401,
+    "to_way": 652722401,
+    "via_node": 5664056422,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13139351,
+    "from_way": 746505299,
+    "to_way": 652722401,
+    "via_node": 5664056422,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139355,
+    "from_way": 977526280,
+    "to_way": 977526280,
+    "via_node": 9045115759,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 13139356,
+    "from_way": 652722404,
+    "to_way": 977526280,
+    "via_node": 9045115759,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139374,
+    "from_way": 593825486,
+    "to_way": 593825479,
+    "via_node": 9045115646,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139375,
+    "from_way": 977523924,
+    "to_way": 593825486,
+    "via_node": 9045115646,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139555,
+    "from_way": 977534015,
+    "to_way": 977534016,
+    "via_node": 8281898621,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139556,
+    "from_way": 675762785,
+    "to_way": 977534016,
+    "via_node": 8281898621,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13139557,
+    "from_way": 977534016,
+    "to_way": 675762785,
+    "via_node": 8281898621,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13149429,
+    "from_way": 977778870,
+    "to_way": 481526693,
+    "via_node": 799919447,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13149430,
+    "from_way": 481526693,
+    "to_way": 977778871,
+    "via_node": 799919447,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13160058,
+    "from_way": 195049606,
+    "to_way": 86877685,
+    "via_node": 1010955890,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13160059,
+    "from_way": 86877685,
+    "to_way": 86864038,
+    "via_node": 1010955890,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 13397455,
+    "from_way": 136518033,
+    "to_way": 998409605,
+    "via_node": 3594385631,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 13413468,
+    "from_way": 1000088863,
+    "to_way": 1000088858,
+    "via_node": 9231649226,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 13413469,
+    "from_way": 1000088864,
+    "to_way": 1000088863,
+    "via_node": 9231649232,
+    "restriction": "no_straight_on"
+  },
+  {
+    "id": 13413470,
+    "from_way": 1000088864,
+    "to_way": 1000088862,
+    "via_node": 9231649232,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 13425236,
+    "from_way": 1001078320,
+    "to_way": 170914574,
+    "via_node": 410173826,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14079272,
+    "from_way": 1055101827,
+    "to_way": 304373528,
+    "via_node": 2917017097,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14079273,
+    "from_way": 304373528,
+    "to_way": 1055101827,
+    "via_node": 2917017097,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14079274,
+    "from_way": 1519543771,
+    "to_way": 1055101827,
+    "via_node": 2917017097,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14111322,
+    "from_way": 119160883,
+    "to_way": 517702951,
+    "via_node": 5051562703,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14111323,
+    "from_way": 1299718325,
+    "to_way": 517702951,
+    "via_node": 5051562703,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14111324,
+    "from_way": 517702951,
+    "to_way": 1299718325,
+    "via_node": 5051562703,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14111325,
+    "from_way": 517702951,
+    "to_way": 656967932,
+    "via_node": 1667866192,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14111326,
+    "from_way": 656967932,
+    "to_way": 656967932,
+    "via_node": 1667866192,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14254029,
+    "from_way": 1069816139,
+    "to_way": 1069816140,
+    "via_node": 4796468685,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254030,
+    "from_way": 568873316,
+    "to_way": 1069816139,
+    "via_node": 4796468685,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254031,
+    "from_way": 1069816147,
+    "to_way": 1069816148,
+    "via_node": 4796385585,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254032,
+    "from_way": 247472981,
+    "to_way": 1069816147,
+    "via_node": 4796385585,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254033,
+    "from_way": 1069816160,
+    "to_way": 515740782,
+    "via_node": 4795172525,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254034,
+    "from_way": 515740782,
+    "to_way": 1069816161,
+    "via_node": 4795172525,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254035,
+    "from_way": 1069816168,
+    "to_way": 1069816169,
+    "via_node": 9818928893,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254036,
+    "from_way": 447741994,
+    "to_way": 1069816175,
+    "via_node": 9818928893,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254037,
+    "from_way": 444688184,
+    "to_way": 1069816180,
+    "via_node": 9818928914,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254038,
+    "from_way": 1069816176,
+    "to_way": 1069816177,
+    "via_node": 9818928914,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254040,
+    "from_way": 515728574,
+    "to_way": 515728574,
+    "via_node": 4794604634,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14254041,
+    "from_way": 515728065,
+    "to_way": 515728574,
+    "via_node": 4794604634,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254042,
+    "from_way": 515728065,
+    "to_way": 1069816722,
+    "via_node": 4794609950,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254043,
+    "from_way": 1069816722,
+    "to_way": 515728065,
+    "via_node": 4794609950,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14254044,
+    "from_way": 170455961,
+    "to_way": 515728065,
+    "via_node": 4794609950,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380007,
+    "from_way": 1080806668,
+    "to_way": 161561444,
+    "via_node": 1735301726,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380008,
+    "from_way": 161561444,
+    "to_way": 1080806667,
+    "via_node": 1735301726,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380009,
+    "from_way": 1080806670,
+    "to_way": 1080806671,
+    "via_node": 1735301846,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380010,
+    "from_way": 1080806671,
+    "to_way": 476052221,
+    "via_node": 1735301846,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380011,
+    "from_way": 1080806672,
+    "to_way": 1080806671,
+    "via_node": 7055972730,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380012,
+    "from_way": 1080806671,
+    "to_way": 1080806672,
+    "via_node": 7055972730,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380013,
+    "from_way": 161561404,
+    "to_way": 1080806671,
+    "via_node": 7055972730,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14380014,
+    "from_way": 1080806672,
+    "to_way": 1080806672,
+    "via_node": 1726822588,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14380015,
+    "from_way": 161561427,
+    "to_way": 1080806672,
+    "via_node": 1726822588,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14387203,
+    "from_way": 544746713,
+    "to_way": 544746707,
+    "via_node": 3917994092,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14391040,
+    "from_way": 45415120,
+    "to_way": 1081678218,
+    "via_node": 8163495893,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 14391041,
+    "from_way": 975860729,
+    "to_way": 45415122,
+    "via_node": 577459840,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 14399668,
+    "from_way": 482173487,
+    "to_way": 1082290276,
+    "via_node": 4750275830,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14399669,
+    "from_way": 1082290276,
+    "to_way": 482173488,
+    "via_node": 3006975440,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14399670,
+    "from_way": 482173488,
+    "to_way": 1082290276,
+    "via_node": 3006975440,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14454492,
+    "from_way": 182767366,
+    "to_way": 182767366,
+    "via_node": 1931223158,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14454493,
+    "from_way": 1085964348,
+    "to_way": 1085964347,
+    "via_node": 1931223158,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14454494,
+    "from_way": 182767366,
+    "to_way": 182767366,
+    "via_node": 1931223552,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14454495,
+    "from_way": 1085964349,
+    "to_way": 182767365,
+    "via_node": 1931223552,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14649684,
+    "from_way": 584937014,
+    "to_way": 586046659,
+    "via_node": 5590668647,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14649685,
+    "from_way": 586046663,
+    "to_way": 586046658,
+    "via_node": 5590668647,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708246,
+    "from_way": 320328217,
+    "to_way": 1104964985,
+    "via_node": 358057498,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 14708247,
+    "from_way": 1104964984,
+    "to_way": 1104964985,
+    "via_node": 358057498,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14708248,
+    "from_way": 1104964985,
+    "to_way": 1104964984,
+    "via_node": 358057498,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911001,
+    "from_way": 1115748488,
+    "to_way": 186600844,
+    "via_node": 1305909695,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911002,
+    "from_way": 186600844,
+    "to_way": 1115748490,
+    "via_node": 1305909695,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911003,
+    "from_way": 186600844,
+    "to_way": 1115748487,
+    "via_node": 1305881221,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911004,
+    "from_way": 1115748489,
+    "to_way": 186600844,
+    "via_node": 1305881221,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911005,
+    "from_way": 1115748485,
+    "to_way": 186600842,
+    "via_node": 1305885547,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911006,
+    "from_way": 186600842,
+    "to_way": 1115748484,
+    "via_node": 1305885547,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911007,
+    "from_way": 1115748483,
+    "to_way": 186600842,
+    "via_node": 1973443592,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14911008,
+    "from_way": 186600842,
+    "to_way": 1115748486,
+    "via_node": 1973443592,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14925667,
+    "from_way": 1083899417,
+    "to_way": 1116595216,
+    "via_node": 4730063021,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14925668,
+    "from_way": 1116595216,
+    "to_way": 570726268,
+    "via_node": 4730063021,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14925669,
+    "from_way": 570726268,
+    "to_way": 1116595216,
+    "via_node": 4730063021,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14925670,
+    "from_way": 570726254,
+    "to_way": 1116595217,
+    "via_node": 1295316357,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14925671,
+    "from_way": 1116595217,
+    "to_way": 570726254,
+    "via_node": 1295316357,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14925672,
+    "from_way": 1116595215,
+    "to_way": 570726254,
+    "via_node": 1295316357,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14925674,
+    "from_way": 1116595218,
+    "to_way": 114216572,
+    "via_node": 1295366660,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14931328,
+    "from_way": 1116900277,
+    "to_way": 284299842,
+    "via_node": 2880403681,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14931329,
+    "from_way": 479963911,
+    "to_way": 1116900277,
+    "via_node": 2880403681,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14931330,
+    "from_way": 1116900278,
+    "to_way": 1116900278,
+    "via_node": 2880403692,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14931331,
+    "from_way": 1116900277,
+    "to_way": 1116900278,
+    "via_node": 2880403692,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14931332,
+    "from_way": 444101871,
+    "to_way": 1116900278,
+    "via_node": 2880403692,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14937363,
+    "from_way": 771555687,
+    "to_way": 771555687,
+    "via_node": 1742396249,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 14937364,
+    "from_way": 1117320482,
+    "to_way": 771555687,
+    "via_node": 1742396249,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14937365,
+    "from_way": 162329797,
+    "to_way": 771555687,
+    "via_node": 1742396205,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14937366,
+    "from_way": 928264528,
+    "to_way": 162329797,
+    "via_node": 1742396205,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 14937367,
+    "from_way": 771555687,
+    "to_way": 162329797,
+    "via_node": 1742396205,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15101425,
+    "from_way": 570722020,
+    "to_way": 570722019,
+    "via_node": 10316548283,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15101426,
+    "from_way": 1513896550,
+    "to_way": 570722020,
+    "via_node": 10316548283,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15101899,
+    "from_way": 1128457464,
+    "to_way": 1128457465,
+    "via_node": 613251825,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15101900,
+    "from_way": 195049612,
+    "to_way": 1128457464,
+    "via_node": 613251825,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15134115,
+    "from_way": 485697919,
+    "to_way": 485697918,
+    "via_node": 4784719945,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15134116,
+    "from_way": 485697918,
+    "to_way": 485697919,
+    "via_node": 4784719945,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15134117,
+    "from_way": 1128905145,
+    "to_way": 485697919,
+    "via_node": 4784719945,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15284816,
+    "from_way": 333952094,
+    "to_way": 1131610415,
+    "via_node": 10549007408,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15284817,
+    "from_way": 333952116,
+    "to_way": 333952094,
+    "via_node": 10549007408,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15284818,
+    "from_way": 1131610415,
+    "to_way": 333952094,
+    "via_node": 10549007408,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15284819,
+    "from_way": 1131610415,
+    "to_way": 1131610415,
+    "via_node": 3410239456,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 15430051,
+    "from_way": 1137767355,
+    "to_way": 1137767355,
+    "via_node": 1969315170,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 15430052,
+    "from_way": 1137767356,
+    "to_way": 1137767355,
+    "via_node": 1969315170,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430053,
+    "from_way": 1137767356,
+    "to_way": 1137767357,
+    "via_node": 1969294398,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430054,
+    "from_way": 1137767357,
+    "to_way": 1137767356,
+    "via_node": 1969294398,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430055,
+    "from_way": 114303384,
+    "to_way": 1137767356,
+    "via_node": 1969294398,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430056,
+    "from_way": 1137767358,
+    "to_way": 1137767357,
+    "via_node": 1969315171,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430057,
+    "from_way": 1137767357,
+    "to_way": 1137767358,
+    "via_node": 1969315171,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430058,
+    "from_way": 832754356,
+    "to_way": 1137767358,
+    "via_node": 1969315171,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15430059,
+    "from_way": 186242263,
+    "to_way": 186242263,
+    "via_node": 1969294406,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 15430060,
+    "from_way": 1137767358,
+    "to_way": 186242263,
+    "via_node": 1969294406,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15457298,
+    "from_way": 315930610,
+    "to_way": 1141855127,
+    "via_node": 2569203537,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15457299,
+    "from_way": 41790503,
+    "to_way": 1141855126,
+    "via_node": 2569203537,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15457300,
+    "from_way": 250139674,
+    "to_way": 1141855128,
+    "via_node": 2566384923,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15457301,
+    "from_way": 455681576,
+    "to_way": 1141855129,
+    "via_node": 2566384923,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15457302,
+    "from_way": 1141855140,
+    "to_way": 1141855131,
+    "via_node": 1378339076,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15457304,
+    "from_way": 123685438,
+    "to_way": 1141855132,
+    "via_node": 1378339076,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15467831,
+    "from_way": 1144428534,
+    "to_way": 117585122,
+    "via_node": 7150048359,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15467832,
+    "from_way": 114816803,
+    "to_way": 1144428534,
+    "via_node": 7150048359,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15467833,
+    "from_way": 1144428533,
+    "to_way": 51395775,
+    "via_node": 525123840,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15467834,
+    "from_way": 464282868,
+    "to_way": 1144428533,
+    "via_node": 525123840,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15618842,
+    "from_way": 795986133,
+    "to_way": 1155446254,
+    "via_node": 7486082032,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15618845,
+    "from_way": 995894713,
+    "to_way": 1196702957,
+    "via_node": 7486081986,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15618847,
+    "from_way": 995894700,
+    "to_way": 1155440128,
+    "via_node": 11104147854,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15618848,
+    "from_way": 1155440135,
+    "to_way": 1155440128,
+    "via_node": 11104147854,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15648149,
+    "from_way": 1157449019,
+    "to_way": 1157449020,
+    "via_node": 4795067253,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15648150,
+    "from_way": 1140614843,
+    "to_way": 515737308,
+    "via_node": 4795071637,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15701332,
+    "from_way": 840488691,
+    "to_way": 1160966186,
+    "via_node": 9687334086,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15841058,
+    "from_way": 1171484107,
+    "to_way": 134220852,
+    "via_node": 4524185115,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15864683,
+    "from_way": 1173558210,
+    "to_way": 750610123,
+    "via_node": 10904185424,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15864684,
+    "from_way": 750610121,
+    "to_way": 750610123,
+    "via_node": 10904185424,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 15864685,
+    "from_way": 750610123,
+    "to_way": 675774928,
+    "via_node": 7018301826,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 16766918,
+    "from_way": 64443925,
+    "to_way": 544313650,
+    "via_node": 792636844,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 16877072,
+    "from_way": 654462427,
+    "to_way": 654462428,
+    "via_node": 6132570574,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 16877073,
+    "from_way": 654462427,
+    "to_way": 1234307473,
+    "via_node": 6132570574,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 16877074,
+    "from_way": 654462425,
+    "to_way": 1234307469,
+    "via_node": 6132570574,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 16877075,
+    "from_way": 654462425,
+    "to_way": 654462426,
+    "via_node": 6132570574,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 16877080,
+    "from_way": 113524816,
+    "to_way": 1234307473,
+    "via_node": 11455739902,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 17058076,
+    "from_way": 71501853,
+    "to_way": 888019264,
+    "via_node": 850520702,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 17073668,
+    "from_way": 1242476059,
+    "to_way": 1242476058,
+    "via_node": 954485530,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 17073669,
+    "from_way": 1242476059,
+    "to_way": 477871867,
+    "via_node": 954485530,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 17073670,
+    "from_way": 283921048,
+    "to_way": 1242476058,
+    "via_node": 2877278372,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 17096365,
+    "from_way": 436136956,
+    "to_way": 414066891,
+    "via_node": 1321604848,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18085123,
+    "from_way": 189036401,
+    "to_way": 478068156,
+    "via_node": 4713256902,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18085124,
+    "from_way": 478068156,
+    "to_way": 1317843882,
+    "via_node": 4713256902,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18085125,
+    "from_way": 1317843882,
+    "to_way": 478068156,
+    "via_node": 4713256902,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18085126,
+    "from_way": 127773482,
+    "to_way": 1317843882,
+    "via_node": 4713245824,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 18085127,
+    "from_way": 127773485,
+    "to_way": 127773482,
+    "via_node": 1413501803,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18085128,
+    "from_way": 127773482,
+    "to_way": 478066738,
+    "via_node": 1413501803,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18085129,
+    "from_way": 1317843882,
+    "to_way": 1317843882,
+    "via_node": 4713245824,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 18492707,
+    "from_way": 378755735,
+    "to_way": 1347963265,
+    "via_node": 3821559662,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 18776593,
+    "from_way": 928945112,
+    "to_way": 922801784,
+    "via_node": 7134034235,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 18776594,
+    "from_way": 928945112,
+    "to_way": 922801783,
+    "via_node": 7134034235,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 18776595,
+    "from_way": 677437279,
+    "to_way": 677437280,
+    "via_node": 1616965083,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 18885173,
+    "from_way": 742188642,
+    "to_way": 1160554945,
+    "via_node": 5965968816,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18885174,
+    "from_way": 1160554945,
+    "to_way": 447035571,
+    "via_node": 5965968816,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960525,
+    "from_way": 1375839957,
+    "to_way": 767423393,
+    "via_node": 11499705295,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960526,
+    "from_way": 1375839961,
+    "to_way": 1375839965,
+    "via_node": 10169374943,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960527,
+    "from_way": 1111559055,
+    "to_way": 1034410690,
+    "via_node": 10169374993,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960528,
+    "from_way": 1375839956,
+    "to_way": 1375839963,
+    "via_node": 5334026100,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960529,
+    "from_way": 1034230882,
+    "to_way": 1375450648,
+    "via_node": 12738847775,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960530,
+    "from_way": 1034230880,
+    "to_way": 1375839967,
+    "via_node": 5334026106,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960531,
+    "from_way": 1375839964,
+    "to_way": 1375449589,
+    "via_node": 9527696356,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 18960532,
+    "from_way": 1375839965,
+    "to_way": 1375839962,
+    "via_node": 5334019411,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19246566,
+    "from_way": 489083136,
+    "to_way": 460700007,
+    "via_node": 5411589972,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 19473282,
+    "from_way": 1118858320,
+    "to_way": 379469088,
+    "via_node": 3969541857,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 19473283,
+    "from_way": 1118858319,
+    "to_way": 1422963299,
+    "via_node": 3969527752,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 19543286,
+    "from_way": 1375450646,
+    "to_way": 1426050623,
+    "via_node": 13108873638,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19543287,
+    "from_way": 1426050637,
+    "to_way": 1426199355,
+    "via_node": 13108870168,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19548348,
+    "from_way": 767656989,
+    "to_way": 1426199355,
+    "via_node": 5333986305,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19548349,
+    "from_way": 767656990,
+    "to_way": 1426199356,
+    "via_node": 9950597413,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19548352,
+    "from_way": 767656992,
+    "to_way": 1426199357,
+    "via_node": 3917994059,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19548353,
+    "from_way": 1426199357,
+    "to_way": 755373056,
+    "via_node": 7055996460,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19761315,
+    "from_way": 1000094909,
+    "to_way": 1444450241,
+    "via_node": 9231705963,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19839172,
+    "from_way": 783931094,
+    "to_way": 783931095,
+    "via_node": 2383826613,
+    "restriction": "no_u_turn"
+  },
+  {
+    "id": 19839173,
+    "from_way": 229839358,
+    "to_way": 1450784454,
+    "via_node": 2383826665,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 19839174,
+    "from_way": 1450784455,
+    "to_way": 456140440,
+    "via_node": 2383826665,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20043659,
+    "from_way": 727930645,
+    "to_way": 1463939807,
+    "via_node": 1638818803,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 20080289,
+    "from_way": 1152904547,
+    "to_way": 1466656239,
+    "via_node": 10723460823,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20080290,
+    "from_way": 1152904547,
+    "to_way": 1152904548,
+    "via_node": 10723460823,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20165571,
+    "from_way": 1473679136,
+    "to_way": 741613942,
+    "via_node": 8253466237,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20199046,
+    "from_way": 50228614,
+    "to_way": 1476345518,
+    "via_node": 638464687,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 20199047,
+    "from_way": 50228615,
+    "to_way": 1476345521,
+    "via_node": 638464690,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20199053,
+    "from_way": 50228617,
+    "to_way": 1476346138,
+    "via_node": 638464789,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20199054,
+    "from_way": 1476346138,
+    "to_way": 1476346139,
+    "via_node": 1834054733,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 20199057,
+    "from_way": 50228619,
+    "to_way": 1476346141,
+    "via_node": 638464794,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20286222,
+    "from_way": 1485372727,
+    "to_way": 381161546,
+    "via_node": 3844020337,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20286225,
+    "from_way": 1485372733,
+    "to_way": 381161547,
+    "via_node": 1239397885,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20335985,
+    "from_way": 727277885,
+    "to_way": 727302807,
+    "via_node": 6815723841,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20335986,
+    "from_way": 1489427847,
+    "to_way": 727277886,
+    "via_node": 6815723849,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20335987,
+    "from_way": 727302809,
+    "to_way": 727277886,
+    "via_node": 6815723849,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20335988,
+    "from_way": 674050307,
+    "to_way": 1489427848,
+    "via_node": 6815937028,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 20335989,
+    "from_way": 727302806,
+    "to_way": 1489427849,
+    "via_node": 6815937028,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 20335990,
+    "from_way": 727277898,
+    "to_way": 1489427854,
+    "via_node": 9905909051,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20335991,
+    "from_way": 1489427853,
+    "to_way": 1489427854,
+    "via_node": 9905909051,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20335992,
+    "from_way": 161931677,
+    "to_way": 1080802345,
+    "via_node": 1738831272,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20335993,
+    "from_way": 674049960,
+    "to_way": 1080802345,
+    "via_node": 1738831272,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397335,
+    "from_way": 56759864,
+    "to_way": 1494846699,
+    "via_node": 416379943,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 20397336,
+    "from_way": 130423551,
+    "to_way": 1494846705,
+    "via_node": 1435632391,
+    "restriction": "only_left_turn"
+  },
+  {
+    "id": 20397341,
+    "from_way": 56759864,
+    "to_way": 327550662,
+    "via_node": 710540370,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397342,
+    "from_way": 130423551,
+    "to_way": 327550662,
+    "via_node": 710540370,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397343,
+    "from_way": 160105559,
+    "to_way": 1104964985,
+    "via_node": 358057538,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20397344,
+    "from_way": 320328218,
+    "to_way": 514042835,
+    "via_node": 3268327722,
+    "restriction": "only_right_turn"
+  },
+  {
+    "id": 20397345,
+    "from_way": 1494846703,
+    "to_way": 1494846704,
+    "via_node": 358048867,
+    "restriction": "only_straight_on"
+  },
+  {
+    "id": 20601316,
+    "from_way": 264616492,
+    "to_way": 1505514676,
+    "via_node": 13773575310,
+    "restriction": "no_right_turn"
+  },
+  {
+    "id": 20601317,
+    "from_way": 264616492,
+    "to_way": 264422364,
+    "via_node": 13773575310,
+    "restriction": "no_left_turn"
+  },
+  {
+    "id": 21386924,
+    "from_way": 746340943,
+    "to_way": 1558460919,
+    "via_node": 9119659141,
+    "restriction": "only_right_turn"
+  }
+]

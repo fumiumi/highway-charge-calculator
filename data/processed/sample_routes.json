@@ -1,0 +1,583 @@
+[
+  {
+    "入口IC": "調布IC",
+    "出口IC": "国立府中IC",
+    "endpoint_mode": "access",
+    "通過IC_JCT": [
+      "稲城インターチェンジ",
+      "国立府中インターチェンジ"
+    ],
+    "採用経路": [
+      {
+        "from": "osm:9536907240",
+        "to": "osm:286839315",
+        "segment_id": "segment:16925",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.2885513963994649665",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286839315",
+        "to": "調布",
+        "segment_id": "segment:1092",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.06264271023034547",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "調布",
+        "to": "osm:286839334",
+        "segment_id": "segment:1093",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.01613877670736201",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286839334",
+        "to": "osm:260715011",
+        "segment_id": "segment:1094",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.4563262313618508725",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:260715011",
+        "to": "稲城インターチェンジ",
+        "segment_id": "segment:722",
+        "road_name": "中央自動車道",
+        "distance_km": "1.200721828723178570",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "稲城インターチェンジ",
+        "to": "osm:308923337",
+        "segment_id": "segment:885",
+        "road_name": "中央自動車道",
+        "distance_km": "2.497586570795849637",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "osm:308923337",
+        "to": "国立府中インターチェンジ",
+        "segment_id": "segment:1405",
+        "road_name": "中央自動車道",
+        "distance_km": "4.622175330509352012",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "国立府中インターチェンジ",
+        "to": "osm:286838438",
+        "segment_id": "segment:723",
+        "road_name": "国立府中インターチェンジ",
+        "distance_km": "0.327330775696452613",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286838438",
+        "to": "osm:286838484",
+        "segment_id": "segment:1090",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.2079022017679701825",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286838484",
+        "to": "osm:287053762",
+        "segment_id": "segment:1091",
+        "road_name": "国立府中インターチェンジ",
+        "distance_km": "0.253060637878663584",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:287053762",
+        "to": "osm:287053763",
+        "segment_id": "segment:1098",
+        "road_name": "国立府中インターチェンジ",
+        "distance_km": "0.050166069190623864",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:287053763",
+        "to": "osm:278929218",
+        "segment_id": "segment:1100",
+        "road_name": "国立府中インターチェンジ",
+        "distance_km": "0.228349975576124128",
+        "section_type": "UNKNOWN"
+      }
+    ],
+    "総走行距離_km": "10.2109525048372379095",
+    "料金区分別距離_km": {
+      "NORMAL": "0",
+      "METROPOLITAN": "8.320483730028380219",
+      "SPECIAL": "0",
+      "SPECIAL_SYSTEM": "0",
+      "UNKNOWN": "1.8904687748088576905"
+    },
+    "注意": "OSM形状距離。料金計算用の公式営業距離ではありません。UNKNOWNを含む場合は料金区分未確認。"
+  },
+  {
+    "入口IC": "調布IC",
+    "出口IC": "上野原IC",
+    "endpoint_mode": "access",
+    "通過IC_JCT": [
+      "稲城インターチェンジ",
+      "国立府中インターチェンジ",
+      "八王子インターチェンジ",
+      "八王子ジャンクション",
+      "相模湖東ＩＣ",
+      "相模湖インターチェンジ",
+      "上野原インターチェンジ"
+    ],
+    "採用経路": [
+      {
+        "from": "osm:9536907240",
+        "to": "osm:286839315",
+        "segment_id": "segment:16925",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.2885513963994649665",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286839315",
+        "to": "調布",
+        "segment_id": "segment:1092",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.06264271023034547",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "調布",
+        "to": "osm:286839334",
+        "segment_id": "segment:1093",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.01613877670736201",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286839334",
+        "to": "osm:260715011",
+        "segment_id": "segment:1094",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.4563262313618508725",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:260715011",
+        "to": "稲城インターチェンジ",
+        "segment_id": "segment:722",
+        "road_name": "中央自動車道",
+        "distance_km": "1.200721828723178570",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "稲城インターチェンジ",
+        "to": "osm:308923337",
+        "segment_id": "segment:885",
+        "road_name": "中央自動車道",
+        "distance_km": "2.497586570795849637",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "osm:308923337",
+        "to": "国立府中インターチェンジ",
+        "segment_id": "segment:1405",
+        "road_name": "中央自動車道",
+        "distance_km": "4.622175330509352012",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "国立府中インターチェンジ",
+        "to": "osm:266949762",
+        "segment_id": "segment:724",
+        "road_name": "中央自動車道",
+        "distance_km": "0.476111552771721054",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "osm:266949762",
+        "to": "石川PA (下り)",
+        "segment_id": "segment:879",
+        "road_name": "中央自動車道",
+        "distance_km": "6.494374548855079552",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "石川PA (下り)",
+        "to": "osm:260715112",
+        "segment_id": "segment:726",
+        "road_name": "中央自動車道",
+        "distance_km": "0.620877052619440734",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "osm:260715112",
+        "to": "八王子インターチェンジ",
+        "segment_id": "segment:727",
+        "road_name": "中央自動車道",
+        "distance_km": "0.868035788162307199",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "八王子インターチェンジ",
+        "to": "八王子インターチェンジ",
+        "segment_id": "segment:729",
+        "road_name": "中央自動車道",
+        "distance_km": "0.441420318779822864",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "八王子インターチェンジ",
+        "to": "osm:270617457",
+        "segment_id": "segment:881",
+        "road_name": "中央自動車道",
+        "distance_km": "0.55811223947819419",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "osm:270617457",
+        "to": "八王子本線料金所",
+        "segment_id": "segment:922",
+        "road_name": "中央自動車道",
+        "distance_km": "0.028693436346212756",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "八王子本線料金所",
+        "to": "八王子ジャンクション",
+        "segment_id": "segment:730",
+        "road_name": "中央自動車道",
+        "distance_km": "9.294662190027640813",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "八王子ジャンクション",
+        "to": "osm:626659764",
+        "segment_id": "segment:939",
+        "road_name": "中央自動車道",
+        "distance_km": "1.177302166437402682",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "osm:626659764",
+        "to": "osm:822928445",
+        "segment_id": "segment:3583",
+        "road_name": "中央自動車道",
+        "distance_km": "0.073868035160767953",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:822928445",
+        "to": "osm:626659734",
+        "segment_id": "segment:4500",
+        "road_name": "中央自動車道",
+        "distance_km": "0.338819688960448336",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:626659734",
+        "to": "相模湖東ＩＣ",
+        "segment_id": "segment:3581",
+        "road_name": "中央自動車道",
+        "distance_km": "5.458878482532332148",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "相模湖東ＩＣ",
+        "to": "相模湖インターチェンジ",
+        "segment_id": "segment:720",
+        "road_name": "中央自動車道",
+        "distance_km": "2.714678673162510668",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "相模湖インターチェンジ",
+        "to": "osm:4605260709",
+        "segment_id": "segment:6513",
+        "road_name": "中央自動車道",
+        "distance_km": "0.563497819350288881",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "osm:4605260709",
+        "to": "藤野PA（下り）",
+        "segment_id": "segment:10627",
+        "road_name": "中央自動車道",
+        "distance_km": "0.695080543739292589",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "藤野PA（下り）",
+        "to": "osm:626659428",
+        "segment_id": "segment:398",
+        "road_name": "中央自動車道",
+        "distance_km": "0.460833995291297982",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "osm:626659428",
+        "to": "上野原インターチェンジ",
+        "segment_id": "segment:3580",
+        "road_name": "中央自動車道",
+        "distance_km": "3.278160674286140368",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "上野原インターチェンジ",
+        "to": "osm:2351377735",
+        "segment_id": "segment:3578",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.420437181624488894",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:2351377735",
+        "to": "上野原ＩＣ",
+        "segment_id": "segment:7872",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.09363535309088472",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "上野原ＩＣ",
+        "to": "上野原I.C入口",
+        "segment_id": "segment:7868",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.220523241681350483",
+        "section_type": "UNKNOWN"
+      }
+    ],
+    "総走行距離_km": "43.4221458270850284040",
+    "料金区分別距離_km": {
+      "NORMAL": "24.229900220651313077",
+      "METROPOLITAN": "16.779882672436928758",
+      "SPECIAL": "0",
+      "SPECIAL_SYSTEM": "0",
+      "UNKNOWN": "2.4123629339967865690"
+    },
+    "注意": "OSM形状距離。料金計算用の公式営業距離ではありません。UNKNOWNを含む場合は料金区分未確認。"
+  },
+  {
+    "入口IC": "調布IC",
+    "出口IC": "相模原IC",
+    "endpoint_mode": "access",
+    "通過IC_JCT": [
+      "稲城インターチェンジ",
+      "国立府中インターチェンジ",
+      "八王子インターチェンジ",
+      "八王子ジャンクション",
+      "高尾山インターチェンジ",
+      "相模原インターチェンジ"
+    ],
+    "採用経路": [
+      {
+        "from": "osm:9536907240",
+        "to": "osm:286839315",
+        "segment_id": "segment:16925",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.2885513963994649665",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286839315",
+        "to": "調布",
+        "segment_id": "segment:1092",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.06264271023034547",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "調布",
+        "to": "osm:286839334",
+        "segment_id": "segment:1093",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.01613877670736201",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:286839334",
+        "to": "osm:260715011",
+        "segment_id": "segment:1094",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.4563262313618508725",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:260715011",
+        "to": "稲城インターチェンジ",
+        "segment_id": "segment:722",
+        "road_name": "中央自動車道",
+        "distance_km": "1.200721828723178570",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "稲城インターチェンジ",
+        "to": "osm:308923337",
+        "segment_id": "segment:885",
+        "road_name": "中央自動車道",
+        "distance_km": "2.497586570795849637",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "osm:308923337",
+        "to": "国立府中インターチェンジ",
+        "segment_id": "segment:1405",
+        "road_name": "中央自動車道",
+        "distance_km": "4.622175330509352012",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "国立府中インターチェンジ",
+        "to": "osm:266949762",
+        "segment_id": "segment:724",
+        "road_name": "中央自動車道",
+        "distance_km": "0.476111552771721054",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "osm:266949762",
+        "to": "石川PA (下り)",
+        "segment_id": "segment:879",
+        "road_name": "中央自動車道",
+        "distance_km": "6.494374548855079552",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "石川PA (下り)",
+        "to": "osm:260715112",
+        "segment_id": "segment:726",
+        "road_name": "中央自動車道",
+        "distance_km": "0.620877052619440734",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "osm:260715112",
+        "to": "八王子インターチェンジ",
+        "segment_id": "segment:727",
+        "road_name": "中央自動車道",
+        "distance_km": "0.868035788162307199",
+        "section_type": "METROPOLITAN"
+      },
+      {
+        "from": "八王子インターチェンジ",
+        "to": "八王子インターチェンジ",
+        "segment_id": "segment:729",
+        "road_name": "中央自動車道",
+        "distance_km": "0.441420318779822864",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "八王子インターチェンジ",
+        "to": "osm:270617457",
+        "segment_id": "segment:881",
+        "road_name": "中央自動車道",
+        "distance_km": "0.55811223947819419",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "osm:270617457",
+        "to": "八王子本線料金所",
+        "segment_id": "segment:922",
+        "road_name": "中央自動車道",
+        "distance_km": "0.028693436346212756",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "八王子本線料金所",
+        "to": "八王子ジャンクション",
+        "segment_id": "segment:730",
+        "road_name": "中央自動車道",
+        "distance_km": "9.294662190027640813",
+        "section_type": "NORMAL"
+      },
+      {
+        "from": "八王子ジャンクション",
+        "to": "osm:626659795",
+        "segment_id": "segment:940",
+        "road_name": "圏央道",
+        "distance_km": "0.640649979140362691",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:626659795",
+        "to": "osm:1694306238",
+        "segment_id": "segment:3585",
+        "road_name": "圏央道",
+        "distance_km": "0.241598720847125959",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:1694306238",
+        "to": "osm:1694306101",
+        "segment_id": "segment:6736",
+        "road_name": "圏央道",
+        "distance_km": "0.358368216957622881",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:1694306101",
+        "to": "高尾山インターチェンジ",
+        "segment_id": "segment:6733",
+        "road_name": "首都圏中央連絡自動車道",
+        "distance_km": "1.539452966689794781",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "高尾山インターチェンジ",
+        "to": "osm:2936455531",
+        "segment_id": "segment:6739",
+        "road_name": "首都圏中央連絡自動車道",
+        "distance_km": "0.434488780430731306",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:2936455531",
+        "to": "相模原インターチェンジ",
+        "segment_id": "segment:8532",
+        "road_name": "首都圏中央連絡自動車道",
+        "distance_km": "5.208811734982735402",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "相模原インターチェンジ",
+        "to": "osm:3438521409",
+        "segment_id": "segment:10428",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.6974659271474442505",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:3438521409",
+        "to": "相模原ＩＣ",
+        "segment_id": "segment:9002",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.03314358599678845",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "相模原ＩＣ",
+        "to": "osm:3438521407",
+        "segment_id": "segment:9001",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.03691172805245349",
+        "section_type": "UNKNOWN"
+      },
+      {
+        "from": "osm:3438521407",
+        "to": "osm:3433043049",
+        "segment_id": "segment:8999",
+        "road_name": "UNKNOWN",
+        "distance_km": "0.504976243959823256",
+        "section_type": "UNKNOWN"
+      }
+    ],
+    "総走行距離_km": "37.6222978559727051665",
+    "料金区分別距離_km": {
+      "NORMAL": "9.881467865852047759",
+      "METROPOLITAN": "16.779882672436928758",
+      "SPECIAL": "0",
+      "SPECIAL_SYSTEM": "0",
+      "UNKNOWN": "10.9609473176837286495"
+    },
+    "注意": "OSM形状距離。料金計算用の公式営業距離ではありません。UNKNOWNを含む場合は料金区分未確認。"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "inputs": [
+    {
+      "file": "kanto-260923.osm.pbf",
+      "url": "https://download.geofabrik.de/asia/japan/kanto-260923.osm.pbf",
+      "downloaded_at": "2026-09-25T00:27:24.558169+00:00",
+      "md5": "04e145c2075383c11b0762678ce13f26",
+      "sha256": "f7c45294a2f7ce9f0d63098d3bc6810b10a36f802c46222068d44e7c6e5aa306",
+      "bytes": 511981948,
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "osm_timestamp": "2026-09-23T20:22:04Z"
+    },
+    {
+      "file": "chubu-260923.osm.pbf",
+      "url": "https://download.geofabrik.de/asia/japan/chubu-260923.osm.pbf",
+      "downloaded_at": "2026-09-25T00:35:55.325357+00:00",
+      "md5": "3405b491b75c76d47da559ac11a90f63",
+      "sha256": "21c3873f3cd534c9072e977ccdfeb6c872aafb09fc8f91c2f40c92d9492eebee",
+      "bytes": 510665712,
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "osm_timestamp": "2026-09-23T20:22:04Z"
+    }
+  ],
+  "bbox": [
+    138.25,
+    34.75,
+    141.25,
+    37.25
+  ],
+  "distance_method": "WGS84 ellipsoidal sum over every OSM node pair; not toll mileage",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0"
+}

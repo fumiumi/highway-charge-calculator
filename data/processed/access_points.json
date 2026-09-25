@@ -1,0 +1,9297 @@
+{
+  "1002626398": {
+    "entry": [
+      "1966890493"
+    ],
+    "exit": [
+      "1966890493"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1002649329": {
+    "entry": [
+      "1308224080",
+      "263990028",
+      "8793526337"
+    ],
+    "exit": [
+      "2518858708",
+      "263989981",
+      "5758315939"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1015949526": {
+    "entry": [
+      "360155681"
+    ],
+    "exit": [
+      "360155681"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1016073496": {
+    "entry": [
+      "252838616",
+      "427498288"
+    ],
+    "exit": [
+      "1016073502",
+      "252838617"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1018873888": {
+    "entry": [
+      "1018873666"
+    ],
+    "exit": [
+      "1018873666"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1041276946": {
+    "entry": [
+      "1041276967"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1041298833": {
+    "entry": [
+      "1041298832",
+      "6389338137"
+    ],
+    "exit": [
+      "1041298832",
+      "2402061967",
+      "6389338137"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1059412724": {
+    "entry": [
+      "1059412618",
+      "1059412741",
+      "5968991239",
+      "9917820224"
+    ],
+    "exit": [
+      "1059412741",
+      "5968991239",
+      "9917820224"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1060494983": {
+    "entry": [
+      "980746439"
+    ],
+    "exit": [
+      "980746439"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1060495130": {
+    "entry": [
+      "286475584",
+      "286475593"
+    ],
+    "exit": [
+      "286475589",
+      "286475607"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1062180600": {
+    "entry": [
+      "1062180523",
+      "373686506"
+    ],
+    "exit": [
+      "1062180224",
+      "1062180638"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1064103756": {
+    "entry": [
+      "3582543283",
+      "3805363174"
+    ],
+    "exit": [
+      "3805363174",
+      "442960548"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1064146778": {
+    "entry": [
+      "1064146821"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1064146837": {
+    "entry": [],
+    "exit": [
+      "1064146806"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1066118205": {
+    "entry": [
+      "4362778962",
+      "670395943",
+      "670395974",
+      "9291929082"
+    ],
+    "exit": [
+      "4362778962",
+      "670395943",
+      "670395974",
+      "8077056791"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1068143142": {
+    "entry": [],
+    "exit": [
+      "4702994297",
+      "8279597398"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1070863041": {
+    "entry": [
+      "12881208983"
+    ],
+    "exit": [
+      "1070863469"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1072717612": {
+    "entry": [
+      "675799880"
+    ],
+    "exit": [
+      "675799880"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1072718252": {
+    "entry": [
+      "4740862054",
+      "4740862057",
+      "4740862058"
+    ],
+    "exit": [
+      "4740862054",
+      "4740862057",
+      "4740862058"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1075497280": {
+    "entry": [
+      "1414713561"
+    ],
+    "exit": [
+      "1414713561"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1075497568": {
+    "entry": [],
+    "exit": [
+      "1226761933"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1075525381": {
+    "entry": [
+      "2012419320"
+    ],
+    "exit": [
+      "11207392608"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1075525728": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1078624918": {
+    "entry": [
+      "2670920309"
+    ],
+    "exit": [
+      "1078625288",
+      "1535208854",
+      "2670920309"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1078986955": {
+    "entry": [
+      "2244754326",
+      "2387129705",
+      "270326032",
+      "277215112",
+      "6301440478"
+    ],
+    "exit": [
+      "1782274452",
+      "1782274456",
+      "2238384349",
+      "2244754326",
+      "4968324244"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1078987003": {
+    "entry": [
+      "2244754326",
+      "2387129705",
+      "270326032",
+      "277215112",
+      "6301440478"
+    ],
+    "exit": [
+      "1782274452",
+      "1782274456",
+      "2238384349",
+      "2244754326",
+      "4968324244"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1082039923": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1091725794": {
+    "entry": [
+      "2359268371"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1092494125": {
+    "entry": [
+      "854631394"
+    ],
+    "exit": [
+      "854631394"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1092626371": {
+    "entry": [
+      "1092626554",
+      "1326018834",
+      "545921247"
+    ],
+    "exit": [
+      "1092626447",
+      "1326018807",
+      "1326018834"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1092626424": {
+    "entry": [
+      "1092626554",
+      "1326018834",
+      "545921247"
+    ],
+    "exit": [
+      "1092626447",
+      "1326018807",
+      "1326018834"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1092777186": {
+    "entry": [
+      "10676016005",
+      "2960774995",
+      "2960776064",
+      "303076584"
+    ],
+    "exit": [
+      "10676016005",
+      "2960776064",
+      "303076584"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1092788078": {
+    "entry": [
+      "1092788020",
+      "5170314457"
+    ],
+    "exit": [
+      "10675987561",
+      "5170314435"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1116545786": {
+    "entry": [
+      "2250231270",
+      "3798213233",
+      "3809994157"
+    ],
+    "exit": [
+      "2250231270",
+      "3798213233",
+      "3809994157"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1116547132": {
+    "entry": [
+      "1632650140"
+    ],
+    "exit": [
+      "1632650140"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1125926447": {
+    "entry": [
+      "1808422363"
+    ],
+    "exit": [
+      "1808422363",
+      "1808422370",
+      "252831777"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1143517119": {
+    "entry": [],
+    "exit": [
+      "1304775308"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1162574746": {
+    "entry": [],
+    "exit": [
+      "710660533",
+      "710660564"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1162941895": {
+    "entry": [
+      "1002600839",
+      "1226761742",
+      "1226761871"
+    ],
+    "exit": [
+      "1075497594",
+      "1226761956"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1162942634": {
+    "entry": [
+      "1162942498",
+      "1162942543",
+      "735852499"
+    ],
+    "exit": [
+      "1162942488",
+      "1162942527",
+      "735852499"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1173812244": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1180537855": {
+    "entry": [],
+    "exit": [
+      "4318346250"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "11916225715": {
+    "entry": [],
+    "exit": [
+      "888745023"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "12091938427": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1211915099": {
+    "entry": [
+      "911661573"
+    ],
+    "exit": [
+      "911661573"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1212976573": {
+    "entry": [
+      "4452040182",
+      "4573371341",
+      "4573371342"
+    ],
+    "exit": [
+      "4452040182",
+      "4573371341",
+      "4573371342"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1212992228": {
+    "entry": [
+      "1767481949",
+      "4812389879",
+      "4812389880",
+      "8169241216"
+    ],
+    "exit": [
+      "1767481949",
+      "4812389879",
+      "4812389880",
+      "8169241215"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1221112681": {
+    "entry": [
+      "3820827372",
+      "7343002318"
+    ],
+    "exit": [
+      "3820827372"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1226695737": {
+    "entry": [],
+    "exit": [
+      "1226695543"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1226695992": {
+    "entry": [
+      "1226695458",
+      "1226695629"
+    ],
+    "exit": [
+      "562502322",
+      "8169209468"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1226696385": {
+    "entry": [
+      "3283445878",
+      "3283445908"
+    ],
+    "exit": [
+      "1226695524",
+      "561035296"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1226696393": {
+    "entry": [
+      "11938625636",
+      "1226696318"
+    ],
+    "exit": [
+      "271727203",
+      "529143501"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1226724504": {
+    "entry": [
+      "1226724013",
+      "619227333"
+    ],
+    "exit": [
+      "1226724277",
+      "1226724499"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1226761792": {
+    "entry": [
+      "1002600839",
+      "1226761742",
+      "1226761871"
+    ],
+    "exit": [
+      "1075497594",
+      "1226761956"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1231081882": {
+    "entry": [
+      "417749686"
+    ],
+    "exit": [
+      "417749686"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1237984803": {
+    "entry": [],
+    "exit": [
+      "295422479"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1250003765": {
+    "entry": [
+      "4879604580",
+      "603072031"
+    ],
+    "exit": [
+      "1251200435",
+      "4402472880"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1250019206": {
+    "entry": [
+      "1251174780",
+      "4452616122",
+      "4452616123"
+    ],
+    "exit": [
+      "1251174853",
+      "4452616123"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1250019576": {
+    "entry": [
+      "1251174780",
+      "4452616122",
+      "4452616123"
+    ],
+    "exit": [
+      "1251174853",
+      "4452616123"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1250039518": {
+    "entry": [
+      "699714040",
+      "699714051"
+    ],
+    "exit": [
+      "699714051",
+      "699714069"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "12692780736": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1277160265": {
+    "entry": [
+      "4706712997"
+    ],
+    "exit": [
+      "4706712997"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1280269625": {
+    "entry": [
+      "1830268656",
+      "2449310834"
+    ],
+    "exit": [
+      "2449310834",
+      "245881104"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1281700151": {
+    "entry": [
+      "1092788020",
+      "5170314457"
+    ],
+    "exit": [
+      "10675987561",
+      "5170314435"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1290580509": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1290580976": {
+    "entry": [],
+    "exit": [
+      "925552191"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "13051962814": {
+    "entry": [
+      "1435658410"
+    ],
+    "exit": [
+      "1435658410"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1308225808": {
+    "entry": [
+      "4432209517",
+      "4432209518",
+      "558342122",
+      "8175506621",
+      "8175506622"
+    ],
+    "exit": [
+      "4432209517",
+      "4432209518",
+      "558342122",
+      "8175506621",
+      "8175506637"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1311515500": {
+    "entry": [
+      "1311515381",
+      "1311515461",
+      "1311515621"
+    ],
+    "exit": [
+      "1311515381",
+      "1311515461",
+      "1311515621"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1320310466": {
+    "entry": [
+      "1685150499"
+    ],
+    "exit": [
+      "1685150499",
+      "5333520244"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1320310480": {
+    "entry": [
+      "1685150499"
+    ],
+    "exit": [
+      "1685150499",
+      "5333520244"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1338509114": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1369719526": {
+    "entry": [
+      "1369711279"
+    ],
+    "exit": [
+      "1369711279"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "13718181894": {
+    "entry": [
+      "391206660"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1387052896": {
+    "entry": [
+      "304029323"
+    ],
+    "exit": [
+      "304029323"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1396215223": {
+    "entry": [
+      "1429720952",
+      "925249675"
+    ],
+    "exit": [
+      "1429720985",
+      "1503899022"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1400848291": {
+    "entry": [
+      "1400848286"
+    ],
+    "exit": [
+      "2686694744"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "14019922733": {
+    "entry": [
+      "14019922724"
+    ],
+    "exit": [
+      "14019922724"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1415541514": {
+    "entry": [
+      "1313849530"
+    ],
+    "exit": [
+      "1313849530",
+      "1671664897"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1415541524": {
+    "entry": [
+      "3197967240"
+    ],
+    "exit": [
+      "1671664757",
+      "3197967240"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1430001683": {
+    "entry": [],
+    "exit": [
+      "1430001669"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1430074479": {
+    "entry": [
+      "1430166418",
+      "1430166433",
+      "2627036391"
+    ],
+    "exit": [
+      "1430166433",
+      "3343797565",
+      "335885871"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1435072532": {
+    "entry": [
+      "4396185733"
+    ],
+    "exit": [
+      "4396185733"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1435632551": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1435632581": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1435658654": {
+    "entry": [
+      "1435658410"
+    ],
+    "exit": [
+      "1435658410"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1450526055": {
+    "entry": [
+      "3805269718",
+      "3805269719",
+      "3805269729"
+    ],
+    "exit": [
+      "3805269718",
+      "3805269719",
+      "3805269729"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1484759992": {
+    "entry": [
+      "1064014694",
+      "283626715"
+    ],
+    "exit": [
+      "283015882"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1497461002": {
+    "entry": [
+      "1497460982"
+    ],
+    "exit": [
+      "1497460982"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1497465098": {
+    "entry": [
+      "1497460982"
+    ],
+    "exit": [
+      "1497460982"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1497495764": {
+    "entry": [],
+    "exit": [
+      "3594385631",
+      "9218597390"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1497502047": {
+    "entry": [
+      "1820256978"
+    ],
+    "exit": [
+      "1820256978"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1502524555": {
+    "entry": [
+      "6035384882",
+      "6035386086"
+    ],
+    "exit": [
+      "4614224850",
+      "871851050"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1517476538": {
+    "entry": [
+      "1517476557",
+      "412876806"
+    ],
+    "exit": [
+      "1517476557",
+      "1707143946"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1531034761": {
+    "entry": [
+      "1531034781",
+      "1531034854"
+    ],
+    "exit": [
+      "1531034781",
+      "4628565103"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1531260117": {
+    "entry": [
+      "3040803913"
+    ],
+    "exit": [
+      "3040803913"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1533897653": {
+    "entry": [],
+    "exit": [
+      "1533897692",
+      "1533897883"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1533897814": {
+    "entry": [],
+    "exit": [
+      "1588190802"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1534974933": {
+    "entry": [
+      "742630717",
+      "742630720"
+    ],
+    "exit": [
+      "742630717",
+      "742630720"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "156303475": {
+    "entry": [
+      "9229913627",
+      "9229913656",
+      "9229913660"
+    ],
+    "exit": [
+      "279162578",
+      "9229913627",
+      "9229913656",
+      "9229913660",
+      "9229913662"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "157019730": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "158071621": {
+    "entry": [
+      "3582543283",
+      "3805363174"
+    ],
+    "exit": [
+      "3805363174"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1581075628": {
+    "entry": [
+      "254878428"
+    ],
+    "exit": [
+      "2192202762"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1581168913": {
+    "entry": [],
+    "exit": [
+      "1581075888",
+      "3815970928"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1587205093": {
+    "entry": [
+      "1531260177"
+    ],
+    "exit": [
+      "1531259913",
+      "1531260177"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1598704090": {
+    "entry": [
+      "4502393609"
+    ],
+    "exit": [
+      "4502393609"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1600690336": {
+    "entry": [],
+    "exit": [
+      "1600674978",
+      "1600674984"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1602311576": {
+    "entry": [],
+    "exit": [
+      "391206650"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1608278870": {
+    "entry": [
+      "4755703854",
+      "4755703903"
+    ],
+    "exit": [
+      "4755703854",
+      "4755703903"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1608324756": {
+    "entry": [
+      "1608324078"
+    ],
+    "exit": [
+      "1608324078"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1608327807": {
+    "entry": [
+      "1608327208"
+    ],
+    "exit": [
+      "1608327208"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1610715795": {
+    "entry": [
+      "1610719009",
+      "243888139"
+    ],
+    "exit": [
+      "1610719009",
+      "286752156"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1615687603": {
+    "entry": [
+      "2250231270",
+      "3798213233",
+      "3809994157"
+    ],
+    "exit": [
+      "2250231270",
+      "3798213233",
+      "3809994157"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1616984754": {
+    "entry": [],
+    "exit": [
+      "1284105824"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1632650289": {
+    "entry": [
+      "1632650140"
+    ],
+    "exit": [
+      "1632650140"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1637364504": {
+    "entry": [
+      "1739266145",
+      "7295939476"
+    ],
+    "exit": [
+      "1739266145",
+      "3520438154",
+      "7295939476"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1638641724": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1639033375": {
+    "entry": [
+      "1429720952",
+      "925249675"
+    ],
+    "exit": [
+      "1429720985",
+      "1503899022"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1640003720": {
+    "entry": [
+      "1640003688",
+      "1640003690",
+      "2367334297"
+    ],
+    "exit": [
+      "1640003688",
+      "1640003690",
+      "2367334297"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1640003721": {
+    "entry": [
+      "1640003688",
+      "1640003690",
+      "2367334297"
+    ],
+    "exit": [
+      "1640003688",
+      "1640003690",
+      "2367334297"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1640003732": {
+    "entry": [
+      "3864472481"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1648466200": {
+    "entry": [],
+    "exit": [
+      "1648466199"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1648466229": {
+    "entry": [
+      "1648466215"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1654905599": {
+    "entry": [
+      "366917387",
+      "4388614196"
+    ],
+    "exit": [
+      "4388614196",
+      "6711492793"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1667021568": {
+    "entry": [
+      "1667007535",
+      "3630188402",
+      "3826759176",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "exit": [
+      "1667007535",
+      "3826759176",
+      "7179369334",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1667027833": {
+    "entry": [],
+    "exit": [
+      "3641791395"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1667866192": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1668591003": {
+    "entry": [
+      "1668590976"
+    ],
+    "exit": [
+      "1668590966",
+      "1668590976"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1670127243": {
+    "entry": [
+      "745214687"
+    ],
+    "exit": [
+      "745214685"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1670177160": {
+    "entry": [],
+    "exit": [
+      "1670178442",
+      "8660701487"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1670180710": {
+    "entry": [],
+    "exit": [
+      "3821272346"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1679657855": {
+    "entry": [],
+    "exit": [
+      "1679701340",
+      "8317014070"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1683205575": {
+    "entry": [
+      "1683205273"
+    ],
+    "exit": [
+      "1683204774",
+      "1683205272",
+      "1683205273",
+      "1687890911",
+      "4386704235",
+      "7175711137"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1684605829": {
+    "entry": [
+      "1683204821",
+      "1684605508",
+      "1684605596",
+      "1685250715",
+      "4386704348"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1685515660": {
+    "entry": [],
+    "exit": [
+      "1685515755",
+      "651660845"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1690305212": {
+    "entry": [],
+    "exit": [
+      "1690305264"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1691678834": {
+    "entry": [
+      "392969120",
+      "5513447876"
+    ],
+    "exit": [
+      "392969120",
+      "5513447883"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1691678933": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1694306286": {
+    "entry": [
+      "7139972965",
+      "7139972975",
+      "841648855"
+    ],
+    "exit": [
+      "1694305795",
+      "7139972966",
+      "841648855"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1697733832": {
+    "entry": [
+      "6372470779"
+    ],
+    "exit": [
+      "1954023067"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1700593263": {
+    "entry": [
+      "308014380",
+      "333117898"
+    ],
+    "exit": [
+      "308014380",
+      "333117898"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1700593265": {
+    "entry": [
+      "308014380",
+      "333117898"
+    ],
+    "exit": [
+      "308014380",
+      "333117898"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1707144103": {
+    "entry": [
+      "1517476557",
+      "412876806"
+    ],
+    "exit": [
+      "1517476557",
+      "1707143946"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1707219241": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1712724882": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1712771763": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1712772492": {
+    "entry": [
+      "1829354962"
+    ],
+    "exit": [
+      "1829354980"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1712772539": {
+    "entry": [
+      "1829354962"
+    ],
+    "exit": [
+      "1829354980"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1717674782": {
+    "entry": [
+      "1829354962"
+    ],
+    "exit": [
+      "1829354980"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1725451877": {
+    "entry": [
+      "1632650140"
+    ],
+    "exit": [
+      "1632650140"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1725469404": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1725469429": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1726049290": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1726049306": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1731189871": {
+    "entry": [
+      "1089628693",
+      "387124153",
+      "4700548259",
+      "7485610905"
+    ],
+    "exit": [
+      "1089628693",
+      "387124153",
+      "4700548259"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1734275502": {
+    "entry": [],
+    "exit": [
+      "821821301"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1746139060": {
+    "entry": [],
+    "exit": [
+      "7933008900"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1746785360": {
+    "entry": [],
+    "exit": [
+      "2359268393"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1776945841": {
+    "entry": [
+      "2534869003",
+      "2534869005"
+    ],
+    "exit": [
+      "1050677820",
+      "2534869003"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1779887444": {
+    "entry": [
+      "4605390230",
+      "799161000"
+    ],
+    "exit": [
+      "393119615",
+      "9687334086"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1781526360": {
+    "entry": [
+      "1246808228",
+      "3162482152",
+      "3162482180",
+      "3162482181",
+      "3168362697"
+    ],
+    "exit": [
+      "1246808228",
+      "3162482152",
+      "3162482180",
+      "3162482181",
+      "3168362697"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1782241269": {
+    "entry": [
+      "1782365272",
+      "1782417476",
+      "1782417477",
+      "1782417478"
+    ],
+    "exit": [
+      "1782241336",
+      "1782417476",
+      "1782417477",
+      "1782417478"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1786910641": {
+    "entry": [
+      "1226695717",
+      "549517810"
+    ],
+    "exit": [
+      "549577098",
+      "549583614"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1796603513": {
+    "entry": [],
+    "exit": [
+      "1796668305"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1796614258": {
+    "entry": [
+      "3775826696"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1798851864": {
+    "entry": [
+      "4162351551"
+    ],
+    "exit": [
+      "2618178361"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1803340439": {
+    "entry": [
+      "13901434732",
+      "1428432605",
+      "262594792",
+      "270851131"
+    ],
+    "exit": [
+      "13901434732",
+      "1428432623",
+      "2295513233"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1820260593": {
+    "entry": [
+      "3399599680",
+      "9218597571",
+      "9218597574"
+    ],
+    "exit": [
+      "3399599680",
+      "9218597571",
+      "9218597574"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1820272578": {
+    "entry": [],
+    "exit": [
+      "3590378541"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1829886565": {
+    "entry": [
+      "4215035308",
+      "765049158"
+    ],
+    "exit": [
+      "1829886669",
+      "251453187"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1829887064": {
+    "entry": [
+      "1829887071"
+    ],
+    "exit": [
+      "1829887070",
+      "1829887071",
+      "1829887073"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830188712": {
+    "entry": [
+      "9229913627",
+      "9229913656",
+      "9229913660"
+    ],
+    "exit": [
+      "279162578",
+      "9229913627",
+      "9229913656",
+      "9229913660",
+      "9229913662"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830188925": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830189346": {
+    "entry": [
+      "6035384882",
+      "6035386086"
+    ],
+    "exit": [
+      "4614224850",
+      "871851050"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830189347": {
+    "entry": [
+      "1760585916",
+      "3733110503",
+      "3733110504"
+    ],
+    "exit": [
+      "3733110500",
+      "3733110503",
+      "3733110504",
+      "440160696"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830189348": {
+    "entry": [
+      "116722484"
+    ],
+    "exit": [
+      "116721940"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830268101": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830268941": {
+    "entry": [
+      "245846833"
+    ],
+    "exit": [
+      "245846869"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830269061": {
+    "entry": [
+      "252842083"
+    ],
+    "exit": [
+      "252842083"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1830281212": {
+    "entry": [
+      "460244963"
+    ],
+    "exit": [
+      "1369788211"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1833455756": {
+    "entry": [
+      "499375984"
+    ],
+    "exit": [
+      "499375984"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1834044238": {
+    "entry": [
+      "771246523"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1834044243": {
+    "entry": [
+      "771246523"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1834887185": {
+    "entry": [],
+    "exit": [
+      "1105152891"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1834887252": {
+    "entry": [],
+    "exit": [
+      "835996365"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1843449066": {
+    "entry": [],
+    "exit": [
+      "1843449254"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1851653384": {
+    "entry": [
+      "1851661479",
+      "1851661480",
+      "3804468112"
+    ],
+    "exit": [
+      "1851661479",
+      "1851661488",
+      "3804468111"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1866081909": {
+    "entry": [
+      "1584417309"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1868714397": {
+    "entry": [
+      "3799407241"
+    ],
+    "exit": [
+      "3799407241"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1868714455": {
+    "entry": [
+      "304029323"
+    ],
+    "exit": [
+      "304029323"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1868714542": {
+    "entry": [
+      "2430728520"
+    ],
+    "exit": [
+      "2430728520"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1883300115": {
+    "entry": [
+      "1883300098",
+      "1883300100",
+      "1883300101"
+    ],
+    "exit": [
+      "1883300098",
+      "1883300100",
+      "1883300101"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1891818143": {
+    "entry": [
+      "1105125663"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1894251356": {
+    "entry": [
+      "1894251359"
+    ],
+    "exit": [
+      "1894251359"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1894287595": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1894287629": {
+    "entry": [
+      "1894287641"
+    ],
+    "exit": [
+      "1894287641"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1894430732": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1894444650": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1914023016": {
+    "entry": [
+      "1638818803"
+    ],
+    "exit": [
+      "1638818803"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1919930849": {
+    "entry": [
+      "4088977320"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1928229738": {
+    "entry": [],
+    "exit": [
+      "1928229721"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1928229739": {
+    "entry": [
+      "1928229725"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1928229742": {
+    "entry": [
+      "1928229700"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1928885702": {
+    "entry": [
+      "1928885698"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1928885706": {
+    "entry": [],
+    "exit": [
+      "1928885694"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1928907427": {
+    "entry": [],
+    "exit": [
+      "1928907410"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1934456407": {
+    "entry": [
+      "1421325283",
+      "1934639284",
+      "1977893973"
+    ],
+    "exit": [
+      "1421325283",
+      "1934639284",
+      "1977893973"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1934456421": {
+    "entry": [
+      "1421325283",
+      "1934639284",
+      "1977893973"
+    ],
+    "exit": [
+      "1421325283",
+      "1934639284",
+      "1977893973"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1934463975": {
+    "entry": [
+      "1976125277"
+    ],
+    "exit": [
+      "1976125277"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1938969233": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1954899610": {
+    "entry": [
+      "2476790181",
+      "588393115"
+    ],
+    "exit": [
+      "1421471042",
+      "1421473000"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1960360318": {
+    "entry": [
+      "245846833"
+    ],
+    "exit": [
+      "245846869"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "1987267044": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2001330516": {
+    "entry": [],
+    "exit": [
+      "3667489855"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2002165186": {
+    "entry": [
+      "2002164920",
+      "2002165292",
+      "936396042"
+    ],
+    "exit": [
+      "2002164920",
+      "2002165292",
+      "936396042"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2002165232": {
+    "entry": [
+      "2002164920",
+      "2002165292",
+      "936396042"
+    ],
+    "exit": [
+      "2002164920",
+      "2002165292",
+      "936396042"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2015223049": {
+    "entry": [
+      "253111940"
+    ],
+    "exit": [
+      "253111940"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2016762426": {
+    "entry": [
+      "1162942498",
+      "1162942543",
+      "735852499"
+    ],
+    "exit": [
+      "1162942488",
+      "1162942527",
+      "735852499"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2023129170": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "206410324": {
+    "entry": [
+      "373880699",
+      "4180129852"
+    ],
+    "exit": [
+      "373880682",
+      "4180129813"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "206410352": {
+    "entry": [
+      "505185217"
+    ],
+    "exit": [
+      "505185217"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "206411408": {
+    "entry": [],
+    "exit": [
+      "7133430470"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2068189807": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2091157603": {
+    "entry": [],
+    "exit": [
+      "1889206242"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2091157604": {
+    "entry": [
+      "2091157265"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2091867904": {
+    "entry": [
+      "2360725237"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2093245827": {
+    "entry": [],
+    "exit": [
+      "2128389344"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2093245861": {
+    "entry": [
+      "2093245883"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2108155786": {
+    "entry": [],
+    "exit": [
+      "1147133768"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2108155789": {
+    "entry": [
+      "1147135489"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2110614958": {
+    "entry": [],
+    "exit": [
+      "2110614956"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2117855923": {
+    "entry": [
+      "2117855954"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2117855959": {
+    "entry": [
+      "2117855954"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2118014636": {
+    "entry": [
+      "1935517057",
+      "2111050436"
+    ],
+    "exit": [
+      "2100848796"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2127484102": {
+    "entry": [
+      "2127484100"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2127484104": {
+    "entry": [],
+    "exit": [
+      "7235056888"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2128403168": {
+    "entry": [
+      "2128403158"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2130813363": {
+    "entry": [
+      "1065907175",
+      "4412699941",
+      "4625060486",
+      "4625060487"
+    ],
+    "exit": [
+      "4412699941",
+      "4625060486",
+      "4625060487",
+      "4703050335"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2166270326": {
+    "entry": [
+      "2166270327",
+      "4021850952"
+    ],
+    "exit": [
+      "2166270314",
+      "4718563691"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2174909161": {
+    "entry": [],
+    "exit": [
+      "2174908959"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2177935859": {
+    "entry": [],
+    "exit": [
+      "2177935838"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2238384137": {
+    "entry": [
+      "648115659"
+    ],
+    "exit": [
+      "5156489545"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2238384227": {
+    "entry": [
+      "2238384169",
+      "2238384175",
+      "2387129560"
+    ],
+    "exit": [
+      "12803421143",
+      "12803421146",
+      "2238384175"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2238384376": {
+    "entry": [
+      "2238384169",
+      "2238384175",
+      "2387129560"
+    ],
+    "exit": [
+      "12803421143",
+      "12803421146",
+      "2238384175"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "224622697": {
+    "entry": [],
+    "exit": [
+      "568973404"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "224622935": {
+    "entry": [
+      "12964362097",
+      "12964362098",
+      "309300692",
+      "726414739"
+    ],
+    "exit": [
+      "12964362097",
+      "12964362098",
+      "309300692",
+      "6149866785"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2272918546": {
+    "entry": [
+      "1308225543",
+      "4237502773"
+    ],
+    "exit": [
+      "1308225543",
+      "4237502773"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2283895830": {
+    "entry": [
+      "3673256239",
+      "3673334958"
+    ],
+    "exit": [
+      "9222959779"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2286612153": {
+    "entry": [
+      "2366820504",
+      "5586973323"
+    ],
+    "exit": [
+      "2366820504",
+      "5586973323"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2288606755": {
+    "entry": [],
+    "exit": [
+      "2288606764"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2291241666": {
+    "entry": [
+      "771246523"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2303445190": {
+    "entry": [],
+    "exit": [
+      "288706350"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2324584168": {
+    "entry": [
+      "2324584143"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2335683215": {
+    "entry": [],
+    "exit": [
+      "2337123277"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2337123339": {
+    "entry": [],
+    "exit": [
+      "2337123277"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2343261923": {
+    "entry": [
+      "1668052319",
+      "1668052353",
+      "2488897202",
+      "2488897203",
+      "2488897205",
+      "2488897208",
+      "2488897210",
+      "3726348789",
+      "3726348792",
+      "3726348796"
+    ],
+    "exit": [
+      "2488897202",
+      "2488897203",
+      "2488897205",
+      "2488897208",
+      "2488897210",
+      "3726348784",
+      "3726348789",
+      "3726348792",
+      "3726348795",
+      "3726348796",
+      "4898472067"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2343278949": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2345487300": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2345571935": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2345571962": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2345571968": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2345605592": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2359268395": {
+    "entry": [],
+    "exit": [
+      "9521172491"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "240466154": {
+    "entry": [
+      "304028482"
+    ],
+    "exit": [
+      "304028482"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "241206275": {
+    "entry": [],
+    "exit": [
+      "1681540250",
+      "6380868389"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "241803573": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2421938512": {
+    "entry": [
+      "6290336623"
+    ],
+    "exit": [
+      "6290336623"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "243828508": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "243828539": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "243828552": {
+    "entry": [],
+    "exit": [
+      "6565417759"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "243829253": {
+    "entry": [
+      "454219940",
+      "648735020",
+      "648735023"
+    ],
+    "exit": [
+      "454219940",
+      "602434084",
+      "648735023"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "243829290": {
+    "entry": [
+      "3828424188",
+      "385206526"
+    ],
+    "exit": [
+      "3828397267",
+      "387251032",
+      "6744400600"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "243829402": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2441250296": {
+    "entry": [
+      "2441198310"
+    ],
+    "exit": [
+      "2441198310"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2441299161": {
+    "entry": [
+      "2441198310",
+      "3862682454"
+    ],
+    "exit": [
+      "2441198310",
+      "3862682454"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "244456665": {
+    "entry": [
+      "4215035308",
+      "765049158"
+    ],
+    "exit": [
+      "1829886669",
+      "251453187"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "244456679": {
+    "entry": [
+      "440523194"
+    ],
+    "exit": [
+      "440523194"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "244464665": {
+    "entry": [
+      "419811279",
+      "419811296"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2449310167": {
+    "entry": [
+      "2449310153"
+    ],
+    "exit": [
+      "2449310153"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2449310223": {
+    "entry": [
+      "2449310153"
+    ],
+    "exit": [
+      "2449310153"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2449310546": {
+    "entry": [
+      "2449310401"
+    ],
+    "exit": [
+      "2449310401"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2449310747": {
+    "entry": [
+      "1830268656",
+      "2449310834"
+    ],
+    "exit": [
+      "2449310834",
+      "245881104"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "245851939": {
+    "entry": [
+      "4706712997"
+    ],
+    "exit": [
+      "4706712997"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "245852003": {
+    "entry": [
+      "1830268656",
+      "2449310834"
+    ],
+    "exit": [
+      "2449310834",
+      "245881104"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2475268526": {
+    "entry": [
+      "733807177"
+    ],
+    "exit": [
+      "733807177"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2476790146": {
+    "entry": [
+      "2476790181",
+      "588393115"
+    ],
+    "exit": [
+      "1421471042",
+      "1421473000"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "248019869": {
+    "entry": [
+      "254878428"
+    ],
+    "exit": [
+      "3698539948"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2493802566": {
+    "entry": [
+      "771246523"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2520524802": {
+    "entry": [
+      "448120430",
+      "484614886"
+    ],
+    "exit": [
+      "1092663913",
+      "2651832930"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252168835": {
+    "entry": [
+      "414123901"
+    ],
+    "exit": [
+      "414123901"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252168888": {
+    "entry": [
+      "414121846"
+    ],
+    "exit": [
+      "414121846"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252169057": {
+    "entry": [
+      "252543349"
+    ],
+    "exit": [
+      "252543349"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252169274": {
+    "entry": [
+      "854631394"
+    ],
+    "exit": [
+      "854631394"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252169317": {
+    "entry": [
+      "13901434732",
+      "1428432605",
+      "262594792",
+      "270851131"
+    ],
+    "exit": [
+      "13901434732",
+      "1428432623",
+      "2295513233"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252174158": {
+    "entry": [],
+    "exit": [
+      "2117855940"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252174740": {
+    "entry": [
+      "2110614957"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252175204": {
+    "entry": [
+      "266237326"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252179488": {
+    "entry": [
+      "1092438761",
+      "831284488"
+    ],
+    "exit": [
+      "1092438786",
+      "831284491"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252179711": {
+    "entry": [
+      "2080151113",
+      "915619475"
+    ],
+    "exit": [
+      "1116470500",
+      "2080151419",
+      "854610150"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252180089": {
+    "entry": [
+      "551430520"
+    ],
+    "exit": [
+      "551430520"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252180478": {
+    "entry": [
+      "2245752275"
+    ],
+    "exit": [
+      "2245752275"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252180692": {
+    "entry": [
+      "2526253661",
+      "2526253662",
+      "2526253663",
+      "260371964"
+    ],
+    "exit": [
+      "2526253661",
+      "2526253662",
+      "2526253663",
+      "256663551"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252246560": {
+    "entry": [
+      "414121846"
+    ],
+    "exit": [
+      "414121846"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252246622": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2523355022": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252340660": {
+    "entry": [
+      "538727147"
+    ],
+    "exit": [
+      "538727147"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252341393": {
+    "entry": [
+      "551430520"
+    ],
+    "exit": [
+      "551430520"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252341481": {
+    "entry": [
+      "303100343",
+      "4466008231",
+      "4466008232"
+    ],
+    "exit": [
+      "303100343",
+      "4466008231",
+      "4466008232"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252535689": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252535703": {
+    "entry": [
+      "499375984"
+    ],
+    "exit": [
+      "499375984"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252541465": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252680216": {
+    "entry": [
+      "1976125277"
+    ],
+    "exit": [
+      "1976125277"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252681869": {
+    "entry": [],
+    "exit": [
+      "252681932"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252681887": {
+    "entry": [
+      "3986669605",
+      "402494156",
+      "9961753725"
+    ],
+    "exit": [
+      "3816255620",
+      "3986669605",
+      "402494156"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252682037": {
+    "entry": [],
+    "exit": [
+      "9215284246"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252682068": {
+    "entry": [
+      "252838616",
+      "427498288"
+    ],
+    "exit": [
+      "1016073502",
+      "252838617"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252682201": {
+    "entry": [
+      "252543349"
+    ],
+    "exit": [
+      "252543349"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252830935": {
+    "entry": [
+      "252830367"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252835371": {
+    "entry": [
+      "506171523"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252835408": {
+    "entry": [
+      "3986669605",
+      "402494156",
+      "9961753725"
+    ],
+    "exit": [
+      "3816255620",
+      "3986669605",
+      "402494156"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "252836825": {
+    "entry": [
+      "927639571"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253114169": {
+    "entry": [
+      "206150124"
+    ],
+    "exit": [
+      "253114313"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253117222": {
+    "entry": [
+      "253117245",
+      "753519094"
+    ],
+    "exit": [
+      "270643987",
+      "410201179"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253119566": {
+    "entry": [
+      "299406288"
+    ],
+    "exit": [
+      "299406288"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253713106": {
+    "entry": [
+      "1668253986",
+      "286100107",
+      "286100112"
+    ],
+    "exit": [
+      "1668253986",
+      "286100107",
+      "286100112"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253713666": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253713686": {
+    "entry": [],
+    "exit": [
+      "1058689016"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253713768": {
+    "entry": [
+      "2735617163",
+      "2735617220",
+      "3807648793"
+    ],
+    "exit": [
+      "2735617163",
+      "2735617220",
+      "2735617221"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253713844": {
+    "entry": [],
+    "exit": [
+      "255865553",
+      "255882061",
+      "293336928"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "253713872": {
+    "entry": [],
+    "exit": [
+      "273331649",
+      "529286743"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2545040799": {
+    "entry": [
+      "568973494"
+    ],
+    "exit": [
+      "1774392074"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2550132181": {
+    "entry": [
+      "2550126955"
+    ],
+    "exit": [
+      "823300678"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255525335": {
+    "entry": [],
+    "exit": [
+      "3173995140"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255525429": {
+    "entry": [],
+    "exit": [
+      "339899765"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255525698": {
+    "entry": [
+      "286475584",
+      "286475593"
+    ],
+    "exit": [
+      "286475589",
+      "286475607"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255526107": {
+    "entry": [],
+    "exit": [
+      "1058689016"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255526312": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255526339": {
+    "entry": [
+      "1059412618",
+      "1059412741",
+      "5968991239",
+      "9917820224"
+    ],
+    "exit": [
+      "1059412741",
+      "5968991239",
+      "9917820224"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255643884": {
+    "entry": [],
+    "exit": [
+      "598514868"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "255644314": {
+    "entry": [
+      "598516798"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "256397333": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "256426148": {
+    "entry": [],
+    "exit": [
+      "1082040172"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2569233223": {
+    "entry": [
+      "1623135557",
+      "762936853"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2569328633": {
+    "entry": [
+      "582140953",
+      "6833965605"
+    ],
+    "exit": [
+      "31299001"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2569334806": {
+    "entry": [],
+    "exit": [
+      "31298974"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "257058400": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "257059013": {
+    "entry": [],
+    "exit": [
+      "389455918"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "257059180": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "257173295": {
+    "entry": [
+      "2245752275"
+    ],
+    "exit": [
+      "2245752275"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "257236805": {
+    "entry": [],
+    "exit": [
+      "256890605",
+      "258511412"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2579787363": {
+    "entry": [
+      "2579787350",
+      "925240922"
+    ],
+    "exit": [
+      "925240920"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2579787367": {
+    "entry": [
+      "2579787350",
+      "925240922"
+    ],
+    "exit": [
+      "925240920"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2579845617": {
+    "entry": [
+      "2579787350",
+      "925240922"
+    ],
+    "exit": [
+      "925240920"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2584902721": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "258511728": {
+    "entry": [],
+    "exit": [
+      "256890605",
+      "258511412"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2591592957": {
+    "entry": [],
+    "exit": [
+      "9333357566"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2591841671": {
+    "entry": [],
+    "exit": [
+      "12986928006"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260371591": {
+    "entry": [
+      "2526253661",
+      "2526253662",
+      "2526253663",
+      "260371964"
+    ],
+    "exit": [
+      "2526253661",
+      "2526253662",
+      "2526253663",
+      "256663551"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2604141133": {
+    "entry": [],
+    "exit": [
+      "3423278414",
+      "525635367"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2604149086": {
+    "entry": [
+      "3737483766",
+      "4783938695"
+    ],
+    "exit": [
+      "4783933432",
+      "4783938693"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2604149093": {
+    "entry": [
+      "3737483766",
+      "4783938695"
+    ],
+    "exit": [
+      "4783933432",
+      "4783938693"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2604163952": {
+    "entry": [
+      "1354788950"
+    ],
+    "exit": [
+      "1354788950"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260710736": {
+    "entry": [
+      "2177935837"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260710789": {
+    "entry": [
+      "8512840451"
+    ],
+    "exit": [
+      "573233930",
+      "8512840451"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260710829": {
+    "entry": [
+      "12881208983"
+    ],
+    "exit": [
+      "260710835"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260714458": {
+    "entry": [],
+    "exit": [
+      "309771090"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260714640": {
+    "entry": [],
+    "exit": [
+      "822945145"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260715070": {
+    "entry": [],
+    "exit": [
+      "278929218",
+      "286839011"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260715121": {
+    "entry": [
+      "4620911476",
+      "6112722935",
+      "626659938"
+    ],
+    "exit": [
+      "271664899",
+      "295529656",
+      "6112722935",
+      "7795516518"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "260767093": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2608014625": {
+    "entry": [
+      "3673256239",
+      "3673334958"
+    ],
+    "exit": [
+      "9222959779"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2619785189": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "262596241": {
+    "entry": [
+      "4620911476",
+      "6112722935",
+      "626659938"
+    ],
+    "exit": [
+      "295529656",
+      "6112722935",
+      "7795516518"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "262598562": {
+    "entry": [
+      "1778989127",
+      "676049335"
+    ],
+    "exit": [
+      "715343267",
+      "802229651"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "262598641": {
+    "entry": [
+      "4396185733"
+    ],
+    "exit": [
+      "4396185733"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "263987930": {
+    "entry": [
+      "1685150499"
+    ],
+    "exit": [
+      "1685150499",
+      "5333520244"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "263988137": {
+    "entry": [
+      "3578384614",
+      "3578384615",
+      "4328524389"
+    ],
+    "exit": [
+      "3578384614",
+      "3578384615",
+      "7325256442"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "263988636": {
+    "entry": [],
+    "exit": [
+      "4362250647",
+      "5964179231"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "263988670": {
+    "entry": [
+      "1226695533",
+      "1226695918"
+    ],
+    "exit": [
+      "1226695533",
+      "1226695918"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "263988838": {
+    "entry": [
+      "3283445878",
+      "3283445908"
+    ],
+    "exit": [
+      "1226695524",
+      "561035296"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "263989917": {
+    "entry": [
+      "1226724013",
+      "619227333"
+    ],
+    "exit": [
+      "1226724277",
+      "1226724499"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264003928": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264003995": {
+    "entry": [],
+    "exit": [
+      "373336039",
+      "761112896"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264004015": {
+    "entry": [
+      "4716784883",
+      "4716827997"
+    ],
+    "exit": [
+      "7149043471",
+      "7149043472"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264004434": {
+    "entry": [],
+    "exit": [
+      "746895005",
+      "772788171"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264004478": {
+    "entry": [
+      "505185217"
+    ],
+    "exit": [
+      "505185217"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264004512": {
+    "entry": [
+      "734859519"
+    ],
+    "exit": [
+      "734859519"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264005496": {
+    "entry": [],
+    "exit": [
+      "1505133426"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264825172": {
+    "entry": [
+      "4162351551"
+    ],
+    "exit": [
+      "2618178361"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264826082": {
+    "entry": [
+      "1798832578",
+      "5895406651"
+    ],
+    "exit": [
+      "1798832578",
+      "5895406661"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264871734": {
+    "entry": [
+      "12881208983"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264871745": {
+    "entry": [],
+    "exit": [
+      "251723885"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "264877784": {
+    "entry": [
+      "4366610696"
+    ],
+    "exit": [
+      "4366610696",
+      "573233928"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267091414": {
+    "entry": [
+      "4620911476",
+      "6112722935",
+      "626659938"
+    ],
+    "exit": [
+      "295529656",
+      "6112722935",
+      "7795516518"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267776680": {
+    "entry": [],
+    "exit": [
+      "2097888940",
+      "6912649682"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267803495": {
+    "entry": [],
+    "exit": [
+      "278929218",
+      "286839011"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267803515": {
+    "entry": [
+      "3559630329"
+    ],
+    "exit": [
+      "1270306982"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267805281": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267805296": {
+    "entry": [],
+    "exit": [
+      "295394510"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267810144": {
+    "entry": [],
+    "exit": [
+      "295413523"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "267810221": {
+    "entry": [
+      "8302849493"
+    ],
+    "exit": [
+      "8302849491"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2689757131": {
+    "entry": [
+      "2216550954",
+      "2680289342",
+      "2736698547"
+    ],
+    "exit": [
+      "2216550954",
+      "2680289342",
+      "2736698547"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2692515581": {
+    "entry": [],
+    "exit": [
+      "3828968556"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2692515593": {
+    "entry": [
+      "3828969357"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2692604635": {
+    "entry": [
+      "1403453549"
+    ],
+    "exit": [
+      "1403453692"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2699771394": {
+    "entry": [
+      "10937779539",
+      "277337246"
+    ],
+    "exit": [
+      "277337293",
+      "9404692337"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2700294936": {
+    "entry": [],
+    "exit": [
+      "2700294935"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2702296909": {
+    "entry": [
+      "1406587272",
+      "2489751380",
+      "2736698515"
+    ],
+    "exit": [
+      "1406587272",
+      "2489751380",
+      "2736698515"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2702757896": {
+    "entry": [],
+    "exit": [
+      "2702757966"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2702758028": {
+    "entry": [
+      "2702758007"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2702758061": {
+    "entry": [
+      "13773575310"
+    ],
+    "exit": [
+      "13773575310",
+      "792611761"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270618091": {
+    "entry": [
+      "2288339199"
+    ],
+    "exit": [
+      "2288339199"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270618096": {
+    "entry": [
+      "4740862054",
+      "4740862057",
+      "4740862058"
+    ],
+    "exit": [
+      "4740862054",
+      "4740862057",
+      "4740862058"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270643843": {
+    "entry": [
+      "253117245",
+      "753519094"
+    ],
+    "exit": [
+      "270643987",
+      "410201179"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270898294": {
+    "entry": [
+      "2332735765",
+      "8038492024"
+    ],
+    "exit": [
+      "3066557871"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270898760": {
+    "entry": [
+      "299406288"
+    ],
+    "exit": [
+      "299406288"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270900508": {
+    "entry": [
+      "676624211",
+      "952902315"
+    ],
+    "exit": [
+      "1636700201",
+      "676624205"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270901252": {
+    "entry": [
+      "9462049942",
+      "9462049958"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "270940531": {
+    "entry": [
+      "262598215",
+      "290490365",
+      "792636844"
+    ],
+    "exit": [
+      "290490361",
+      "792636833",
+      "792636844"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "271095320": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "271111869": {
+    "entry": [
+      "2080151113",
+      "915619475"
+    ],
+    "exit": [
+      "1116470500",
+      "2080151419",
+      "854610150"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "271819370": {
+    "entry": [],
+    "exit": [
+      "710660533",
+      "710660564"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2720502860": {
+    "entry": [
+      "4714511282"
+    ],
+    "exit": [
+      "4714511282"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2720502909": {
+    "entry": [
+      "4714511282"
+    ],
+    "exit": [
+      "4714511282"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2725012126": {
+    "entry": [
+      "358042800",
+      "454193312",
+      "454197221",
+      "454197599"
+    ],
+    "exit": [
+      "358042800",
+      "454193312",
+      "454197221",
+      "454197599"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "273331272": {
+    "entry": [],
+    "exit": [
+      "2337123327"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "273331336": {
+    "entry": [],
+    "exit": [
+      "369659465"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2735617195": {
+    "entry": [
+      "2735617163",
+      "2735617220",
+      "3807648793"
+    ],
+    "exit": [
+      "2735617163",
+      "2735617220",
+      "2735617221"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "278281739": {
+    "entry": [
+      "13982833549",
+      "270491993",
+      "9536907240"
+    ],
+    "exit": [
+      "13982833549",
+      "2601179723",
+      "9536907270"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2785104995": {
+    "entry": [
+      "2785140430"
+    ],
+    "exit": [
+      "2785140430"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2785105127": {
+    "entry": [
+      "733807177"
+    ],
+    "exit": [
+      "733807177"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2785105157": {
+    "entry": [
+      "3571086701"
+    ],
+    "exit": [
+      "3571086701"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2787019324": {
+    "entry": [
+      "2785140430"
+    ],
+    "exit": [
+      "2785140430"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "279076842": {
+    "entry": [],
+    "exit": [
+      "279076892"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "279162596": {
+    "entry": [
+      "9229913627",
+      "9229913656",
+      "9229913660"
+    ],
+    "exit": [
+      "279162578",
+      "9229913627",
+      "9229913656",
+      "9229913660",
+      "9229913662"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281377547": {
+    "entry": [
+      "7656669611"
+    ],
+    "exit": [
+      "6876530552"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281377963": {
+    "entry": [
+      "7656669611"
+    ],
+    "exit": [
+      "6876530552"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281378593": {
+    "entry": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613334"
+    ],
+    "exit": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613326"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281379700": {
+    "entry": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613334"
+    ],
+    "exit": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613326"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281380818": {
+    "entry": [
+      "2152041331"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281381090": {
+    "entry": [],
+    "exit": [
+      "269668902",
+      "281381332"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281381359": {
+    "entry": [
+      "269668898",
+      "269668904",
+      "361105076"
+    ],
+    "exit": [
+      "361105076"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281387580": {
+    "entry": [],
+    "exit": [
+      "11378247878"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281387588": {
+    "entry": [
+      "7656669611"
+    ],
+    "exit": [
+      "6876530552"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281387675": {
+    "entry": [
+      "1803892953"
+    ],
+    "exit": [
+      "1802945629"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281394395": {
+    "entry": [
+      "297156227"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "281676594": {
+    "entry": [],
+    "exit": [
+      "281676598"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "282882736": {
+    "entry": [
+      "638927568"
+    ],
+    "exit": [
+      "638927568"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "282882865": {
+    "entry": [
+      "1053433896"
+    ],
+    "exit": [
+      "1053433896"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "283012412": {
+    "entry": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613334"
+    ],
+    "exit": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613326"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "286641934": {
+    "entry": [],
+    "exit": [
+      "286641790",
+      "5539274518"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2877270592": {
+    "entry": [],
+    "exit": [
+      "2111145677"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2877276686": {
+    "entry": [
+      "2877276571"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2877276688": {
+    "entry": [],
+    "exit": [
+      "2877276569"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "287811830": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2879195923": {
+    "entry": [
+      "2877126783"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2879195924": {
+    "entry": [],
+    "exit": [
+      "1147135496",
+      "2877286242"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288371216": {
+    "entry": [
+      "10937779539",
+      "277337246"
+    ],
+    "exit": [
+      "277337293",
+      "9404692337"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288509478": {
+    "entry": [
+      "454219940",
+      "648735020",
+      "648735023"
+    ],
+    "exit": [
+      "454219940",
+      "602434084",
+      "648735023"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288509863": {
+    "entry": [
+      "3828424188",
+      "385206526"
+    ],
+    "exit": [
+      "3828397267",
+      "387251032",
+      "6744400600"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288511319": {
+    "entry": [],
+    "exit": [
+      "1616964984"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288511716": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288512047": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288512450": {
+    "entry": [
+      "1667007535",
+      "3630188402",
+      "3826759176",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "exit": [
+      "1667007535",
+      "3826759176",
+      "7179369334",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "288512680": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289373425": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289385577": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289386093": {
+    "entry": [],
+    "exit": [
+      "428411311"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289399318": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289399853": {
+    "entry": [
+      "3827547075",
+      "392684998"
+    ],
+    "exit": [
+      "3827547075",
+      "392684998"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289399991": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289426113": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "289426438": {
+    "entry": [
+      "273338361",
+      "288377826"
+    ],
+    "exit": [
+      "288375172",
+      "364166587"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2927346004": {
+    "entry": [
+      "5590669249",
+      "5590669258"
+    ],
+    "exit": [
+      "11345856037",
+      "1684164120",
+      "5590669249",
+      "5590669258"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "293330019": {
+    "entry": [
+      "417749686"
+    ],
+    "exit": [
+      "417749686"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "293335046": {
+    "entry": [
+      "3176920478"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "293335972": {
+    "entry": [
+      "811215988"
+    ],
+    "exit": [
+      "811215988"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "2936455511": {
+    "entry": [
+      "7139972965",
+      "7139972975",
+      "841648855"
+    ],
+    "exit": [
+      "1694305795",
+      "7139972966",
+      "841648855"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "295393445": {
+    "entry": [],
+    "exit": [
+      "1892622114"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "295393488": {
+    "entry": [],
+    "exit": [
+      "295422479"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "296024326": {
+    "entry": [],
+    "exit": [
+      "2097888940",
+      "6912649682"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "297138148": {
+    "entry": [
+      "726519300"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "297138169": {
+    "entry": [
+      "726519300"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "297138400": {
+    "entry": [
+      "297143303",
+      "297143460",
+      "297143950",
+      "297143986"
+    ],
+    "exit": [
+      "297143303",
+      "297143460",
+      "297143986"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "297139404": {
+    "entry": [
+      "746357932"
+    ],
+    "exit": [
+      "746357932"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "297139408": {
+    "entry": [
+      "304037890"
+    ],
+    "exit": [
+      "304037890"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "297139413": {
+    "entry": [
+      "286100108",
+      "286100111",
+      "746459382"
+    ],
+    "exit": [
+      "286100108",
+      "286100111",
+      "746459382"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "297945194": {
+    "entry": [
+      "1584417309"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3017665448": {
+    "entry": [],
+    "exit": [
+      "1130812252"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "303075739": {
+    "entry": [
+      "270621208",
+      "270643418"
+    ],
+    "exit": [
+      "303076034",
+      "942207881"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "303100319": {
+    "entry": [
+      "303100343",
+      "4466008231",
+      "4466008232"
+    ],
+    "exit": [
+      "303100343",
+      "4466008231",
+      "4466008232"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "304028813": {
+    "entry": [
+      "304028482"
+    ],
+    "exit": [
+      "304028482"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "304034547": {
+    "entry": [
+      "36600966"
+    ],
+    "exit": [
+      "36600965",
+      "7117811820"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "304037566": {
+    "entry": [
+      "402335693"
+    ],
+    "exit": [
+      "402335693"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "304706615": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3053502970": {
+    "entry": [
+      "1284105811",
+      "3053155605"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3075989765": {
+    "entry": [
+      "1606560393"
+    ],
+    "exit": [
+      "1606560393"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "308788512": {
+    "entry": [
+      "308788558"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "308934664": {
+    "entry": [],
+    "exit": [
+      "2156964629"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "308934679": {
+    "entry": [
+      "1226695594",
+      "1226696054"
+    ],
+    "exit": [
+      "1226695594",
+      "1226696054"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309302928": {
+    "entry": [
+      "1935517057",
+      "2111050436"
+    ],
+    "exit": [
+      "309302933"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309304366": {
+    "entry": [
+      "1935517057",
+      "2111050436"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309304457": {
+    "entry": [],
+    "exit": [
+      "309304459"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309354649": {
+    "entry": [
+      "1226696145"
+    ],
+    "exit": [
+      "1226695749"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309603951": {
+    "entry": [
+      "5964587886",
+      "773008249"
+    ],
+    "exit": [
+      "773008280"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309604026": {
+    "entry": [
+      "2583788059"
+    ],
+    "exit": [
+      "2583738421"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309619251": {
+    "entry": [],
+    "exit": [
+      "1640003757"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309692554": {
+    "entry": [
+      "2583788059"
+    ],
+    "exit": [
+      "761924930",
+      "761925121"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309695508": {
+    "entry": [],
+    "exit": [
+      "2012583841"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309864204": {
+    "entry": [
+      "309864553",
+      "6420120099"
+    ],
+    "exit": [
+      "309864553",
+      "6420120099",
+      "6832353543"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "309908196": {
+    "entry": [],
+    "exit": [
+      "710660533",
+      "710660564"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "310160780": {
+    "entry": [],
+    "exit": [
+      "311955375"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31236584": {
+    "entry": [],
+    "exit": [
+      "31236646"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31253688": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31253977": {
+    "entry": [],
+    "exit": [
+      "3815432701"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31254160": {
+    "entry": [
+      "835996316"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31254341": {
+    "entry": [
+      "31254351"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31254353": {
+    "entry": [],
+    "exit": [
+      "31254357"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31288829": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31288855": {
+    "entry": [],
+    "exit": [
+      "31288862"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31295430": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31296943": {
+    "entry": [],
+    "exit": [
+      "266292094"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31296958": {
+    "entry": [],
+    "exit": [
+      "254360532"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31297556": {
+    "entry": [],
+    "exit": [
+      "255337642"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31298908": {
+    "entry": [],
+    "exit": [
+      "31298924"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31298983": {
+    "entry": [
+      "582140953",
+      "6833965605"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31300416": {
+    "entry": [],
+    "exit": [
+      "31300391"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31300420": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31300488": {
+    "entry": [],
+    "exit": [
+      "31330046"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31330050": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31330068": {
+    "entry": [],
+    "exit": [
+      "31330051"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31337300": {
+    "entry": [],
+    "exit": [
+      "600693350"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31337397": {
+    "entry": [
+      "2997051267",
+      "31337415",
+      "31337419"
+    ],
+    "exit": [
+      "2997051267",
+      "31337415",
+      "31337419"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31337476": {
+    "entry": [],
+    "exit": [
+      "1947552005"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "31337485": {
+    "entry": [
+      "1947552220"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3139193051": {
+    "entry": [
+      "3851242036"
+    ],
+    "exit": [
+      "3851242036"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3148677149": {
+    "entry": [],
+    "exit": [
+      "3911740969",
+      "610741023"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "315479556": {
+    "entry": [],
+    "exit": [
+      "440690069"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3169858522": {
+    "entry": [
+      "1246808228",
+      "3162482152",
+      "3162482180",
+      "3162482181",
+      "3168362697"
+    ],
+    "exit": [
+      "1246808228",
+      "3162482152",
+      "3162482180",
+      "3162482181",
+      "3168362697"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3174589506": {
+    "entry": [],
+    "exit": [
+      "381063833",
+      "625566390"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3174589518": {
+    "entry": [
+      "366856266"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3191867911": {
+    "entry": [],
+    "exit": [
+      "308788613"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3198645753": {
+    "entry": [
+      "3887650628"
+    ],
+    "exit": [
+      "3887650628"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3234072120": {
+    "entry": [
+      "3815555867",
+      "6520765490"
+    ],
+    "exit": [
+      "3815553655",
+      "6520759783"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3234072124": {
+    "entry": [
+      "3815555867",
+      "6520765490"
+    ],
+    "exit": [
+      "3815553655",
+      "6520759783"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3343104540": {
+    "entry": [
+      "2498349104",
+      "257059263"
+    ],
+    "exit": [
+      "2498349104",
+      "257059263",
+      "257059265"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "334528197": {
+    "entry": [],
+    "exit": [
+      "5666118048"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3387909578": {
+    "entry": [],
+    "exit": [
+      "1509483677"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3389459028": {
+    "entry": [
+      "1996987451"
+    ],
+    "exit": [
+      "7039533758"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3431413764": {
+    "entry": [
+      "3431413789",
+      "4450129223"
+    ],
+    "exit": [
+      "3431413789",
+      "4450129223",
+      "4668155921"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3438521444": {
+    "entry": [
+      "3433043051",
+      "3433043064"
+    ],
+    "exit": [
+      "3433043049",
+      "4423936300"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3500209145": {
+    "entry": [
+      "1212974843",
+      "3773076725",
+      "417756968",
+      "417757137"
+    ],
+    "exit": [
+      "2313695853",
+      "3773076740",
+      "417754516",
+      "417754642"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "354358450": {
+    "entry": [
+      "1089628693",
+      "387124153",
+      "4700548259",
+      "7485610905"
+    ],
+    "exit": [
+      "1089628693",
+      "387124153",
+      "4700548259"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "357078640": {
+    "entry": [
+      "11081664912",
+      "1436260533"
+    ],
+    "exit": [
+      "253713855",
+      "539976979"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "357094369": {
+    "entry": [],
+    "exit": [
+      "8577899238"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "357095195": {
+    "entry": [
+      "273338361",
+      "288377826"
+    ],
+    "exit": [
+      "288375172",
+      "364166587"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3571086719": {
+    "entry": [
+      "3571086701"
+    ],
+    "exit": [
+      "3571086701"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "357115389": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "357122451": {
+    "entry": [
+      "3827547075",
+      "392684998"
+    ],
+    "exit": [
+      "3827547075",
+      "392684998"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3571228010": {
+    "entry": [
+      "1404128726"
+    ],
+    "exit": [
+      "1404128726"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3571228026": {
+    "entry": [
+      "1404128726"
+    ],
+    "exit": [
+      "1404128726"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "357149161": {
+    "entry": [
+      "1060529077",
+      "3775130086",
+      "427287793"
+    ],
+    "exit": [
+      "358022853",
+      "3775130086",
+      "427287794"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "357149273": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358016780": {
+    "entry": [],
+    "exit": [
+      "3521363942"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358022806": {
+    "entry": [],
+    "exit": [
+      "3777063113"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358048867": {
+    "entry": [
+      "358048882",
+      "358057550"
+    ],
+    "exit": [
+      "3268327722"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358057496": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358057498": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358057542": {
+    "entry": [
+      "358048882",
+      "358057550"
+    ],
+    "exit": [
+      "3268327722"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358059661": {
+    "entry": [
+      "3821499157",
+      "5039370137"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358059663": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "358059674": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3585004471": {
+    "entry": [],
+    "exit": [
+      "4741655080"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3585004597": {
+    "entry": [],
+    "exit": [
+      "4750793402"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3587648670": {
+    "entry": [],
+    "exit": [
+      "3710151991"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "35925775": {
+    "entry": [],
+    "exit": [
+      "35926455",
+      "35926462",
+      "35926468"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "35926477": {
+    "entry": [],
+    "exit": [
+      "3296142325"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "35938010": {
+    "entry": [
+      "35938038"
+    ],
+    "exit": [
+      "35938034"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "360601873": {
+    "entry": [],
+    "exit": [
+      "2031913336"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "360643783": {
+    "entry": [
+      "11081664912",
+      "1436260533"
+    ],
+    "exit": [
+      "253713855",
+      "539976979"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3608893512": {
+    "entry": [],
+    "exit": [
+      "710660533",
+      "710660564"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3630188401": {
+    "entry": [
+      "1667007535",
+      "3630188402",
+      "3826759176",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "exit": [
+      "1667007535",
+      "3826759176",
+      "7179369334",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36411896": {
+    "entry": [
+      "6271967185",
+      "6271976435"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36411905": {
+    "entry": [],
+    "exit": [
+      "269667912",
+      "771244410",
+      "961315008"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364193520": {
+    "entry": [
+      "3815254941"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364193524": {
+    "entry": [],
+    "exit": [
+      "3815254943"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36422000": {
+    "entry": [
+      "5977861175"
+    ],
+    "exit": [
+      "8496780226"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364358968": {
+    "entry": [
+      "3325759806",
+      "3828028186",
+      "3828028188"
+    ],
+    "exit": [
+      "3325759806",
+      "3828028186",
+      "3828028188"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364359034": {
+    "entry": [
+      "469179901"
+    ],
+    "exit": [
+      "469179901",
+      "9915632049"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364513564": {
+    "entry": [],
+    "exit": [
+      "443730250"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364521160": {
+    "entry": [],
+    "exit": [
+      "294043105"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364549916": {
+    "entry": [
+      "1064014694",
+      "283626715"
+    ],
+    "exit": [
+      "283016315"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "364550496": {
+    "entry": [],
+    "exit": [
+      "8120975721"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3654552418": {
+    "entry": [
+      "661085064"
+    ],
+    "exit": [
+      "661085064"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36601707": {
+    "entry": [],
+    "exit": [
+      "581893169"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36601711": {
+    "entry": [
+      "581890628"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36610838": {
+    "entry": [],
+    "exit": [
+      "36720321"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36610850": {
+    "entry": [
+      "36720316"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "366517844": {
+    "entry": [
+      "739425889"
+    ],
+    "exit": [
+      "366517079",
+      "739425889"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "366536144": {
+    "entry": [
+      "447841897"
+    ],
+    "exit": [
+      "11052455236"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "36719769": {
+    "entry": [],
+    "exit": [
+      "36719792"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370259884": {
+    "entry": [
+      "1798832578",
+      "5895406651"
+    ],
+    "exit": [
+      "1798832578",
+      "5895406661"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370260604": {
+    "entry": [
+      "4432209517",
+      "4432209518",
+      "558342122",
+      "8175506621",
+      "8175506622"
+    ],
+    "exit": [
+      "4432209517",
+      "4432209518",
+      "558342122",
+      "8175506621",
+      "8175506637"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370261660": {
+    "entry": [
+      "1308224080",
+      "263990028",
+      "8793526337"
+    ],
+    "exit": [
+      "2518858708",
+      "263989981",
+      "5758315939"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370264197": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370267174": {
+    "entry": [
+      "1782365272",
+      "1782417476",
+      "1782417477",
+      "1782417478"
+    ],
+    "exit": [
+      "1782241336",
+      "1782417476",
+      "1782417477",
+      "1782417478"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370267628": {
+    "entry": [
+      "4416203853",
+      "4434000486",
+      "4573263992"
+    ],
+    "exit": [
+      "4416203853",
+      "4434000486",
+      "4573263992"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370267980": {
+    "entry": [
+      "1226695458",
+      "1226695629"
+    ],
+    "exit": [
+      "562502322",
+      "8169209468"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370268583": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370268989": {
+    "entry": [
+      "1226696145"
+    ],
+    "exit": [
+      "1226695749",
+      "1864766115",
+      "309369993",
+      "7276492714"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370270147": {
+    "entry": [
+      "1601912202",
+      "8327573035"
+    ],
+    "exit": [
+      "8327573035"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370376663": {
+    "entry": [],
+    "exit": [
+      "8549662883",
+      "8554698901"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370376674": {
+    "entry": [
+      "5261955893"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370378610": {
+    "entry": [],
+    "exit": [
+      "2702757798"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370516863": {
+    "entry": [
+      "1697722138",
+      "6372470779"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370516864": {
+    "entry": [
+      "6372470779"
+    ],
+    "exit": [
+      "1582484565"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3706082845": {
+    "entry": [
+      "13718085552",
+      "13718085553",
+      "256718718"
+    ],
+    "exit": [
+      "13718085552",
+      "13718085553",
+      "256718718"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "370762847": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3710792087": {
+    "entry": [
+      "4369773897",
+      "4369773899",
+      "755780231"
+    ],
+    "exit": [
+      "4369773897",
+      "4369773899",
+      "755780231"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3723476958": {
+    "entry": [
+      "675799880"
+    ],
+    "exit": [
+      "675799880"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "373151903": {
+    "entry": [
+      "2079479693"
+    ],
+    "exit": [
+      "2079479693"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "373155466": {
+    "entry": [],
+    "exit": [
+      "373155559"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "373166556": {
+    "entry": [],
+    "exit": [
+      "373166560"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "373166792": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "373690641": {
+    "entry": [
+      "1062180523",
+      "373686506"
+    ],
+    "exit": [
+      "1062180224",
+      "1062180638"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3745758686": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "376452851": {
+    "entry": [
+      "3810948429",
+      "3810948430",
+      "472498312",
+      "618194163"
+    ],
+    "exit": [
+      "3810948429",
+      "3810948430",
+      "472498312",
+      "618194163"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "376487256": {
+    "entry": [
+      "980746439"
+    ],
+    "exit": [
+      "980746439"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3767284426": {
+    "entry": [],
+    "exit": [
+      "460049590"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3767867584": {
+    "entry": [
+      "911661573"
+    ],
+    "exit": [
+      "911661573"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3768243988": {
+    "entry": [
+      "1632650140"
+    ],
+    "exit": [
+      "1632650140"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3775113884": {
+    "entry": [
+      "771246523"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3775975687": {
+    "entry": [
+      "3775975664"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3776808810": {
+    "entry": [
+      "1398329533"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3777090295": {
+    "entry": [],
+    "exit": [
+      "3777063088"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3777093908": {
+    "entry": [],
+    "exit": [
+      "3777093896"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3799586557": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3799586627": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3805130763": {
+    "entry": [],
+    "exit": [
+      "255490748"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3805245728": {
+    "entry": [
+      "3805269718",
+      "3805269719",
+      "3805269729"
+    ],
+    "exit": [
+      "3805269718",
+      "3805269719",
+      "3805269729"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3805304471": {
+    "entry": [
+      "1760585916",
+      "3733110503",
+      "3733110504"
+    ],
+    "exit": [
+      "3733110500",
+      "3733110503",
+      "3733110504",
+      "440160696"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3805328183": {
+    "entry": [
+      "3582543283",
+      "3805363174"
+    ],
+    "exit": [
+      "3805363174"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3815589360": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3815800588": {
+    "entry": [
+      "252842083"
+    ],
+    "exit": [
+      "252842083"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3817604763": {
+    "entry": [
+      "1092438761",
+      "831284488"
+    ],
+    "exit": [
+      "1092438786",
+      "831284491"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3817686169": {
+    "entry": [],
+    "exit": [
+      "2744535224"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3817848693": {
+    "entry": [
+      "823300711"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3821029737": {
+    "entry": [],
+    "exit": [
+      "2574080524"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3826832485": {
+    "entry": [
+      "454181221"
+    ],
+    "exit": [
+      "454181219"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3827607700": {
+    "entry": [],
+    "exit": [
+      "9565309026"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3846699299": {
+    "entry": [
+      "14019922744"
+    ],
+    "exit": [
+      "14019922744"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3851242047": {
+    "entry": [
+      "3851242050"
+    ],
+    "exit": [
+      "3851242050"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3851530201": {
+    "entry": [
+      "318832167"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3851530202": {
+    "entry": [],
+    "exit": [
+      "12475038467"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3851577677": {
+    "entry": [],
+    "exit": [
+      "258037413"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3854029357": {
+    "entry": [],
+    "exit": [
+      "256368922"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "390127404": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "390321838": {
+    "entry": [
+      "252681973",
+      "676624100"
+    ],
+    "exit": [
+      "276818626",
+      "390322139"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "390321862": {
+    "entry": [
+      "252681973",
+      "676624100"
+    ],
+    "exit": [
+      "276818626",
+      "390322139"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3908352684": {
+    "entry": [
+      "582441628"
+    ],
+    "exit": [
+      "582441628"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3916181331": {
+    "entry": [
+      "1060529077",
+      "3775130086",
+      "427287793"
+    ],
+    "exit": [
+      "358022853",
+      "3775130086",
+      "427287794"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3917908084": {
+    "entry": [
+      "427258661"
+    ],
+    "exit": [
+      "427258661"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3917908106": {
+    "entry": [
+      "3917908108",
+      "5664079640"
+    ],
+    "exit": [
+      "5664079640"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "392675932": {
+    "entry": [],
+    "exit": [
+      "288375625"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "392676062": {
+    "entry": [
+      "6874260484",
+      "6874315585"
+    ],
+    "exit": [
+      "6874260484",
+      "6874315593"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "392676516": {
+    "entry": [],
+    "exit": [
+      "1068882161"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "392969119": {
+    "entry": [
+      "392969120",
+      "5513447876"
+    ],
+    "exit": [
+      "392969120",
+      "5513447883"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "393119365": {
+    "entry": [
+      "4605390230",
+      "799161000"
+    ],
+    "exit": [
+      "393119615",
+      "9687334086"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "393138384": {
+    "entry": [
+      "4728670636"
+    ],
+    "exit": [
+      "4728670636"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "393139191": {
+    "entry": [
+      "2681524896"
+    ],
+    "exit": [
+      "3189412397",
+      "8148672153"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "393139211": {
+    "entry": [
+      "676038211",
+      "676038273"
+    ],
+    "exit": [
+      "676038211"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "393139230": {
+    "entry": [
+      "1606560643"
+    ],
+    "exit": [
+      "1606560643"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "3935796666": {
+    "entry": [
+      "1246808228",
+      "3162482152",
+      "3162482180",
+      "3162482181",
+      "3168362697"
+    ],
+    "exit": [
+      "1246808228",
+      "1674175208",
+      "3162482152",
+      "3162482180",
+      "3162482181",
+      "3168362697"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410173850": {
+    "entry": [],
+    "exit": [
+      "3590321010"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410223991": {
+    "entry": [
+      "414123901"
+    ],
+    "exit": [
+      "414123901"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410224036": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410228888": {
+    "entry": [
+      "1595865740",
+      "369732355",
+      "622384610",
+      "622384631"
+    ],
+    "exit": [
+      "1595865740",
+      "369732355",
+      "622384610",
+      "622384619"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410234366": {
+    "entry": [
+      "779319485",
+      "9628388435"
+    ],
+    "exit": [
+      "1094099780",
+      "4339767876",
+      "779319485"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410296936": {
+    "entry": [
+      "1636638247",
+      "675797012"
+    ],
+    "exit": [
+      "1072717483",
+      "1072717867"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410296939": {
+    "entry": [
+      "1636638247",
+      "675797012"
+    ],
+    "exit": [
+      "1072717483",
+      "1072717867"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "410300827": {
+    "entry": [
+      "676624211",
+      "952902315"
+    ],
+    "exit": [
+      "1636700201",
+      "676624205"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4108975293": {
+    "entry": [
+      "2872561213"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4108975294": {
+    "entry": [],
+    "exit": [
+      "2872561212"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4109992217": {
+    "entry": [],
+    "exit": [
+      "4109992229"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "411798130": {
+    "entry": [
+      "638927568"
+    ],
+    "exit": [
+      "638927568"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "411798308": {
+    "entry": [
+      "8243121188",
+      "8243121192"
+    ],
+    "exit": [
+      "4138771077",
+      "8243121186"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4134248738": {
+    "entry": [],
+    "exit": [
+      "9215284306"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "417752621": {
+    "entry": [
+      "3775024246"
+    ],
+    "exit": [
+      "3775024246"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "417761744": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "417761837": {
+    "entry": [
+      "1212974843",
+      "3773076725",
+      "417756968",
+      "417757137"
+    ],
+    "exit": [
+      "2313695853",
+      "3773076740",
+      "417754516",
+      "417754642"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "417763641": {
+    "entry": [
+      "2989023686",
+      "3196964360"
+    ],
+    "exit": [
+      "3196964360",
+      "752415049"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "417763769": {
+    "entry": [],
+    "exit": [
+      "373336039",
+      "761112896"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "418093256": {
+    "entry": [
+      "3775024246"
+    ],
+    "exit": [
+      "3775024246"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "427158262": {
+    "entry": [
+      "1829354962"
+    ],
+    "exit": [
+      "1829354980"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "427158266": {
+    "entry": [],
+    "exit": [
+      "3644593688"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "427158271": {
+    "entry": [
+      "1667007535",
+      "3630188402",
+      "3826759176",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "exit": [
+      "1667007535",
+      "3826759176",
+      "7179369334",
+      "7179369335",
+      "8660733234",
+      "8660733236"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "427285134": {
+    "entry": [
+      "1060529077",
+      "3775130086",
+      "427287793"
+    ],
+    "exit": [
+      "358022853",
+      "3775130086",
+      "427287794"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "430041193": {
+    "entry": [
+      "273338361",
+      "288377826"
+    ],
+    "exit": [
+      "288375172",
+      "364166587"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4316030174": {
+    "entry": [
+      "779319485",
+      "9628388435"
+    ],
+    "exit": [
+      "1094099780",
+      "4339767876",
+      "779319485"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4330474740": {
+    "entry": [],
+    "exit": [
+      "776034584"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4336585581": {
+    "entry": [],
+    "exit": [
+      "6364949094"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4356789504": {
+    "entry": [],
+    "exit": [
+      "1774388229"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4361041900": {
+    "entry": [],
+    "exit": [
+      "294046876"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4361060070": {
+    "entry": [],
+    "exit": [
+      "4361060076"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4361138358": {
+    "entry": [],
+    "exit": [
+      "4361138363"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4362194613": {
+    "entry": [
+      "1387390737"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4362198088": {
+    "entry": [],
+    "exit": [
+      "246081024"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "440636450": {
+    "entry": [
+      "4605390230",
+      "799161000"
+    ],
+    "exit": [
+      "393119615",
+      "9687334086"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "440639264": {
+    "entry": [
+      "243888003"
+    ],
+    "exit": [
+      "529475875"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "440639422": {
+    "entry": [],
+    "exit": [
+      "6926793782"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "440639524": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "440639535": {
+    "entry": [
+      "799186617"
+    ],
+    "exit": [
+      "799186617"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4423997227": {
+    "entry": [
+      "3433043051",
+      "3433043064"
+    ],
+    "exit": [
+      "3433043049",
+      "4423936300"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4435482391": {
+    "entry": [
+      "13718085552",
+      "13718085553",
+      "256718718"
+    ],
+    "exit": [
+      "13718085552",
+      "13718085553",
+      "256718718"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "443625964": {
+    "entry": [
+      "9229913627",
+      "9229913656",
+      "9229913660"
+    ],
+    "exit": [
+      "279162578",
+      "9229913627",
+      "9229913656",
+      "9229913660",
+      "9229913662"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "443726408": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "443737257": {
+    "entry": [
+      "3896087536"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4450476010": {
+    "entry": [
+      "9462049942",
+      "9462049958"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4460065094": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4460550013": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4460615838": {
+    "entry": [
+      "1595865740",
+      "369732355",
+      "622384610",
+      "622384631"
+    ],
+    "exit": [
+      "1595865740",
+      "369732355",
+      "622384610",
+      "622384619"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4464730415": {
+    "entry": [
+      "1281700048",
+      "1281700181"
+    ],
+    "exit": [
+      "252543064",
+      "549451948"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4464834932": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4464843020": {
+    "entry": [
+      "448120430",
+      "484614886"
+    ],
+    "exit": [
+      "1092663913",
+      "2651832930"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4464921448": {
+    "entry": [
+      "10676016005",
+      "2960774995",
+      "2960776064",
+      "303076584"
+    ],
+    "exit": [
+      "10676016005",
+      "2960776064",
+      "303076584"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "447800151": {
+    "entry": [],
+    "exit": [
+      "292233851"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "447803283": {
+    "entry": [
+      "36600966"
+    ],
+    "exit": [
+      "36600965"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "448034680": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "448034791": {
+    "entry": [],
+    "exit": [
+      "448034703"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "448036563": {
+    "entry": [
+      "448036559"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "448036574": {
+    "entry": [],
+    "exit": [
+      "448036560"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "448039303": {
+    "entry": [],
+    "exit": [
+      "448039301"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "448041015": {
+    "entry": [
+      "3817775783",
+      "448040555",
+      "448040999"
+    ],
+    "exit": [
+      "448040555",
+      "448040999",
+      "448041000",
+      "9586985146"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "448137143": {
+    "entry": [],
+    "exit": [
+      "776034584"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4490516951": {
+    "entry": [
+      "11081664912",
+      "1436260533"
+    ],
+    "exit": [
+      "253713855",
+      "539976979"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4495323892": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4502527081": {
+    "entry": [
+      "2534869003",
+      "2534869005"
+    ],
+    "exit": [
+      "1050677820",
+      "2534869003"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4503450411": {
+    "entry": [
+      "8243121188",
+      "8243121192"
+    ],
+    "exit": [
+      "4138771077",
+      "8243121186"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4503651976": {
+    "entry": [
+      "6106174019",
+      "755769252",
+      "810012453"
+    ],
+    "exit": [
+      "6106174019",
+      "755769252",
+      "810012453"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4509575743": {
+    "entry": [
+      "440523194"
+    ],
+    "exit": [
+      "440523194"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "454178258": {
+    "entry": [
+      "454181221"
+    ],
+    "exit": [
+      "454181219",
+      "454181249"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "454178997": {
+    "entry": [],
+    "exit": [
+      "3520001923",
+      "454193254"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "454179583": {
+    "entry": [
+      "1285604548"
+    ],
+    "exit": [
+      "1285604548"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "454179591": {
+    "entry": [
+      "358042800",
+      "454193312",
+      "454197221",
+      "454197599"
+    ],
+    "exit": [
+      "358042800",
+      "454193312",
+      "454197221",
+      "454197599"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "454179602": {
+    "entry": [
+      "1285604548"
+    ],
+    "exit": [
+      "1285604548"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4583802785": {
+    "entry": [
+      "2332735765",
+      "8038492024"
+    ],
+    "exit": [
+      "3066557871"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4597822558": {
+    "entry": [
+      "4598163085"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "460244925": {
+    "entry": [
+      "460244963"
+    ],
+    "exit": [
+      "1369788211"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4607741174": {
+    "entry": [],
+    "exit": [
+      "256890605",
+      "258511412"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4607748624": {
+    "entry": [],
+    "exit": [
+      "256890605",
+      "258511412"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4623478088": {
+    "entry": [
+      "1749776219",
+      "1749776220",
+      "390870115",
+      "7308485863",
+      "7362894419",
+      "8622013072"
+    ],
+    "exit": [
+      "1749778319",
+      "1749778320",
+      "7308485863",
+      "8622013070",
+      "8622013071",
+      "8622013072"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "465290731": {
+    "entry": [],
+    "exit": [
+      "465291269"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "470279646": {
+    "entry": [],
+    "exit": [
+      "1599990024"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4703835889": {
+    "entry": [
+      "4716593585",
+      "9703022052"
+    ],
+    "exit": [
+      "4716593582",
+      "9703022034"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4706270126": {
+    "entry": [
+      "3431413789",
+      "4450129223"
+    ],
+    "exit": [
+      "3431413789",
+      "4450129223",
+      "4668155921"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4706387191": {
+    "entry": [
+      "1354788950"
+    ],
+    "exit": [
+      "1354788950"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4709222616": {
+    "entry": [
+      "1369711279"
+    ],
+    "exit": [
+      "1369711279"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4714787164": {
+    "entry": [],
+    "exit": [
+      "7706473208"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4715960706": {
+    "entry": [
+      "4715960464"
+    ],
+    "exit": [
+      "4715960464"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4715960712": {
+    "entry": [
+      "3921165357"
+    ],
+    "exit": [
+      "3921165357"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4719552770": {
+    "entry": [
+      "1610719009",
+      "243888139"
+    ],
+    "exit": [
+      "1610719009",
+      "286752156"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4720357967": {
+    "entry": [],
+    "exit": [
+      "4702994297",
+      "8279597398"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4732365628": {
+    "entry": [
+      "1781526410",
+      "3215300559",
+      "9067024125"
+    ],
+    "exit": [
+      "1166131067",
+      "1166131068",
+      "3215300559"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4732514168": {
+    "entry": [
+      "4452639386",
+      "4452639387",
+      "4812406787"
+    ],
+    "exit": [
+      "4452639386",
+      "4452639387",
+      "4812406787"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4743050146": {
+    "entry": [
+      "7252694210"
+    ],
+    "exit": [
+      "7252683253",
+      "7252694210"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4743522920": {
+    "entry": [
+      "1767481949",
+      "4812389879",
+      "4812389880",
+      "8169241216"
+    ],
+    "exit": [
+      "1767481949",
+      "4812389879",
+      "4812389880",
+      "8169241215"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4755703869": {
+    "entry": [
+      "4755703854",
+      "4755703903"
+    ],
+    "exit": [
+      "4755703854",
+      "4755703903"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "476499270": {
+    "entry": [],
+    "exit": [
+      "476499286"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4833903346": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4838508964": {
+    "entry": [
+      "4452624576",
+      "4812402560"
+    ],
+    "exit": [
+      "4452624576",
+      "4812402560"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4839519144": {
+    "entry": [
+      "4696564157"
+    ],
+    "exit": [
+      "4696564157"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "484166486": {
+    "entry": [
+      "1623135557",
+      "762936853"
+    ],
+    "exit": [
+      "762936884",
+      "762939882"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4868096528": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4885433199": {
+    "entry": [
+      "661085064"
+    ],
+    "exit": [
+      "661085064"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4907767317": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "493584453": {
+    "entry": [],
+    "exit": [
+      "493584454"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "496056117": {
+    "entry": [
+      "496056176"
+    ],
+    "exit": [
+      "496056176"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "499073450": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4994365959": {
+    "entry": [],
+    "exit": [
+      "3423278414",
+      "525635367"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "4995788959": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "500291769": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5023519332": {
+    "entry": [
+      "2411302106"
+    ],
+    "exit": [
+      "2411302106"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5023754455": {
+    "entry": [
+      "2346721888"
+    ],
+    "exit": [
+      "2346721888"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5024006974": {
+    "entry": [
+      "1934526884"
+    ],
+    "exit": [
+      "1934526884"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5024027747": {
+    "entry": [
+      "1934526884"
+    ],
+    "exit": [
+      "1934526884"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5039370142": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5039370156": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "504116119": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "504138309": {
+    "entry": [
+      "734859519"
+    ],
+    "exit": [
+      "734859519"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "504769374": {
+    "entry": [
+      "12960573381",
+      "504762639",
+      "678476841"
+    ],
+    "exit": [
+      "12960573381",
+      "678476837",
+      "854647874"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "504769477": {
+    "entry": [
+      "12960573381",
+      "504762639",
+      "678476841"
+    ],
+    "exit": [
+      "12960573381",
+      "678476837",
+      "854647874"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5051500624": {
+    "entry": [
+      "1668052319",
+      "1668052353",
+      "2488897202",
+      "2488897203",
+      "2488897205",
+      "2488897208",
+      "2488897210",
+      "3726348789",
+      "3726348792",
+      "3726348796"
+    ],
+    "exit": [
+      "2488897202",
+      "2488897203",
+      "2488897205",
+      "2488897208",
+      "2488897210",
+      "3726348784",
+      "3726348789",
+      "3726348792",
+      "3726348795",
+      "3726348796",
+      "4898472067"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "506045417": {
+    "entry": [
+      "4452624576",
+      "4812402560"
+    ],
+    "exit": [
+      "4452624576",
+      "4812402560"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5246947005": {
+    "entry": [
+      "2245709310"
+    ],
+    "exit": [
+      "2245709466"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5251905956": {
+    "entry": [
+      "11081664912",
+      "1436260533"
+    ],
+    "exit": [
+      "253713855",
+      "539976979"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5265015736": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "529143487": {
+    "entry": [
+      "11938625636",
+      "1226696318"
+    ],
+    "exit": [
+      "271727203",
+      "529143501"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "529386501": {
+    "entry": [
+      "1803893001"
+    ],
+    "exit": [
+      "1395944084",
+      "1803893001",
+      "1803893014"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "529472756": {
+    "entry": [
+      "745214687"
+    ],
+    "exit": [
+      "745214685"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5314701560": {
+    "entry": [
+      "5314701559"
+    ],
+    "exit": [
+      "5314701559"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5372134478": {
+    "entry": [
+      "5372133710",
+      "5372134442"
+    ],
+    "exit": [
+      "5372133707",
+      "5372134441"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5375621968": {
+    "entry": [
+      "5372133710",
+      "5372134442"
+    ],
+    "exit": [
+      "5372133707",
+      "5372134441"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5383763947": {
+    "entry": [
+      "5977861175"
+    ],
+    "exit": [
+      "8496780226"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "539697643": {
+    "entry": [
+      "1226695717",
+      "549517810"
+    ],
+    "exit": [
+      "549577098",
+      "549583614"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5406779147": {
+    "entry": [],
+    "exit": [
+      "9230170924"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5432829255": {
+    "entry": [],
+    "exit": [
+      "5978934417"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5436843082": {
+    "entry": [
+      "253111940"
+    ],
+    "exit": [
+      "253111940"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5463281511": {
+    "entry": [
+      "3578384614",
+      "4328524389"
+    ],
+    "exit": [
+      "3578384614"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5470031352": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5470031356": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "547680379": {
+    "entry": [
+      "4716593585",
+      "9703022052"
+    ],
+    "exit": [
+      "4716593582",
+      "9703022034"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5478046398": {
+    "entry": [],
+    "exit": [
+      "1505133426"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5479955211": {
+    "entry": [
+      "1430166418",
+      "1430166433",
+      "2627036391"
+    ],
+    "exit": [
+      "1430166433",
+      "3343797565",
+      "335885871"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "549324134": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "549344252": {
+    "entry": [
+      "1781526410",
+      "3215300559",
+      "9067024125"
+    ],
+    "exit": [
+      "1166131067",
+      "1166131068",
+      "3215300559"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "549377635": {
+    "entry": [
+      "4452639386",
+      "4452639387",
+      "4812406787"
+    ],
+    "exit": [
+      "4452639386",
+      "4452639387",
+      "4812406787"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "549445260": {
+    "entry": [
+      "1281700048",
+      "1281700181"
+    ],
+    "exit": [
+      "252543064",
+      "549451948"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "549636536": {
+    "entry": [
+      "810114028",
+      "810114032"
+    ],
+    "exit": [
+      "3774790678",
+      "810114047"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "549636540": {
+    "entry": [
+      "810114028",
+      "810114032"
+    ],
+    "exit": [
+      "3774790678",
+      "810114047"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5526696917": {
+    "entry": [
+      "3431423998",
+      "3449841201"
+    ],
+    "exit": [
+      "3431424000",
+      "3449841209"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552871513": {
+    "entry": [
+      "552874360",
+      "552874361"
+    ],
+    "exit": [
+      "552874360",
+      "552874361"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552871568": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552872644": {
+    "entry": [
+      "3451789672",
+      "810026160",
+      "810026295"
+    ],
+    "exit": [
+      "3451789672",
+      "810026160",
+      "810026295"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552874366": {
+    "entry": [
+      "552874369",
+      "552874371"
+    ],
+    "exit": [
+      "552874369",
+      "552874371"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552874378": {
+    "entry": [],
+    "exit": [
+      "552871586"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552902001": {
+    "entry": [
+      "4369773897",
+      "4369773899",
+      "755780231"
+    ],
+    "exit": [
+      "4369773897",
+      "4369773899",
+      "755780231"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552931213": {
+    "entry": [
+      "737217195"
+    ],
+    "exit": [
+      "737217195",
+      "8284993420"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552931314": {
+    "entry": [
+      "737217195"
+    ],
+    "exit": [
+      "737217195",
+      "8284993420"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "552996032": {
+    "entry": [
+      "1065907175",
+      "4412699941",
+      "4625060486",
+      "4625060487"
+    ],
+    "exit": [
+      "4412699941",
+      "4625060486",
+      "4625060487",
+      "4703050335"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "553005335": {
+    "entry": [],
+    "exit": [
+      "4702994297",
+      "8279597398"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5534805901": {
+    "entry": [
+      "2288339199"
+    ],
+    "exit": [
+      "2288339199"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "554206489": {
+    "entry": [
+      "4452040182",
+      "4573371341",
+      "4573371342"
+    ],
+    "exit": [
+      "4452040182",
+      "4573371341",
+      "4573371342"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "554206510": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5554659328": {
+    "entry": [
+      "1996987451"
+    ],
+    "exit": [
+      "7039533758"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5566359036": {
+    "entry": [],
+    "exit": [
+      "5612970718"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5586208752": {
+    "entry": [
+      "5590669249",
+      "5590669258"
+    ],
+    "exit": [
+      "11345856037",
+      "1684164120",
+      "5590669249",
+      "5590669258"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5586208805": {
+    "entry": [
+      "1668373292",
+      "1668373302",
+      "1687361697",
+      "1687361700"
+    ],
+    "exit": [
+      "1272705866",
+      "1668373291",
+      "1687361697",
+      "1687361700"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5586208808": {
+    "entry": [
+      "1668373292",
+      "1668373302",
+      "1687361697",
+      "1687361700"
+    ],
+    "exit": [
+      "1272705866",
+      "1668373291",
+      "1687361697",
+      "1687361700"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5586973321": {
+    "entry": [
+      "2366820504",
+      "5586973323"
+    ],
+    "exit": [
+      "2366820504",
+      "5586973323"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "559436170": {
+    "entry": [
+      "2579787350",
+      "925240922"
+    ],
+    "exit": [
+      "2579845723",
+      "925240920"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5608725406": {
+    "entry": [
+      "2346721888"
+    ],
+    "exit": [
+      "2346721888"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "565475973": {
+    "entry": [
+      "308014380",
+      "333117898"
+    ],
+    "exit": [
+      "308014380",
+      "333117898"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "565478790": {
+    "entry": [
+      "308014380",
+      "333117898"
+    ],
+    "exit": [
+      "308014380",
+      "333117898"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5657615578": {
+    "entry": [],
+    "exit": [
+      "5659009569"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5657615611": {
+    "entry": [],
+    "exit": [
+      "5658923178"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5657620553": {
+    "entry": [],
+    "exit": [
+      "5658576461"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5658915315": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5658923123": {
+    "entry": [],
+    "exit": [
+      "5658923126"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5658923142": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5658923189": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5659158415": {
+    "entry": [],
+    "exit": [
+      "1532645882"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5663638562": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5663638566": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5664056270": {
+    "entry": [
+      "427258661"
+    ],
+    "exit": [
+      "427258661"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5664056363": {
+    "entry": [
+      "1083328411"
+    ],
+    "exit": [
+      "1083328411"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5664056368": {
+    "entry": [
+      "1083328411"
+    ],
+    "exit": [
+      "1083328411"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5664056422": {
+    "entry": [
+      "5664056425"
+    ],
+    "exit": [
+      "5664056425"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5664079646": {
+    "entry": [
+      "3917908108",
+      "5664079640"
+    ],
+    "exit": [
+      "5664079640"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "567867780": {
+    "entry": [],
+    "exit": [
+      "9934063555"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "568094564": {
+    "entry": [],
+    "exit": [
+      "7637464886"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "571468136": {
+    "entry": [],
+    "exit": [
+      "31253747"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "572570042": {
+    "entry": [
+      "588411742"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "577517536": {
+    "entry": [],
+    "exit": [
+      "256672387"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5808220803": {
+    "entry": [
+      "315541286",
+      "315541952"
+    ],
+    "exit": [
+      "252031637",
+      "262602696"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5880197712": {
+    "entry": [
+      "6853046031"
+    ],
+    "exit": [
+      "6853046030",
+      "6853046031"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5880197765": {
+    "entry": [
+      "6853046031"
+    ],
+    "exit": [
+      "6853046030",
+      "6853046031"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "588391376": {
+    "entry": [],
+    "exit": [
+      "31254357"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "5910007400": {
+    "entry": [],
+    "exit": [
+      "1992672780"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "598502338": {
+    "entry": [],
+    "exit": [
+      "2152041308",
+      "2152041315"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "598506886": {
+    "entry": [],
+    "exit": [
+      "2152041318"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "598506915": {
+    "entry": [
+      "2152041305"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "598514872": {
+    "entry": [],
+    "exit": [
+      "332519414",
+      "598516799"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "598514888": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "600726182": {
+    "entry": [],
+    "exit": [
+      "7301483731"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6042920728": {
+    "entry": [],
+    "exit": [
+      "6042920730"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "610741040": {
+    "entry": [],
+    "exit": [
+      "3911740969",
+      "610741023"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "610741093": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "610741206": {
+    "entry": [
+      "1308225543",
+      "4237502773"
+    ],
+    "exit": [
+      "1308225543",
+      "4237502773"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "610741286": {
+    "entry": [
+      "1414713561"
+    ],
+    "exit": [
+      "1414713561"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "610741677": {
+    "entry": [
+      "1018873666"
+    ],
+    "exit": [
+      "1018873666"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "610741760": {
+    "entry": [],
+    "exit": [
+      "1984033555"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "610742056": {
+    "entry": [
+      "2012419320"
+    ],
+    "exit": [
+      "11207392608"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6115704904": {
+    "entry": [
+      "3820827372",
+      "7343002318"
+    ],
+    "exit": [
+      "3820827372"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6127463650": {
+    "entry": [],
+    "exit": [
+      "4702994297",
+      "8279597398"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "614549722": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "614553240": {
+    "entry": [
+      "1002600839",
+      "1226761742",
+      "1226761871"
+    ],
+    "exit": [
+      "1075497594",
+      "1226761956"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "615493789": {
+    "entry": [
+      "615493814"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "615493792": {
+    "entry": [],
+    "exit": [
+      "3775975719"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "615493914": {
+    "entry": [],
+    "exit": [
+      "615493862"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "615493943": {
+    "entry": [
+      "615494022"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "615493948": {
+    "entry": [],
+    "exit": [
+      "3775822138"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "615494133": {
+    "entry": [
+      "615494046"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "615494135": {
+    "entry": [],
+    "exit": [
+      "3775822152"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "618194139": {
+    "entry": [
+      "3810948429",
+      "3810948430",
+      "472498312",
+      "618194163"
+    ],
+    "exit": [
+      "3810948429",
+      "3810948430",
+      "472498312",
+      "618194163"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "623850525": {
+    "entry": [],
+    "exit": [
+      "735987100"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "623850561": {
+    "entry": [],
+    "exit": [
+      "444302017"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "623853926": {
+    "entry": [
+      "1534974909",
+      "1534974934"
+    ],
+    "exit": [
+      "1534974909",
+      "1534974934"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "625658135": {
+    "entry": [
+      "366917387",
+      "4388614196"
+    ],
+    "exit": [
+      "4388614196",
+      "6711492793"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "625806259": {
+    "entry": [
+      "1053433896"
+    ],
+    "exit": [
+      "1053433896"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "626557315": {
+    "entry": [],
+    "exit": [
+      "1581168872",
+      "1581168987"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "626557483": {
+    "entry": [
+      "1581075754"
+    ],
+    "exit": [
+      "1581075754",
+      "1581075920",
+      "4067967965"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "626659318": {
+    "entry": [
+      "4502393609"
+    ],
+    "exit": [
+      "4502393609"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6328540445": {
+    "entry": [
+      "6118509340",
+      "6118509348"
+    ],
+    "exit": [
+      "6118509340",
+      "6118509348"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "634026237": {
+    "entry": [
+      "315541286",
+      "315541952"
+    ],
+    "exit": [
+      "252031637",
+      "262602696"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6357746426": {
+    "entry": [
+      "6357746425"
+    ],
+    "exit": [
+      "6357746424"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6359496040": {
+    "entry": [
+      "678477097"
+    ],
+    "exit": [
+      "678477107"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6380254537": {
+    "entry": [],
+    "exit": [
+      "3710151991"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6400683469": {
+    "entry": [
+      "1532646036",
+      "623850579"
+    ],
+    "exit": [
+      "1532645956",
+      "1532646036"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6443887814": {
+    "entry": [
+      "614591161"
+    ],
+    "exit": [
+      "614591159",
+      "614591161"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6447380794": {
+    "entry": [
+      "927639571"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6466197901": {
+    "entry": [
+      "6466198003"
+    ],
+    "exit": [
+      "6466198009"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6466197925": {
+    "entry": [
+      "6466198003"
+    ],
+    "exit": [
+      "6466198009"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6466706638": {
+    "entry": [
+      "1935517057",
+      "2111050436"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "648841153": {
+    "entry": [
+      "648115659"
+    ],
+    "exit": [
+      "5156489545"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "655124495": {
+    "entry": [
+      "273338361",
+      "288377826"
+    ],
+    "exit": [
+      "288375172",
+      "364166587"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6681511134": {
+    "entry": [],
+    "exit": [
+      "2860331924"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "670395913": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "670396011": {
+    "entry": [
+      "4362778962",
+      "670395943",
+      "670395974",
+      "9291929082"
+    ],
+    "exit": [
+      "4362778962",
+      "670395943",
+      "670395974",
+      "8077056791"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6709712041": {
+    "entry": [
+      "2449310401"
+    ],
+    "exit": [
+      "2449310401"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6743732066": {
+    "entry": [],
+    "exit": [
+      "5510160219"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "676003486": {
+    "entry": [
+      "4605390230",
+      "799161000"
+    ],
+    "exit": [
+      "393119615",
+      "9687334086"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "676408802": {
+    "entry": [
+      "670363365"
+    ],
+    "exit": [
+      "2208424576"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "678477031": {
+    "entry": [
+      "678477097"
+    ],
+    "exit": [
+      "678477107"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6786895956": {
+    "entry": [
+      "4879604580",
+      "603072031"
+    ],
+    "exit": [
+      "1251200435",
+      "4402472880"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6821528014": {
+    "entry": [
+      "1638818803"
+    ],
+    "exit": [
+      "1638818803"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6832353492": {
+    "entry": [
+      "309864553",
+      "6420120099"
+    ],
+    "exit": [
+      "309864553",
+      "6420120099",
+      "6832353543"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6872290384": {
+    "entry": [
+      "1659112498"
+    ],
+    "exit": [
+      "1659112498",
+      "8057374316"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6882442474": {
+    "entry": [
+      "13982833549",
+      "270491993",
+      "9536907240"
+    ],
+    "exit": [
+      "13982833549",
+      "2601179723",
+      "9536907270"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6895750703": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "698279318": {
+    "entry": [
+      "1592997557"
+    ],
+    "exit": [
+      "1592997376",
+      "1592997557"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "6984564789": {
+    "entry": [
+      "1784507751"
+    ],
+    "exit": [
+      "1784507751"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "699710933": {
+    "entry": [
+      "699714040",
+      "699714051"
+    ],
+    "exit": [
+      "699714051",
+      "699714069"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "699723501": {
+    "entry": [
+      "4416203853",
+      "4434000486",
+      "4573263992"
+    ],
+    "exit": [
+      "4416203853",
+      "4434000486",
+      "4573263992"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "699790030": {
+    "entry": [],
+    "exit": [
+      "2460186855"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7018301826": {
+    "entry": [
+      "6118509340",
+      "6118509348"
+    ],
+    "exit": [
+      "6118509340",
+      "6118509348"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7022713621": {
+    "entry": [
+      "7022713630"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7031697972": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "705107111": {
+    "entry": [
+      "3887650628"
+    ],
+    "exit": [
+      "3887650628"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7089978280": {
+    "entry": [
+      "7001347494"
+    ],
+    "exit": [
+      "5420389176"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7105141617": {
+    "entry": [],
+    "exit": [
+      "4335094531"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "710540370": {
+    "entry": [
+      "1435632391",
+      "416379943"
+    ],
+    "exit": [
+      "1435632391",
+      "416379943"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7111415496": {
+    "entry": [],
+    "exit": [
+      "270492590"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7119720207": {
+    "entry": [],
+    "exit": [
+      "7903143889"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7134034235": {
+    "entry": [
+      "8615563925"
+    ],
+    "exit": [
+      "8566477141"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7134769731": {
+    "entry": [
+      "3476740070"
+    ],
+    "exit": [
+      "3476740070"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7136847078": {
+    "entry": [
+      "1259568081"
+    ],
+    "exit": [
+      "1259568081"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7158266892": {
+    "entry": [
+      "5977861175"
+    ],
+    "exit": [
+      "8496780226"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7158832063": {
+    "entry": [
+      "1774392030"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7161628260": {
+    "entry": [
+      "2430728520"
+    ],
+    "exit": [
+      "2430728520"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7164262840": {
+    "entry": [
+      "2411302106"
+    ],
+    "exit": [
+      "2411302106"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "718497073": {
+    "entry": [
+      "2877276538"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7276160554": {
+    "entry": [
+      "1311515381",
+      "1311515461",
+      "1311515621"
+    ],
+    "exit": [
+      "1311515381",
+      "1311515461",
+      "1311515621"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7278961680": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7301483738": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7304956011": {
+    "entry": [
+      "3431423998",
+      "3449841201"
+    ],
+    "exit": [
+      "3431424000",
+      "3449841209"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7319419990": {
+    "entry": [],
+    "exit": [
+      "3579397841"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7328142399": {
+    "entry": [],
+    "exit": [
+      "293317347",
+      "3248066426"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "733863041": {
+    "entry": [
+      "4441728789",
+      "4441728790",
+      "5197976108",
+      "8431139837"
+    ],
+    "exit": [
+      "4441728789",
+      "4441728790",
+      "5197976108"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "733932709": {
+    "entry": [
+      "1739266145",
+      "7295939476"
+    ],
+    "exit": [
+      "1739266145",
+      "3520438154",
+      "7295939476"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "733937846": {
+    "entry": [
+      "2079479693"
+    ],
+    "exit": [
+      "2079479693"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "738584648": {
+    "entry": [
+      "899056503",
+      "904908363"
+    ],
+    "exit": [
+      "4327883196",
+      "467352596"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "739113434": {
+    "entry": [
+      "7903143888"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "739502890": {
+    "entry": [],
+    "exit": [
+      "38433200"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "741141564": {
+    "entry": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613334"
+    ],
+    "exit": [
+      "283012543",
+      "286099482",
+      "307448787",
+      "320613326"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7424089938": {
+    "entry": [
+      "6533228410"
+    ],
+    "exit": [
+      "6533228410"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7424089952": {
+    "entry": [
+      "1498076232"
+    ],
+    "exit": [
+      "1498076232"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "742450926": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "742502162": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "742632523": {
+    "entry": [
+      "4327740814",
+      "904896771"
+    ],
+    "exit": [
+      "5094204393",
+      "767963872"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "752308352": {
+    "entry": [
+      "2606667768",
+      "810754523"
+    ],
+    "exit": [
+      "2606667977",
+      "911721671"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "762825952": {
+    "entry": [
+      "1601912202",
+      "8327573035"
+    ],
+    "exit": [
+      "2195382272",
+      "8327573035"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "762936855": {
+    "entry": [
+      "1623135557",
+      "762936853"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "762936872": {
+    "entry": [
+      "1623135557",
+      "762936853"
+    ],
+    "exit": [
+      "2569265263",
+      "762936875"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "762936883": {
+    "entry": [
+      "1623135557",
+      "762936853"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "767355183": {
+    "entry": [
+      "303100174"
+    ],
+    "exit": [
+      "303100174"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "767355444": {
+    "entry": [
+      "303100174"
+    ],
+    "exit": [
+      "303100174"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "775506068": {
+    "entry": [],
+    "exit": [
+      "746895005",
+      "772788171"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "7838454786": {
+    "entry": [],
+    "exit": [
+      "1770585933"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "792611398": {
+    "entry": [],
+    "exit": [
+      "2700294935"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "792611473": {
+    "entry": [],
+    "exit": [
+      "792611703"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "792611571": {
+    "entry": [],
+    "exit": [
+      "370709057"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "792611693": {
+    "entry": [
+      "792611738"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "792636845": {
+    "entry": [
+      "262598215",
+      "290490365",
+      "792636844"
+    ],
+    "exit": [
+      "290490361",
+      "792636833",
+      "792636844"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "799026844": {
+    "entry": [],
+    "exit": [
+      "6874502225"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "799186782": {
+    "entry": [
+      "799186617"
+    ],
+    "exit": [
+      "799186617"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "799193730": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "799721447": {
+    "entry": [],
+    "exit": [
+      "6926793782"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "799734141": {
+    "entry": [
+      "11476978354",
+      "243887980",
+      "7136923858"
+    ],
+    "exit": [
+      "11476978354",
+      "799737711",
+      "799745041"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "799919633": {
+    "entry": [
+      "4443016082",
+      "799919794",
+      "799919816"
+    ],
+    "exit": [
+      "4443016082",
+      "799919794",
+      "799919816"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "799924274": {
+    "entry": [
+      "4443016082",
+      "799919794",
+      "799919816"
+    ],
+    "exit": [
+      "4443016082",
+      "799919794",
+      "799919816"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "802229631": {
+    "entry": [
+      "1778989127",
+      "676049335"
+    ],
+    "exit": [
+      "715343267",
+      "802229651"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "805132214": {
+    "entry": [],
+    "exit": [
+      "9565309026"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "805132289": {
+    "entry": [],
+    "exit": [
+      "392676507"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "805155293": {
+    "entry": [
+      "805155381",
+      "811215868"
+    ],
+    "exit": [
+      "805155381",
+      "811215868"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "805155311": {
+    "entry": [
+      "805155356"
+    ],
+    "exit": [
+      "805155356"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "805155345": {
+    "entry": [
+      "389492764"
+    ],
+    "exit": [
+      "389492764"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "805155353": {
+    "entry": [
+      "805155381",
+      "811215868"
+    ],
+    "exit": [
+      "805155381",
+      "811215868"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "810010017": {
+    "entry": [
+      "6106174019",
+      "755769252",
+      "810012453"
+    ],
+    "exit": [
+      "6106174019",
+      "755769252",
+      "810012453"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "811215872": {
+    "entry": [
+      "4831874282"
+    ],
+    "exit": [
+      "4831874282"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "812644126": {
+    "entry": [
+      "7715193650"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "849136420": {
+    "entry": [
+      "12965525696",
+      "1695812892",
+      "8888284779",
+      "8888284785"
+    ],
+    "exit": [
+      "12965525696",
+      "1695812892",
+      "849152333",
+      "849152336"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "850376340": {
+    "entry": [
+      "12965525696",
+      "1695812892",
+      "8888284779",
+      "8888284785"
+    ],
+    "exit": [
+      "12965525696",
+      "1695812892",
+      "849152333",
+      "849152336"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "8553634282": {
+    "entry": [
+      "1606576225"
+    ],
+    "exit": [
+      "1606576225"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "8555781411": {
+    "entry": [
+      "4443026215",
+      "4443026216",
+      "4696533856"
+    ],
+    "exit": [
+      "4443026215",
+      "4443026216",
+      "4696533856"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "8566468809": {
+    "entry": [
+      "7134553735"
+    ],
+    "exit": [
+      "7134553735"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "8566477077": {
+    "entry": [
+      "11463411727",
+      "7134545155"
+    ],
+    "exit": [
+      "11463411727",
+      "7134545155"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "8566477127": {
+    "entry": [
+      "7134553730"
+    ],
+    "exit": [
+      "7134553730"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "8577895543": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "8591659556": {
+    "entry": [
+      "1749776219",
+      "1749776220",
+      "390870115",
+      "7308485863",
+      "7362894419",
+      "8622013072"
+    ],
+    "exit": [
+      "1749778319",
+      "1749778320",
+      "7308485863",
+      "8622013070",
+      "8622013071",
+      "8622013072"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "867715873": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "891677559": {
+    "entry": [
+      "3799407241"
+    ],
+    "exit": [
+      "3799407241"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "897141865": {
+    "entry": [
+      "2989023686",
+      "3196964360"
+    ],
+    "exit": [
+      "3196964360",
+      "752415049"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "899052427": {
+    "entry": [
+      "373880699",
+      "4180129852"
+    ],
+    "exit": [
+      "373880682",
+      "4180129813"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "899059562": {
+    "entry": [
+      "4327740814",
+      "904896771"
+    ],
+    "exit": [
+      "5094204393",
+      "767963872"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9045076449": {
+    "entry": [
+      "1784507751"
+    ],
+    "exit": [
+      "1784507751"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9045115759": {
+    "entry": [
+      "5664056425"
+    ],
+    "exit": [
+      "5664056425"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9047313810": {
+    "entry": [
+      "4443026215",
+      "4443026216",
+      "4696533856"
+    ],
+    "exit": [
+      "4443026215",
+      "4443026216",
+      "4696533856"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "904908379": {
+    "entry": [
+      "899056503",
+      "904908363"
+    ],
+    "exit": [
+      "4327883196",
+      "467352596"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "911721713": {
+    "entry": [
+      "2606667768",
+      "810754523"
+    ],
+    "exit": [
+      "2606667977",
+      "911721671"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "911736551": {
+    "entry": [
+      "447841897"
+    ],
+    "exit": [
+      "11052455236"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "911756511": {
+    "entry": [
+      "4441728789",
+      "4441728790",
+      "5197976108",
+      "8431139837"
+    ],
+    "exit": [
+      "4441728789",
+      "4441728790",
+      "5197976108"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "919617354": {
+    "entry": [],
+    "exit": [
+      "3851809271"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9225607886": {
+    "entry": [
+      "1259568081"
+    ],
+    "exit": [
+      "1259568081"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9235132463": {
+    "entry": [],
+    "exit": [
+      "9235132458"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9240468317": {
+    "entry": [],
+    "exit": [
+      "9230170924"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9240468712": {
+    "entry": [],
+    "exit": [
+      "3399599684"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9309987594": {
+    "entry": [
+      "9627489717"
+    ],
+    "exit": [
+      "9627489717"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "9309987602": {
+    "entry": [
+      "7682201011"
+    ],
+    "exit": [
+      "7682201011"
+    ],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "934214312": {
+    "entry": [
+      "391206660"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "980047475": {
+    "entry": [
+      "726519300"
+    ],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  },
+  "983510751": {
+    "entry": [],
+    "exit": [],
+    "method": "OSM_link_component_and_named_toll_gate"
+  }
+}
