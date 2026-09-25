@@ -91,7 +91,12 @@ def main():
     route.add_argument("end")
     route.add_argument("--data", type=Path, default=Path("data/processed"))
     route.add_argument("--mode", choices=["access", "junction"], default="access")
+    from .fee_cli import add_fee_arguments, run_fee
+    fee = commands.add_parser("fee", help="車種・入口IC・出口ICから料金区分別距離と概算料金を表示")
+    add_fee_arguments(fee)
     args = parser.parse_args()
+    if args.command == "fee":
+        raise SystemExit(run_fee(args, parser))
     try:
         if args.command == "build":
             generate(args.inputs, args.output, args.rules, args.bbox)
